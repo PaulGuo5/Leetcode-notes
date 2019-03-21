@@ -38,7 +38,7 @@ Table of Contents
 ## Bit Manipulation
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
 |---|-----|--------|----|----------|----|-----|---|
-|No.136|[Single Number](https://leetcode.com/problems/single-number/)|[Solution](./0136/0136.py)|[Note](./0136/note.md)|Easy|O(n)|O(1)|Bit Manipulation|
+|No.136|[Single Number](https://leetcode.com/problems/single-number/)|[Solution](./0136/0136.py)|[Note](./0136/note0136.md)|Easy|O(n)|O(1)|Bit Manipulation|
 
 
 
