@@ -63,6 +63,7 @@ Table of Contents
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
 |---|-----|--------|----|----------|----|-----|---|
 |No.82|[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)|[Solution](./0082/0082.py)|[Note](./0082/note0082.md)|Medium|O(n)|O(1)|---|
+|No.21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[Solution](./0021/0021.py)|[Note](./0021/note0021.md)|Easy|O(n)|O(1)|Dummy node|
 
 
 
