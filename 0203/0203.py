@@ -16,3 +16,15 @@ class Solution:
             head = head.next
         curr.next = None
         return dummy.next
+
+
+    def removeElements(self, head: ListNode, val: int) -> ListNode:
+        dummy = ListNode(0)
+        dummy.next = head
+        cur = dummy
+        while cur.next and cur.next:
+            if cur.next.val == val:
+                cur.next = cur.next.next
+            else:
+                cur = cur.next
+        return dummy.next

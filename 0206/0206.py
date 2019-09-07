@@ -7,7 +7,7 @@
 class Solution:
     def reverseList(self, head: ListNode) -> ListNode:
         if not head:
-            return[]
+            return head
         tail = head
         curr = head.next
         while curr:
@@ -16,3 +16,15 @@ class Solution:
             tail = curr
             curr = head.next
         return tail
+    
+    
+    def reverseList1(self, head: ListNode) -> ListNode:
+        dummy = ListNode(0)
+        dummy.next = head
+        tail = dummy
+        while head and head.next:
+            tmp = head.next
+            head.next = tmp.next
+            tmp.next = tail.next
+            tail.next = tmp
+        return dummy.next

@@ -41,3 +41,19 @@ class Solution(object):
             currA = currA.next
             currB = currB.next
         return start
+
+
+    def getIntersectionNode(self, headA, headB):
+        ptA, ptB = headA, headB
+        flag = 0 # l1+l2 or l2+l1
+        while ptA and ptB:
+            if ptA == ptB:
+                return ptA
+            ptA = ptA.next
+            ptB = ptB.next
+            if not ptA and not flag:
+                ptA = headB
+                flag = 1
+            if not ptB:
+                ptB = headA
+        return None
