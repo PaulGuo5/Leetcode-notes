@@ -71,8 +71,9 @@ Table of Contents
 |No.237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|[Solution](./0237/0237.py)|[Note](./0237/note0237.md)|Easy|O(1)|O(1)|---|
 |No.234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)|[Solution](./0234/0234.py)|[Note](./0234/note0234.md)|Easy|O(n)|O(n)|---|
 |No.206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[Solution](./0206/0206.py)|[Note](./0206/note0206.md)|Easy|O(n)|O(1)|---|
-
-
+|No.92|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)|[Solution](./0092/0092.py)|[Note](./0092/note0092.md)|Medium|O(n)|O(1)|---|
+|No.2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[Solution](./0002/0002.py)|[Note](./0002/note0002.md)|Medium|O(n)|O(n)|---|
+|No.19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[Solution](./0019/0019.py)|[Note](./0019/note0019.md)|Medium|O(n)|O(1)|---|
 
 
 ## Stack
