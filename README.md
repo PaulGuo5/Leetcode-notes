@@ -74,6 +74,13 @@ Table of Contents
 |No.92|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)|[Solution](./0092/0092.py)|[Note](./0092/note0092.md)|Medium|O(n)|O(1)|---|
 |No.2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[Solution](./0002/0002.py)|[Note](./0002/note0002.md)|Medium|O(n)|O(n)|---|
 |No.19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[Solution](./0019/0019.py)|[Note](./0019/note0019.md)|Medium|O(n)|O(1)|---|
+|No.141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[Solution](./0141/0141.py)|[Note](./0141/note0141.md)|Easy|O(n)|O(1)|fast slow pointers|
+|No.142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)|[Solution](./0142/0142.py)|[Note](./0142/note0142.md)|Easy|O(n)|O(1)|fast slow pointers|
+|No.23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)|[Solution](./0023/0023.py)|[Note](./0023/note0023.md)|Easy|O(nlogn)|O(nk)|---|
+|No.61|[Rotate List](https://leetcode.com/problems/rotate-list/)|[Solution](./0061/0061.py)|[Note](./0061/note0061.md)|Medium|O(n)|O(1)|---|
+
+
+
 
 
 ## Stack
