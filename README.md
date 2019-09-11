@@ -78,6 +78,9 @@ Table of Contents
 |No.142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)|[Solution](./0142/0142.py)|[Note](./0142/note0142.md)|Easy|O(n)|O(1)|fast slow pointers|
 |No.23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)|[Solution](./0023/0023.py)|[Note](./0023/note0023.md)|Easy|O(nlogn)|O(nk)|---|
 |No.61|[Rotate List](https://leetcode.com/problems/rotate-list/)|[Solution](./0061/0061.py)|[Note](./0061/note0061.md)|Medium|O(n)|O(1)|---|
+|No.138|[Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)|[Solution](./0138/0138.py)|[Note](./0138/note0138.md)|Medium|O(n)|O(n)|---|
+|No.86|[Partition List](https://leetcode.com/problems/partition-list/)|[Solution](./0086/0086.py)|[Note](./0086/note0086.md)|Medium|O(n)|O(n)|---|
+|No.143|[Reorder List](https://leetcode.com/problems/reorder-list/)|[Solution](./0143/0143.py)|[Note](./0143/note0143.md)|Medium|O(n)|O(n)|---|
 
 
 
@@ -111,6 +114,12 @@ Table of Contents
 ## Binary Tree
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
 |---|-----|--------|----|----------|----|-----|---|
+|No.226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|[Solution](./0226/0226.py)|[Note](./0226/note0226.md)|Easy|O(logn)|O(n)|---|
+|No.538|[Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/)|[Solution](./0538/0538.py)|[Note](./0538/note0538.md)|Easy|O(logn)|O(n)|---|
+|No.543|[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)|[Solution](./0543/0543.py)|[Note](./0543/note0543.md)|Easy|O(logn)|O(n)|---|
+|No.687|[Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path/)|[Solution](./0687/0687.py)|[Note](./0687/note0687.md)|Easy|O(logn)|O(n)|---|
+|No.897|[Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree/)|[Solution](./0897/0897.py)|[Note](./0897/note0897.md)|Easy|O(n)|O(n)|---|
+
 
 
 
