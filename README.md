@@ -89,7 +89,7 @@ Table of Contents
 ## Stack
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
 |---|-----|--------|----|----------|----|-----|---|
-
+|No.56|[Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[Solution](./0056/0056.py)|[Note](./0056/note0056.md)|Medium|O(n)|O(n)|---|
 
 
 
@@ -119,8 +119,19 @@ Table of Contents
 |No.543|[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)|[Solution](./0543/0543.py)|[Note](./0543/note0543.md)|Easy|O(logn)|O(n)|---|
 |No.687|[Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path/)|[Solution](./0687/0687.py)|[Note](./0687/note0687.md)|Easy|O(logn)|O(n)|---|
 |No.897|[Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree/)|[Solution](./0897/0897.py)|[Note](./0897/note0897.md)|Easy|O(n)|O(n)|---|
-
-
+|No.617|[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)|[Solution](./0617/0617.py)|[Note](./0617/note0617.md)|Easy|O(n)|O(n)|---|
+|No.606|[Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/)|[Solution](./0606/0606.py)|[Note](./0606/note0606.md)|Easy|O(n)|O(n)|---|
+|No.572|[Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)|[Solution](./0572/0572.py)|[Note](./0572/note0572.md)|Easy|O(n)|O(n)|---|
+|No.563|[Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/)|[Solution](./0563/0563.py)|[Note](./0563/note0563.md)|Easy|O(n)|O(n)|---|
+|No.94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[Solution](./0094/0094.py)|[Note](./0094/note0094.md)|Medium|O(n)|O(n)|---|
+|No.112|[Path Sum](https://leetcode.com/problems/path-sum/)|[Solution](./0112/0112.py)|[Note](./0112/note0112.md)|Easy|O(n)|O(n)|---|
+|No.257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)|[Solution](./0257/0257.py)|[Note](./0257/note0257.md)|Easy|O(n)|O(n)|---|
+|No.701|[Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/)|[Solution](./0701/0701.py)|[Note](./0701/note0701.md)|Medium|O(logn)|O(n)|---|
+|No.1008|[Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/)|[Solution](./1008/1008.py)|[Note](./1008/note1008.md)|Medium|O(logn)|O(n)|---|
+|No.144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)|[Solution](./0144/0144.py)|[Note](./0144/note144.md)|Medium|O(n)|O(n)|---|
+|No.814|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-pruning/)|[Solution](./0814/0814.py)|[Note](./0814/note814.md)|Medium|O(n)|O(n)|---|
+|No.145|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-pruning/)|[Solution](./0145/0145.py)|[Note](./0145/note145.md)|Medium|O(n)|O(n)|---|
+|No.102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|[Solution](./0102/0102.py)|[Note](./0102/note102.md)|Medium|O(n)|O(n)|---|
 
 
 

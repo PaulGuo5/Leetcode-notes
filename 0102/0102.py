@@ -4,9 +4,10 @@
 #         self.val = x
 #         self.left = None
 #         self.right = None
-
+from collections import deque
+from collections import defaultdict
 class Solution:
-    def levelOrder(self, root: TreeNode) -> List[List[int]]:
+    def levelOrder1(self, root: TreeNode) -> List[List[int]]:
         if not root:
             return []
         res, queue, level = [], [], []
@@ -27,3 +28,17 @@ class Solution:
                 level = []
         return res
     
+    
+    def levelOrder(self, root: TreeNode) -> List[List[int]]:
+        if not root: return []
+        table = defaultdict(list)
+        level = 0
+        queue = deque([(root, level)])
+        while queue:
+            cur, level = queue.popleft()
+            table[level].append(cur.val)
+            if cur.left:
+                queue.append((cur.left, level+1))
+            if cur.right:
+                queue.append((cur.right, level+1))   
+        return [table[index] for index in range(len(table))]

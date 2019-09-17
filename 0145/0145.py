@@ -6,7 +6,7 @@
 #         self.right = None
 
 class Solution:
-    def postorderTraversal(self, root: TreeNode) -> List[int]:
+    def postorderTraversal1(self, root: TreeNode) -> List[int]:
         if not root:
             return []
         def dfs(root, res):
@@ -17,3 +17,44 @@ class Solution:
             res.append(root.val)
             return res
         return dfs(root, [])
+    
+    
+    def postorderTraversal2(self, root: TreeNode) -> List[int]:
+        if not root: return []
+        def reverseTree(root):
+            if not root:
+                return
+            root.left, root.right = root.right, root.left
+            reverseTree(root.left)
+            reverseTree(root.right)
+            return root
+        root = reverseTree(root)
+        stack, res = [], []
+        node = root
+        while stack or node:
+            while node:
+                res.append(node.val)
+                stack.append(node)
+                node = node.left
+            node = stack.pop()
+            node = node.right
+        return res[::-1]
+    
+    
+    def postorderTraversal(self, root: TreeNode) -> List[int]:
+        if not root: return []
+        res, stack = [], []
+        last_visited = ''
+        while root or stack:
+            while root:
+                stack.append(root)
+                root = root.left
+            cur = stack[-1]
+            if not cur.right or cur.right == last_visited:
+                item = stack.pop()
+                res.append(item.val)
+                last_visited = item
+            elif cur.right:
+                root = cur.right
+        return res
+                
