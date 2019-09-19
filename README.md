@@ -132,8 +132,10 @@ Table of Contents
 |No.814|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-pruning/)|[Solution](./0814/0814.py)|[Note](./0814/note814.md)|Medium|O(n)|O(n)|---|
 |No.145|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-pruning/)|[Solution](./0145/0145.py)|[Note](./0145/note145.md)|Medium|O(n)|O(n)|---|
 |No.102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|[Solution](./0102/0102.py)|[Note](./0102/note102.md)|Medium|O(n)|O(n)|---|
-
-
+|No.105|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)|[Solution](./0105/0105.py)|[Note](./0105/note105.md)|Medium|O(n)|O(n)|---|
+|No.106|[Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)|[Solution](./0106/0106.py)|[Note](./0106/note106.md)|Medium|O(n)|O(n)|---|
+|No.116|[Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)|[Solution](./0116/0116.py)|[Note](./0116/note116.md)|Medium|O(n)|O(n)|---|
+|No.117|[Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)|[Solution](./0117/0117.py)|[Note](./0117/note117.md)|Medium|O(n)|O(n)|---|
 
 ## Hash Table
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
