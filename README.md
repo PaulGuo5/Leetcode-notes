@@ -159,7 +159,7 @@ Table of Contents
 ## Binary Search
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
 |---|-----|--------|----|----------|----|-----|---|
-
+|No.4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)|[Solution](./0004/0004.py)|[Note](./0004/note0004.md)|Hard|O(log(m+n))|O(n)|---|
 
 
 ## Binary Search Tree
