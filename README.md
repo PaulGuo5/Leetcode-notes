@@ -48,7 +48,7 @@ Table of Contents
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
 |---|-----|--------|----|----------|----|-----|---|
 |No.42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)|[Solution](./0042/0042.py)|[Note](./0042/note0042.md)|Hard|O(m)|O(1)|2 pointers|
-
+|No.289|[Game of Life](https://leetcode.com/problems/game-of-life/)|[Solution](./0289/0289.py)|[Note](./0289/note0289.md)|Medium|O(nm)|O(1)|Bit|
 
 
 ## String
@@ -59,7 +59,8 @@ Table of Contents
 |No.3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[Solution](./0003/0003.py)|[Note](./0003/note0003.md)|Medium|O(n)|O(n)|slide window|
 |No.15|[3Sum](https://leetcode.com/problems/3sum/)|[Solution](./0015/0015.py)|[Note](./0015/note0015.md)|Medium|O(n^2)|O(1)|2 pointers|
 |No.301|[Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/)|[Solution](./0001/0301.py)|[Note](./0301/note0301.md)|Hard|O(2^(l+r))|O(n^2)|dfs|
-|No.76|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)|[Solution](./0001/0076.py)|[Note](./0076/note0076.md)|Hard|O(n))|O(n)|dfs|
+|No.76|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)|[Solution](./0076/0076.py)|[Note](./0076/note0076.md)|Hard|O(n))|O(n)|dfs|
+|No.22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)|[Solution](./0001/0022.py)|[Note](./0022/note0022.md)|Medium|O(2^n))|O(n)|dfs|
 
 ## Linked List
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
@@ -162,6 +163,7 @@ Table of Contents
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
 |---|-----|--------|----|----------|----|-----|---|
 |No.4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)|[Solution](./0004/0004.py)|[Note](./0004/note0004.md)|Hard|O(log(m+n))|O(n)|---|
+|No.33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[Solution](./0033/0033.py)|[Note](./0033/note0033.md)|Medium|O(log(n))|O(1)|---|
 
 
 ## Binary Search Tree
@@ -179,7 +181,7 @@ Table of Contents
 ## Math
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
 |---|-----|--------|----|----------|----|-----|---|
-
+|No.7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[Solution](./0007/0007.py)|[Note](./0007/note0007.md)|Easy|O(n)|O(1)|---|
 
 
 ## Graph
@@ -197,4 +199,5 @@ Table of Contents
 ## Dynamic Programming
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
 |---|-----|--------|----|----------|----|-----|---|
-|No.53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[Solution](./0053/0053.py)|[Note](./0053/note053.md)|Medium|O(n)|O(n)|---|
+|No.53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[Solution](./0053/0053.py)|[Note](./0053/note0053.md)|Medium|O(n)|O(n)|---|
+|No.121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[Solution](./0121/0121.py)|[Note](./0121/note0121.md)|Easy|O(n)|O(1)|---|
