@@ -47,7 +47,7 @@ Table of Contents
 ## Array
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
 |---|-----|--------|----|----------|----|-----|---|
-
+|No.42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)|[Solution](./0042/0042.py)|[Note](./0042/note0042.md)|Hard|O(m)|O(1)|2 pointers|
 
 
 
@@ -56,8 +56,10 @@ Table of Contents
 |---|-----|--------|----|----------|----|-----|---|
 |No.409|[Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)|[Solution](./0409/0409.py)|[Note](./0409/note0409.md)|Easy|O(n)|O(n)|---|
 |No.5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)|[Solution](./0005/0005.py)|[Note](./0005/note0005.md)|Medium|O(n^2)|O(1)|Greedy|
-
-
+|No.3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[Solution](./0003/0003.py)|[Note](./0003/note0003.md)|Medium|O(n)|O(n)|slide window|
+|No.15|[3Sum](https://leetcode.com/problems/3sum/)|[Solution](./0015/0015.py)|[Note](./0015/note0015.md)|Medium|O(n^2)|O(1)|2 pointers|
+|No.301|[Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/)|[Solution](./0001/0301.py)|[Note](./0301/note0301.md)|Hard|O(2^(l+r))|O(n^2)|dfs|
+|No.76|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)|[Solution](./0001/0076.py)|[Note](./0076/note0076.md)|Hard|O(n))|O(n)|dfs|
 
 ## Linked List
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
@@ -90,7 +92,7 @@ Table of Contents
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
 |---|-----|--------|----|----------|----|-----|---|
 |No.56|[Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[Solution](./0056/0056.py)|[Note](./0056/note0056.md)|Medium|O(n)|O(n)|---|
-
+|No.20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[Solution](./0020/0020.py)|[Note](./0020/note0020.md)|Easy|O(n)|O(n)|---|
 
 
 
@@ -146,7 +148,7 @@ Table of Contents
 ## Sort
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
 |---|-----|--------|----|----------|----|-----|---|
-
+|No.973|[K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)|[Solution](./0973/0973.py)|[Note](./0973/note973.md)|Medium|O(n)|O(n)|---|
 
 
 
@@ -183,7 +185,7 @@ Table of Contents
 ## Graph
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
 |---|-----|--------|----|----------|----|-----|---|
-
+|No.200|[Number of Islands](https://leetcode.com/problems/number-of-islands/)|[Solution](./0200/0200.py)|[Note](./0200/note200.md)|Medium|O(mn)|O(1)|dfs|
 
 ## Backtracking
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
@@ -195,3 +197,4 @@ Table of Contents
 ## Dynamic Programming
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
 |---|-----|--------|----|----------|----|-----|---|
+|No.53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[Solution](./0053/0053.py)|[Note](./0053/note053.md)|Medium|O(n)|O(n)|---|
