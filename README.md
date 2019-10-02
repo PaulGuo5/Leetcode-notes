@@ -49,6 +49,9 @@ Table of Contents
 |---|-----|--------|----|----------|----|-----|---|
 |No.42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)|[Solution](./0042/0042.py)|[Note](./0042/note0042.md)|Hard|O(m)|O(1)|2 pointers|
 |No.289|[Game of Life](https://leetcode.com/problems/game-of-life/)|[Solution](./0289/0289.py)|[Note](./0289/note0289.md)|Medium|O(nm)|O(1)|Bit|
+|No.11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|[Solution](./0011/0011.py)|[Note](./0011/note0011.md)|Medium|O(n)|O(1)|2 pointers|
+|No.560|[Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)|[Solution](./0560/0560.py)|[Note](./0560/note0560.md)|Medium|O(n)|O(n)|---|
+|No.54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[Solution](./0054/0054.py)|[Note](./0054/note0054.md)|Medium|O(n)|O(n)|---|
 
 
 ## String
@@ -61,6 +64,9 @@ Table of Contents
 |No.301|[Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/)|[Solution](./0001/0301.py)|[Note](./0301/note0301.md)|Hard|O(2^(l+r))|O(n^2)|dfs|
 |No.76|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)|[Solution](./0076/0076.py)|[Note](./0076/note0076.md)|Hard|O(n))|O(n)|dfs|
 |No.22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)|[Solution](./0001/0022.py)|[Note](./0022/note0022.md)|Medium|O(2^n))|O(n)|dfs|
+|No.49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[Solution](./0049/0049.py)|[Note](./0049/note0049.md)|Medium|O(n))|O(n)|---|
+|No.336|[Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs/)|[Solution](./0336/0336.py)|[Note](./0336/note0336.md)|Hard|O(n^2))|O(n)|---|
+
 
 ## Linked List
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
