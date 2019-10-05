@@ -52,7 +52,8 @@ Table of Contents
 |No.11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|[Solution](./0011/0011.py)|[Note](./0011/note0011.md)|Medium|O(n)|O(1)|2 pointers|
 |No.560|[Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)|[Solution](./0560/0560.py)|[Note](./0560/note0560.md)|Medium|O(n)|O(n)|---|
 |No.54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[Solution](./0054/0054.py)|[Note](./0054/note0054.md)|Medium|O(n)|O(n)|---|
-
+|No.380|[Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)|[Solution](./0380/0380.py)|[Note](./0380/note0380.md)|Medium|O(n)|O(n)|---|
+|No.79|[Word Search](https://leetcode.com/problems/word-search/)|[Solution](./0079/0079.py)|[Note](./0079/note0079.md)|Medium|O(nm)|O(nm)|---|
 
 ## String
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
