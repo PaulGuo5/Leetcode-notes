@@ -67,6 +67,9 @@ Table of Contents
 |No.22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)|[Solution](./0001/0022.py)|[Note](./0022/note0022.md)|Medium|O(2^n))|O(n)|dfs|
 |No.49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[Solution](./0049/0049.py)|[Note](./0049/note0049.md)|Medium|O(n))|O(n)|---|
 |No.336|[Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs/)|[Solution](./0336/0336.py)|[Note](./0336/note0336.md)|Hard|O(n^2))|O(n)|---|
+|No.68|[Text Justification](https://leetcode.com/problems/text-justification/)|[Solution](./0068/0068.py)|[Note](./0068/note0068.md)|Hard|O(n))|O(n)|---|
+|No.17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|[Solution](./0017/0017.py)|[Note](./0017/note0017.md)|Medium|O(4^n))|O(4^n+n)|dfs|
+
 
 
 ## Linked List
