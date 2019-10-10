@@ -211,3 +211,4 @@ Table of Contents
 |---|-----|--------|----|----------|----|-----|---|
 |No.53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[Solution](./0053/0053.py)|[Note](./0053/note0053.md)|Medium|O(n)|O(n)|---|
 |No.121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[Solution](./0121/0121.py)|[Note](./0121/note0121.md)|Easy|O(n)|O(1)|---|
+|No.10|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)|[Solution](./0010/0010.py)|[Note](./0010/note0010.md)|Hard|O(n*m)|O(n*m)|---|
