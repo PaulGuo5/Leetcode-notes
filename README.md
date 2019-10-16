@@ -149,6 +149,8 @@ Table of Contents
 |No.106|[Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)|[Solution](./0106/0106.py)|[Note](./0106/note106.md)|Medium|O(n)|O(n)|---|
 |No.116|[Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)|[Solution](./0116/0116.py)|[Note](./0116/note116.md)|Medium|O(n)|O(n)|---|
 |No.117|[Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)|[Solution](./0117/0117.py)|[Note](./0117/note117.md)|Medium|O(n)|O(n)|---|
+|No.652|[Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees/)|[Solution](./01652/0652.py)|[Note](./0652/note652.md)|Medium|O(n^2)|O(n)^2|---|
+
 
 ## Hash Table
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
