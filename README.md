@@ -69,7 +69,7 @@ Table of Contents
 |No.336|[Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs/)|[Solution](./0336/0336.py)|[Note](./0336/note0336.md)|Hard|O(n^2))|O(n)|---|
 |No.68|[Text Justification](https://leetcode.com/problems/text-justification/)|[Solution](./0068/0068.py)|[Note](./0068/note0068.md)|Hard|O(n))|O(n)|---|
 |No.17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|[Solution](./0017/0017.py)|[Note](./0017/note0017.md)|Medium|O(4^n))|O(4^n+n)|dfs|
-
+|No.468|[Validate IP Address](https://leetcode.com/problems/validate-ip-address/)|[Solution](./0468/0468.py)|[Note](./0468/note0468.md)|Medium|O(n))|O(n)|---|
 
 
 ## Linked List
@@ -174,7 +174,7 @@ Table of Contents
 |---|-----|--------|----|----------|----|-----|---|
 |No.4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)|[Solution](./0004/0004.py)|[Note](./0004/note0004.md)|Hard|O(log(m+n))|O(n)|---|
 |No.33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[Solution](./0033/0033.py)|[Note](./0033/note0033.md)|Medium|O(log(n))|O(1)|---|
-
+|No.34|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[Solution](./0034/0034.py)|[Note](./0034/note0034.md)|Medium|O(log(n))|O(1)|---|
 
 ## Binary Search Tree
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
@@ -198,6 +198,8 @@ Table of Contents
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
 |---|-----|--------|----|----------|----|-----|---|
 |No.200|[Number of Islands](https://leetcode.com/problems/number-of-islands/)|[Solution](./0200/0200.py)|[Note](./0200/note200.md)|Medium|O(mn)|O(1)|dfs|
+|No.332|[Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/)|[Solution](./0332/0332.py)|[Note](./0332/note332.md)|Medium|O(nlogn)|O(n)|dfs|
+|No.399|[Evaluate Division](https://leetcode.com/problems/evaluate-division/)|[Solution](./0399/0399.py)|[Note](./0399/note399.md)|Medium|O(n)|O(n)|dfs|
 
 ## Backtracking
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
