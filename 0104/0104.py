@@ -6,7 +6,7 @@
 #         self.right = None
 
 class Solution:
-    def maxDepth(self, root: TreeNode) -> int:
+    def maxDepth1(self, root: TreeNode) -> int:
         def dfs(root, depth):
             if not root:
                 return depth
@@ -14,3 +14,9 @@ class Solution:
                 return depth + 1
             return max(dfs(root.left, depth + 1), dfs(root.right, depth + 1))
         return dfs(root, 0)
+    
+    
+    def maxDepth(self, root: TreeNode) -> int:
+        if not root:
+            return 0
+        return max(self.maxDepth(root.left) + 1, self.maxDepth(root.right)+1)

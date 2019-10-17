@@ -150,7 +150,9 @@ Table of Contents
 |No.116|[Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)|[Solution](./0116/0116.py)|[Note](./0116/note116.md)|Medium|O(n)|O(n)|---|
 |No.117|[Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)|[Solution](./0117/0117.py)|[Note](./0117/note117.md)|Medium|O(n)|O(n)|---|
 |No.652|[Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees/)|[Solution](./01652/0652.py)|[Note](./0652/note652.md)|Medium|O(n^2)|O(n)^2|---|
-
+|No.104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[Solution](./01104/0104.py)|[Note](./0104/note104.md)|Medium|O(n)|O(n)|---|
+|No.655|[Print Binary Tree](https://leetcode.com/problems/print-binary-tree/)|[Solution](./01655/0655.py)|[Note](./0655/note655.md)|Medium|O(n)|O(n)|dfs/binary search|
+|No.297|[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)|[Solution](./01297/0297.py)|[Note](./0297/note297.md)|Hard|O(n)|O(n)|dfs/iter()|
 
 ## Hash Table
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
