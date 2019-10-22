@@ -23,6 +23,7 @@ class Codec:
                 write(root.right)
         res = []
         write(root)
+        print(res)
         return " ".join(res)
 
     def deserialize(self, data):
@@ -31,8 +32,20 @@ class Codec:
         :type data: str
         :rtype: TreeNode
         """
+#         def read():
+#             val = next(vals)
+#             if val == "#":
+#                 return None
+#             node = TreeNode(int(val))
+#             node.left = read()
+#             node.right = read()
+#             return node
+        
+#         vals = iter(data.split())
+#         return read()
+    
         def read():
-            val = next(vals)
+            val = vals.popleft()
             if val == "#":
                 return None
             node = TreeNode(int(val))
@@ -40,7 +53,7 @@ class Codec:
             node.right = read()
             return node
         
-        vals = iter(data.split())
+        vals = collections.deque(data.split(" "))
         return read()
                 
 # Your Codec object will be instantiated and called as such:

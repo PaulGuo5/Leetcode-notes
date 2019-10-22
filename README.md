@@ -104,7 +104,7 @@ Table of Contents
 |---|-----|--------|----|----------|----|-----|---|
 |No.56|[Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[Solution](./0056/0056.py)|[Note](./0056/note0056.md)|Medium|O(n)|O(n)|---|
 |No.20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[Solution](./0020/0020.py)|[Note](./0020/note0020.md)|Easy|O(n)|O(n)|---|
-
+|No.224|[Basic Calculator](https://leetcode.com/problems/basic-calculator/)|[Solution](./0224/0224.py)|[Note](./0224/note0224.md)|Hard|O(n)|O(n)|---|
 
 
 
@@ -152,7 +152,9 @@ Table of Contents
 |No.652|[Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees/)|[Solution](./01652/0652.py)|[Note](./0652/note652.md)|Medium|O(n^2)|O(n)^2|---|
 |No.104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[Solution](./01104/0104.py)|[Note](./0104/note104.md)|Medium|O(n)|O(n)|---|
 |No.655|[Print Binary Tree](https://leetcode.com/problems/print-binary-tree/)|[Solution](./01655/0655.py)|[Note](./0655/note655.md)|Medium|O(n)|O(n)|dfs/binary search|
-|No.297|[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)|[Solution](./01297/0297.py)|[Note](./0297/note297.md)|Hard|O(n)|O(n)|dfs/iter()|
+|No.297|[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)|[Solution](./0297/0297.py)|[Note](./0297/note297.md)|Hard|O(n)|O(n)|dfs/iter()/dequeue()|
+|No.428|[Serialize and Deserialize N-ary Tree](https://leetcode.com/problems/serialize-and-deserialize-n-ary-tree/)|[Solution](./0428/0428.py)|[Note](./0428/note428.md)|Hard|O(n)|O(n)|dfs/dequeue()|
+|No.124|[Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)|[Solution](./0124/0124.py)|[Note](./0124/note124.md)|Hard|O(n)|O(n)|---|
 
 ## Hash Table
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
