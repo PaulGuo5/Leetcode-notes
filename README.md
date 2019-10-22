@@ -158,6 +158,8 @@ Table of Contents
 |No.428|[Serialize and Deserialize N-ary Tree](https://leetcode.com/problems/serialize-and-deserialize-n-ary-tree/)|[Solution](./0428/0428.py)|[Note](./0428/note428.md)|Hard|O(n)|O(n)|dfs/dequeue()|
 |No.124|[Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)|[Solution](./0124/0124.py)|[Note](./0124/note124.md)|Hard|O(n)|O(n)|---|
 |No.449|[Serialize and Deserialize BST](https://leetcode.com/problems/serialize-and-deserialize-bst/)|[Solution](./0449/0449.py)|[Note](./0449/note449.md)|Medium|O(n)|O(n)|---|
+|No.103|[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)|[Solution](./0103/0103.py)|[Note](./0103/note103.md)|Medium|O(n)|O(n)|level traversal|
+|No.119|[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)|[Solution](./0119/0119.py)|[Note](./0119/note119.md)|Medium|O(n)|O(n)|level traversal|
 
 
 ## Hash Table
