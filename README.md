@@ -54,6 +54,8 @@ Table of Contents
 |No.54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[Solution](./0054/0054.py)|[Note](./0054/note0054.md)|Medium|O(n)|O(n)|---|
 |No.380|[Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)|[Solution](./0380/0380.py)|[Note](./0380/note0380.md)|Medium|O(n)|O(n)|---|
 |No.79|[Word Search](https://leetcode.com/problems/word-search/)|[Solution](./0079/0079.py)|[Note](./0079/note0079.md)|Medium|O(nm)|O(nm)|---|
+|No.78|[Subsets](https://leetcode.com/problems/subsets/)|[Solution](./0078/0078.py)|[Note](./0078/note0078.md)|Medium|O(2^n)|O(2^n)|iterative or dfs|
+|No.90|[Subsets II](https://leetcode.com/problems/subsets-ii/)|[Solution](./0090/0090.py)|[Note](./0090/note0090.md)|Medium|O(2^n)|O(2^n)|iterative or dfs|
 
 ## String
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
@@ -155,6 +157,8 @@ Table of Contents
 |No.297|[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)|[Solution](./0297/0297.py)|[Note](./0297/note297.md)|Hard|O(n)|O(n)|dfs/iter()/dequeue()|
 |No.428|[Serialize and Deserialize N-ary Tree](https://leetcode.com/problems/serialize-and-deserialize-n-ary-tree/)|[Solution](./0428/0428.py)|[Note](./0428/note428.md)|Hard|O(n)|O(n)|dfs/dequeue()|
 |No.124|[Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)|[Solution](./0124/0124.py)|[Note](./0124/note124.md)|Hard|O(n)|O(n)|---|
+|No.449|[Serialize and Deserialize BST](https://leetcode.com/problems/serialize-and-deserialize-bst/)|[Solution](./0449/0449.py)|[Note](./0449/note449.md)|Medium|O(n)|O(n)|---|
+
 
 ## Hash Table
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
