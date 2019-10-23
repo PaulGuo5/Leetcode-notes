@@ -160,7 +160,9 @@ Table of Contents
 |No.449|[Serialize and Deserialize BST](https://leetcode.com/problems/serialize-and-deserialize-bst/)|[Solution](./0449/0449.py)|[Note](./0449/note449.md)|Medium|O(n)|O(n)|---|
 |No.103|[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)|[Solution](./0103/0103.py)|[Note](./0103/note103.md)|Medium|O(n)|O(n)|level traversal|
 |No.119|[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)|[Solution](./0119/0119.py)|[Note](./0119/note119.md)|Medium|O(n)|O(n)|level traversal|
-
+|No.426|[Convert Binary Search Tree to Sorted Doubly Linked List](https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list/)|[Solution](./0426/0426.py)|[Note](./0426/note426.md)|Medium|O(n)|O(n)|inoder/mode|
+|No.863|[All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/)|[Solution](./0863/0863.py)|[Note](./0863/note863.md)|Medium|O(n)|O(n)|parent node/dfs|
+|No.96|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)|[Solution](./0096/0096.py)|[Note](./0096/note096.md)|Medium|O(n^2)|O(n)|dp|
 
 ## Hash Table
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
