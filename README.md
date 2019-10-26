@@ -163,6 +163,9 @@ Table of Contents
 |No.426|[Convert Binary Search Tree to Sorted Doubly Linked List](https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list/)|[Solution](./0426/0426.py)|[Note](./0426/note426.md)|Medium|O(n)|O(n)|inoder/mode|
 |No.863|[All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/)|[Solution](./0863/0863.py)|[Note](./0863/note863.md)|Medium|O(n)|O(n)|parent node/dfs|
 |No.96|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)|[Solution](./0096/0096.py)|[Note](./0096/note096.md)|Medium|O(n^2)|O(n)|dp|
+|No.987|[Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/)|[Solution](./0987/0987.py)|[Note](./0987/note987.md)|Medium|O(n)|O(n)|sort dict/map|
+|No.222|[Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/)|[Solution](./0222/0222.py)|[Note](./0222/note222.md)|Medium|O(logn)|O(1)|binary search|
+
 
 ## Hash Table
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
@@ -228,3 +231,4 @@ Table of Contents
 |No.53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[Solution](./0053/0053.py)|[Note](./0053/note0053.md)|Medium|O(n)|O(n)|---|
 |No.121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[Solution](./0121/0121.py)|[Note](./0121/note0121.md)|Easy|O(n)|O(1)|---|
 |No.10|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)|[Solution](./0010/0010.py)|[Note](./0010/note0010.md)|Hard|O(n*m)|O(n*m)|---|
+|No.96|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)|[Solution](./0096/0096.py)|[Note](./0096/note096.md)|Medium|O(n^2)|O(n)|tree|
