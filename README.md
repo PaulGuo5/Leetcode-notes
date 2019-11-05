@@ -73,7 +73,7 @@ Table of Contents
 |No.17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|[Solution](./0017/0017.py)|[Note](./0017/note0017.md)|Medium|O(4^n))|O(4^n+n)|dfs|
 |No.468|[Validate IP Address](https://leetcode.com/problems/validate-ip-address/)|[Solution](./0468/0468.py)|[Note](./0468/note0468.md)|Medium|O(n))|O(n)|---|
 |No.937|[Reorder Data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files/)|[Solution](./937/937.py)|[Note](./937/note937.md)|Easy|O(n))|O(n)|---|
-|No.91|[Decode Ways](https://leetcode.com/problems/decode-ways/)|[Solution](./0091/0091.py)|[Note](./0091/note0091.md)|Medium|O(n))|O(n)|dp|
+|No.91|[Decode Ways](https://leetcode.com/problems/decode-ways/)|[Solution](./0091/0091.py)|[Note](./0091/note0091.md)|Medium|O(n))|O(n)|dp |
 
 
 ## Linked List
