@@ -72,6 +72,8 @@ Table of Contents
 |No.68|[Text Justification](https://leetcode.com/problems/text-justification/)|[Solution](./0068/0068.py)|[Note](./0068/note0068.md)|Hard|O(n))|O(n)|---|
 |No.17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|[Solution](./0017/0017.py)|[Note](./0017/note0017.md)|Medium|O(4^n))|O(4^n+n)|dfs|
 |No.468|[Validate IP Address](https://leetcode.com/problems/validate-ip-address/)|[Solution](./0468/0468.py)|[Note](./0468/note0468.md)|Medium|O(n))|O(n)|---|
+|No.937|[Reorder Data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files/)|[Solution](./937/937.py)|[Note](./937/note937.md)|Easy|O(n))|O(n)|---|
+|No.91|[Decode Ways](https://leetcode.com/problems/decode-ways/)|[Solution](./0091/0091.py)|[Note](./0091/note0091.md)|Medium|O(n))|O(n)|dp|
 
 
 ## Linked List
@@ -232,3 +234,4 @@ Table of Contents
 |No.121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[Solution](./0121/0121.py)|[Note](./0121/note0121.md)|Easy|O(n)|O(1)|---|
 |No.10|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)|[Solution](./0010/0010.py)|[Note](./0010/note0010.md)|Hard|O(n*m)|O(n*m)|---|
 |No.96|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)|[Solution](./0096/0096.py)|[Note](./0096/note096.md)|Medium|O(n^2)|O(n)|tree|
+|No.91|[Decode Ways](https://leetcode.com/problems/decode-ways/)|[Solution](./0091/0091.py)|[Note](./0091/note0091.md)|Medium|O(n))|O(n)|dp|
