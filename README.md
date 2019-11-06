@@ -167,6 +167,7 @@ Table of Contents
 |No.96|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)|[Solution](./0096/0096.py)|[Note](./0096/note096.md)|Medium|O(n^2)|O(n)|dp|
 |No.987|[Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/)|[Solution](./0987/0987.py)|[Note](./0987/note987.md)|Medium|O(n)|O(n)|sort dict/map|
 |No.222|[Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/)|[Solution](./0222/0222.py)|[Note](./0222/note222.md)|Medium|O(logn)|O(1)|binary search|
+|No.450|[Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/)|[Solution](./0450/0450.py)|[Note](./0450/note450.md)|Medium|O(h)|O(1)|recursion|
 
 
 ## Hash Table
