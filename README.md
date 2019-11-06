@@ -166,7 +166,7 @@ Table of Contents
 |No.863|[All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/)|[Solution](./0863/0863.py)|[Note](./0863/note863.md)|Medium|O(n)|O(n)|parent node/dfs|graph/bfs|
 |No.96|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)|[Solution](./0096/0096.py)|[Note](./0096/note096.md)|Medium|O(n^2)|O(n)|dp|
 |No.987|[Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/)|[Solution](./0987/0987.py)|[Note](./0987/note987.md)|Medium|O(n)|O(n)|sort dict/map|
-|No.222|[Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/)|[Solution](./0222/0222.py)|[Note](./0222/note222.md)|Medium|O(logn)|O(1)|binary search |
+|No.222|[Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/)|[Solution](./0222/0222.py)|[Note](./0222/note222.md)|Medium|O(logn)|O(1)|binary search|
 
 
 ## Hash Table
