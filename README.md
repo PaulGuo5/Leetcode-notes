@@ -227,7 +227,7 @@ Table of Contents
 ## Backtracking
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
 |---|-----|--------|----|----------|----|-----|---|
-
+|No.46|[Permutations](https://leetcode.com/problems/permutations/)|[Solution](./0046/0046.py)|[Note](./0046/note046.md)|Medium|O(n!)|O(n!)|---|
 
 
 
