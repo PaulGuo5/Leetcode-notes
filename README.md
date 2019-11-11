@@ -57,6 +57,7 @@ Table of Contents
 |No.78|[Subsets](https://leetcode.com/problems/subsets/)|[Solution](./0078/0078.py)|[Note](./0078/note0078.md)|Medium|O(2^n)|O(2^n)|iterative or dfs|
 |No.90|[Subsets II](https://leetcode.com/problems/subsets-ii/)|[Solution](./0090/0090.py)|[Note](./0090/note0090.md)|Medium|O(2^n)|O(2^n)|iterative or dfs|
 |No.1007|[Minimum Domino Rotations For Equal Row](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/)|[Solution](./1007/1007.py)|[Note](./1007/note1007.md)|Medium|O(n)|O(1)|---|
+|No.31|[Next Permutation](https://leetcode.com/problems/next-permutation/)|[Solution](./0031/0031.py)|[Note](./0031/note0031.md)|Medium|O(n)|O(1)|single pointer|
 
 ## String
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
