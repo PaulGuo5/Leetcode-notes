@@ -78,6 +78,7 @@ Table of Contents
 |No.937|[Reorder Data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files/)|[Solution](./937/937.py)|[Note](./937/note937.md)|Easy|O(n))|O(n)|---|
 |No.91|[Decode Ways](https://leetcode.com/problems/decode-ways/)|[Solution](./0091/0091.py)|[Note](./0091/note0091.md)|Medium|O(n))|O(n)|dp|
 |No.609|[Find Duplicate File in System](https://leetcode.com/problems/find-duplicate-file-in-system/)|[Solution](./0609/0609.py)|[Note](./0609/note0609.md)|Medium|O(n))|O(n)|---|
+|No.266|[Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation/)|[Solution](./0266/0266.py)|[Note](./0266/note0266.md)|Easy|O(n))|O(n)|---|
 
 
 ## Linked List
@@ -232,6 +233,7 @@ Table of Contents
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
 |---|-----|--------|----|----------|----|-----|---|
 |No.46|[Permutations](https://leetcode.com/problems/permutations/)|[Solution](./0046/0046.py)|[Note](./0046/note046.md)|Medium|O(n!)|O(n!)|---|
+|No.47|[Permutations II](https://leetcode.com/problems/permutations-ii/)|[Solution](./0047/0047.py)|[Note](./0047/note047.md)|Medium|O(n!)|O(n!)|---|
 
 
 
