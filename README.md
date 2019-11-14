@@ -59,6 +59,7 @@ Table of Contents
 |No.1007|[Minimum Domino Rotations For Equal Row](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/)|[Solution](./1007/1007.py)|[Note](./1007/note1007.md)|Medium|O(n)|O(1)|---|
 |No.31|[Next Permutation](https://leetcode.com/problems/next-permutation/)|[Solution](./0031/0031.py)|[Note](./0031/note0031.md)|Medium|O(n)|O(1)|single pointer|
 |No.986|[Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/)|[Solution](./0986/0986.py)|[Note](./0986/note0986.md)|Medium|O(n+m)|O(1)|2 pointer2|
+|No.1252|[Cells with Odd Values in a Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/)|[Solution](./1252/1252.py)|[Note](./1252/note1252.md)|Easy|O(n^2)|O(n)|---|
 
 ## String
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
