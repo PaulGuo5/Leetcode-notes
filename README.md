@@ -61,6 +61,7 @@ Table of Contents
 |No.986|[Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/)|[Solution](./0986/0986.py)|[Note](./0986/note0986.md)|Medium|O(n+m)|O(1)|2 pointer2|
 |No.1252|[Cells with Odd Values in a Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/)|[Solution](./1252/1252.py)|[Note](./1252/note1252.md)|Easy|O(n^2)|O(n)|---|
 |No.1207|[Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)|[Solution](./1207/1207.py)|[Note](./1207/note1207.md)|Easy|O(n)|O(n)|---|
+|No.1243|[Array Transformation](https://leetcode.com/problems/array-transformation/)|[Solution](./1243/1243.py)|[Note](./1243/note1243.md)|Easy|O(n^2)|O(n)|---|
 
 ## String
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
