@@ -65,6 +65,7 @@ Table of Contents
 |No.1232|[Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/)|[Solution](./1232/1232.py)|[Note](./1232/note1232.md)|Easy|O(n)|O(n)|---|
 |No.1200|[CMinimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/)|[Solution](./1200/1200.py)|[Note](./1200/note1200.md)|Easy|O(n)|O(n)|---|
 |No.1196|[How Many Apples Can You Put into the Basket](https://leetcode.com/problems/how-many-apples-can-you-put-into-the-basket/)|[Solution](./1196/1196.py)|[Note](./1196/note1196.md)|Easy|O(n)|O(n)|---|
+|No.1184|[Distance Between Bus Stops](https://leetcode.com/problems/distance-between-bus-stops/)|[Solution](./1184/1184.py)|[Note](./1184/note1184.md)|Easy|O(n)|O(1)|---|
 
 ## String
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
