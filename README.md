@@ -90,6 +90,7 @@ Table of Contents
 |No.1221|[Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/)|[Solution](./1221/1221.py)|[Note](./1221/note1221.md)|Easy|O(n))|O(n)|---|
 |No.1189|[Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/)|[Solution](./1189/1189.py)|[Note](./1189/note1189.md)|Easy|O(n))|O(n)|---|
 |No.1165|[Single-Row Keyboard](https://leetcode.com/problems/single-row-keyboard/)|[Solution](./1165/1165.py)|[Note](./1165/note1165.md)|Easy|O(n))|O(n)|---|
+|No.1119|[Remove Vowels from a String](https://leetcode.com/problems/remove-vowels-from-a-string/)|[Solution](./1119/1119.py)|[Note](./1119/note1119.md)|Easy|O(n))|O(n)|---|
 
 
 ## Linked List
