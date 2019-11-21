@@ -232,6 +232,7 @@ Table of Contents
 |---|-----|--------|----|----------|----|-----|---|
 |No.7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[Solution](./0007/0007.py)|[Note](./0007/note0007.md)|Easy|O(n)|O(1)|---|
 |No.1228|[Missing Number In Arithmetic Progression](https://leetcode.com/problems/missing-number-in-arithmetic-progression/)|[Solution](./1228/1228.py)|[Note](./1228/note1228.md)|Easy|O(n)|O(1)|---|
+|No.1134|[Armstrong Number](hhttps://leetcode.com/problems/armstrong-number/)|[Solution](./1134/1134.py)|[Note](./1134/note1134.md)|Easy|O(n)|O(1)|---|
 
 
 ## Graph
