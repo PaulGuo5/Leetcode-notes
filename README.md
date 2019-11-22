@@ -92,7 +92,7 @@ Table of Contents
 |No.1189|[Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/)|[Solution](./1189/1189.py)|[Note](./1189/note1189.md)|Easy|O(n))|O(n)|---|
 |No.1165|[Single-Row Keyboard](https://leetcode.com/problems/single-row-keyboard/)|[Solution](./1165/1165.py)|[Note](./1165/note1165.md)|Easy|O(n))|O(n)|---|
 |No.1119|[Remove Vowels from a String](https://leetcode.com/problems/remove-vowels-from-a-string/)|[Solution](./1119/1119.py)|[Note](./1119/note1119.md)|Easy|O(n))|O(n)|---|
-
+|No.1048|[Longest String Chain](https://leetcode.com/problems/longest-string-chain/)|[Solution](./1048/1048.py)|[Note](./1048/note1048.md)|Medium|O(n^2))|O(n)|dfs|
 
 ## Linked List
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
