@@ -216,6 +216,7 @@ Table of Contents
 |No.4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)|[Solution](./0004/0004.py)|[Note](./0004/note0004.md)|Hard|O(log(m+n))|O(n)|---|
 |No.33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[Solution](./0033/0033.py)|[Note](./0033/note0033.md)|Medium|O(log(n))|O(1)|---|
 |No.34|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[Solution](./0034/0034.py)|[Note](./0034/note0034.md)|Medium|O(log(n))|O(1)|---|
+|No.240|[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)|[Solution](./0240/0240.py)|[Note](./0240/note0240.md)|Medium|O(log(n))|O(1)|---|
 
 ## Binary Search Tree
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
@@ -260,3 +261,4 @@ Table of Contents
 |No.10|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)|[Solution](./0010/0010.py)|[Note](./0010/note0010.md)|Hard|O(n*m)|O(n*m)|---|
 |No.96|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)|[Solution](./0096/0096.py)|[Note](./0096/note096.md)|Medium|O(n^2)|O(n)|tree|
 |No.91|[Decode Ways](https://leetcode.com/problems/decode-ways/)|[Solution](./0091/0091.py)|[Note](./0091/note0091.md)|Medium|O(n))|O(n)|dp|
+|No.1048|[Longest String Chain](https://leetcode.com/problems/longest-string-chain/)|[Solution](./1048/1048.py)|[Note](./1048/note1048.md)|Medium|O(nlogn))|O(n)|dp|
