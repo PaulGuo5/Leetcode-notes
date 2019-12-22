@@ -197,7 +197,7 @@ Table of Contents
 ## Hash Table
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
 |---|-----|--------|----|----------|----|-----|---|
-
+|No.359|[Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/)|[Solution](./0359/0359.py)|[Note](./0359/note359.md)|Easy|O(n)|O(n)|---|
 
 
 ## Sort
@@ -210,7 +210,7 @@ Table of Contents
 ## Heap
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
 |---|-----|--------|----|----------|----|-----|---|
-
+|No.253|[Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)|[Solution](./0253/0253.py)|[Note](./0253/note253.md)|Medium|O(nlogn)|O(n)|heapq|
 
 
 ## Binary Search
