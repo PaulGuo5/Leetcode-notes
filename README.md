@@ -198,6 +198,7 @@ Table of Contents
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
 |---|-----|--------|----|----------|----|-----|---|
 |No.359|[Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/)|[Solution](./0359/0359.py)|[Note](./0359/note359.md)|Easy|O(n)|O(n)|---|
+|No.706|[Design HashMap](https://leetcode.com/problems/design-hashmap/)|[Solution](./0706/0706.py)|[Note](./0706/note706.md)|Easy|O(n)|O(n)|---|
 
 
 ## Sort
