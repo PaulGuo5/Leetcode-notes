@@ -68,6 +68,7 @@ Table of Contents
 |No.1184|[Distance Between Bus Stops](https://leetcode.com/problems/distance-between-bus-stops/)|[Solution](./1184/1184.py)|[Note](./1184/note1184.md)|Easy|O(n)|O(1)|---|
 |No.1150|[Check If a Number Is Majority Element in a Sorted Array](https://leetcode.com/problems/check-if-a-number-is-majority-element-in-a-sorted-array/)|[Solution](./1150/1150.py)|[Note](./1150/note1150.md)|Easy|O(n)|O(n)|---|
 |No.1099|[Two Sum Less Than K](https://leetcode.com/problems/two-sum-less-than-k/)|[Solution](./1099/1099.py)|[Note](./1099/note1099.md)|Easy|O(n)|O(1)|2 pointers|
+|No.1304|[Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/)|[Solution](./1304/1304.py)|[Note](./1304/note1304.md)|Easy|O(n)|O(n)|---|
 
 ## String
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
