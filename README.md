@@ -69,6 +69,7 @@ Table of Contents
 |No.1150|[Check If a Number Is Majority Element in a Sorted Array](https://leetcode.com/problems/check-if-a-number-is-majority-element-in-a-sorted-array/)|[Solution](./1150/1150.py)|[Note](./1150/note1150.md)|Easy|O(n)|O(n)|---|
 |No.1099|[Two Sum Less Than K](https://leetcode.com/problems/two-sum-less-than-k/)|[Solution](./1099/1099.py)|[Note](./1099/note1099.md)|Easy|O(n)|O(1)|2 pointers|
 |No.1304|[Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/)|[Solution](./1304/1304.py)|[Note](./1304/note1304.md)|Easy|O(n)|O(n)|---|
+|No.1287|[Element Appearing More Than 25% In Sorted Array](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/)|[Solution](./1287/1287.py)|[Note](./1287/note1287.md)|Easy|O(n)|O(1)|---|
 
 ## String
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
@@ -250,7 +251,8 @@ Table of Contents
 |---|-----|--------|----|----------|----|-----|---|
 |No.200|[Number of Islands](https://leetcode.com/problems/number-of-islands/)|[Solution](./0200/0200.py)|[Note](./0200/note200.md)|Medium|O(mn)|O(1)|dfs|
 |No.332|[Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/)|[Solution](./0332/0332.py)|[Note](./0332/note332.md)|Medium|O(nlogn)|O(n)|dfs|
-|No.399|[Evaluate Division](https://leetcode.com/problems/evaluate-division/)|[Solution](./0399/0399.py)|[Note](./0399/note399.md)|Medium|O(n)|O(n)|dfs|
+|No.399|[Evaluate Division](https://leetcode.com/problems/evaluate-division/)|[Solution](./0399/0399.py)|[Note](./0399/note0399.md)|Medium|O(n)|O(n)|dfs|
+|No.1192|[Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/)|[Solution](./01192/01192.py)|[Note](./01192/note1192.md)|Hard|O(n)|O(n)|dfs/Targan|
 
 ## Backtracking
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
