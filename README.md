@@ -244,6 +244,7 @@ Table of Contents
 |No.1228|[Missing Number In Arithmetic Progression](https://leetcode.com/problems/missing-number-in-arithmetic-progression/)|[Solution](./1228/1228.py)|[Note](./1228/note1228.md)|Easy|O(n)|O(1)|---|
 |No.1134|[Armstrong Number](https://leetcode.com/problems/armstrong-number/)|[Solution](./1134/1134.py)|[Note](./1134/note1134.md)|Easy|O(n)|O(1)|---|
 |No.1281|[Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)|[Solution](./1281/1281.py)|[Note](./1281/note1281.md)|Easy|O(n)|O(1)|---|
+|No.957|[Prison Cells After N Days](https://leetcode.com/problems/prison-cells-after-n-days/)|[Solution](./0957/0957.py)|[Note](./0957/note0957.md)|Medium|O(n)|O(n)|mode|
 
 
 ## Graph
