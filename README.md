@@ -272,3 +272,4 @@ Table of Contents
 |No.96|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)|[Solution](./0096/0096.py)|[Note](./0096/note096.md)|Medium|O(n^2)|O(n)|tree|
 |No.91|[Decode Ways](https://leetcode.com/problems/decode-ways/)|[Solution](./0091/0091.py)|[Note](./0091/note0091.md)|Medium|O(n))|O(n)|dp|
 |No.1048|[Longest String Chain](https://leetcode.com/problems/longest-string-chain/)|[Solution](./1048/1048.py)|[Note](./1048/note1048.md)|Medium|O(nlogn))|O(n)|dp|
+|No.139|[Word Break](https://leetcode.com/problems/word-break/)|[Solution](./0139/0139.py)|[Note](./0139/note0139.md)|Medium|O(n^3))|O(n)|---|
