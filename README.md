@@ -148,6 +148,7 @@ Table of Contents
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
 |---|-----|--------|----|----------|----|-----|---|
 |No.346|[Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/)|[Solution](./0346/0346.py)|[Note](./0346/note0346.md)|Easy|O(n)|O(n)|---|
+|No.127|[Word Ladder](https://leetcode.com/problems/word-ladder/)|[Solution](./0127/0127.py)|[Note](./0127/note0127.md)|Medium|O(nlogn)|O(n)|---|
 
 
 
