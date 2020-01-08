@@ -250,6 +250,7 @@ Table of Contents
 |No.1281|[Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)|[Solution](./1281/1281.py)|[Note](./1281/note1281.md)|Easy|O(n)|O(1)|---|
 |No.957|[Prison Cells After N Days](https://leetcode.com/problems/prison-cells-after-n-days/)|[Solution](./0957/0957.py)|[Note](./0957/note0957.md)|Medium|O(n)|O(n)|mode|
 |No.273|[Integer to English Words](https://leetcode.com/problems/integer-to-english-words/)|[Solution](./0273/0273.py)|[Note](./0273/note0273.md)|Hard|O(n)|O(1)|---|
+|No.1056|[Confusing Number](https://leetcode.com/problems/confusing-number/)|[Solution](./1056/1056.py)|[Note](./1056/note1056.md)|Easy|O(n)|O(1)|---|
 
 
 ## Graph
