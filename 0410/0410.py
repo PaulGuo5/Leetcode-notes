@@ -1,20 +1,20 @@
 class Solution:
     def splitArray(self, nums: List[int], m: int) -> int:
-        low, high = max(nums), sum(nums) + 1
+        def getGroup(nums, mid):
+            cnt, group = 0, 1
+            for num in nums:
+                if cnt + num > mid:
+                    group += 1
+                    cnt = num
+                else:
+                    cnt += num
+            return group
+        
+        low, high = max(nums), sum(nums)
         while low < high:
-            mid = (low+high)//2
-            if self.mid_groups(nums, mid) > m:
+            mid = (low+high) // 2
+            if getGroup(nums, mid) > m:
                 low = mid + 1
             else:
                 high = mid
         return low
-    
-    def mid_groups(self, nums, limit):
-        cnt, groups = 0, 1
-        for num in nums:
-            if cnt + num > limit:
-                cnt = num
-                groups += 1
-            else:
-                cnt += num
-        return groups
