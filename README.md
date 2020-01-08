@@ -216,6 +216,7 @@ Table of Contents
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
 |---|-----|--------|----|----------|----|-----|---|
 |No.253|[Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)|[Solution](./0253/0253.py)|[Note](./0253/note253.md)|Medium|O(nlogn)|O(n)|heapq|
+|No.1167|[inimum Cost to Connect Sticks](https://leetcode.com/problems/minimum-cost-to-connect-sticks/)|[Solution](./1167/1167.py)|[Note](./1167/not1167.md)|Medium|O(nlogn)|O(n)|heapq|
 
 
 ## Binary Search
