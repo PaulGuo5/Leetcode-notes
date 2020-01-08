@@ -208,6 +208,7 @@ Table of Contents
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
 |---|-----|--------|----|----------|----|-----|---|
 |No.973|[K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)|[Solution](./0973/0973.py)|[Note](./0973/note973.md)|Medium|O(n)|O(n)|---|
+|No.295|[Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)|[Solution](./0295/0295.py)|[Note](./0295/note295.md)|Hard|O(n)|O(n)|---|
 
 
 
