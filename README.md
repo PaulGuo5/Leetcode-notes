@@ -251,6 +251,7 @@ Table of Contents
 |No.957|[Prison Cells After N Days](https://leetcode.com/problems/prison-cells-after-n-days/)|[Solution](./0957/0957.py)|[Note](./0957/note0957.md)|Medium|O(n)|O(n)|mode|
 |No.273|[Integer to English Words](https://leetcode.com/problems/integer-to-english-words/)|[Solution](./0273/0273.py)|[Note](./0273/note0273.md)|Hard|O(n)|O(1)|---|
 |No.1056|[Confusing Number](https://leetcode.com/problems/confusing-number/)|[Solution](./1056/1056.py)|[Note](./1056/note1056.md)|Easy|O(n)|O(1)|---|
+|No.246|[Strobogrammatic Number](https://leetcode.com/problems/strobogrammatic-number/)|[Solution](./0246/0246.py)|[Note](./0246/note0246.md)|Easy|O(n)|O(1)|---|
 
 
 ## Graph
