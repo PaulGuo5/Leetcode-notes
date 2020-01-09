@@ -139,7 +139,7 @@ Table of Contents
 ## Recursion
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
 |---|-----|--------|----|----------|----|-----|---|
-
+|No.247|[Strobogrammatic Number II](https://leetcode.com/problems/strobogrammatic-number-ii/)|[Solution](./0247/0247.py)|[Note](./0247/note0247.md)|Medium|O(n)|O(n)|---|
 
 
 
@@ -253,7 +253,7 @@ Table of Contents
 |No.1056|[Confusing Number](https://leetcode.com/problems/confusing-number/)|[Solution](./1056/1056.py)|[Note](./1056/note1056.md)|Easy|O(n)|O(1)|---|
 |No.246|[Strobogrammatic Number](https://leetcode.com/problems/strobogrammatic-number/)|[Solution](./0246/0246.py)|[Note](./0246/note0246.md)|Easy|O(n)|O(1)|---|
 |No.1088|[Confusing Number II](https://leetcode.com/problems/confusing-number-ii/)|[Solution](./1088/1088.py)|[Note](./1088/note1088.md)|Hard|O(nlogn)|O(1)|---|
-
+|No.247|[Strobogrammatic Number II](https://leetcode.com/problems/strobogrammatic-number-ii/)|[Solution](./0247/0247.py)|[Note](./0247/note0247.md)|Medium|O(n)|O(n)|recursion|
 
 ## Graph
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
