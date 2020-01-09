@@ -252,6 +252,7 @@ Table of Contents
 |No.273|[Integer to English Words](https://leetcode.com/problems/integer-to-english-words/)|[Solution](./0273/0273.py)|[Note](./0273/note0273.md)|Hard|O(n)|O(1)|---|
 |No.1056|[Confusing Number](https://leetcode.com/problems/confusing-number/)|[Solution](./1056/1056.py)|[Note](./1056/note1056.md)|Easy|O(n)|O(1)|---|
 |No.246|[Strobogrammatic Number](https://leetcode.com/problems/strobogrammatic-number/)|[Solution](./0246/0246.py)|[Note](./0246/note0246.md)|Easy|O(n)|O(1)|---|
+|No.1088|[Confusing Number II](https://leetcode.com/problems/confusing-number-ii/)|[Solution](./1088/1088.py)|[Note](./1088/note1088.md)|Hard|O(nlogn)|O(1)|---|
 
 
 ## Graph
@@ -267,7 +268,7 @@ Table of Contents
 |---|-----|--------|----|----------|----|-----|---|
 |No.46|[Permutations](https://leetcode.com/problems/permutations/)|[Solution](./0046/0046.py)|[Note](./0046/note046.md)|Medium|O(n!)|O(n!)|---|
 |No.47|[Permutations II](https://leetcode.com/problems/permutations-ii/)|[Solution](./0047/0047.py)|[Note](./0047/note047.md)|Medium|O(n!)|O(n!)|---|
-
+|No.1088|[Confusing Number II](https://leetcode.com/problems/confusing-number-ii/)|[Solution](./1088/1088.py)|[Note](./1088/note1088.md)|Hard|O(nlogn)|O(1)|---|
 
 
 ## Dynamic Programming
