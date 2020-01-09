@@ -70,6 +70,7 @@ Table of Contents
 |No.1099|[Two Sum Less Than K](https://leetcode.com/problems/two-sum-less-than-k/)|[Solution](./1099/1099.py)|[Note](./1099/note1099.md)|Easy|O(n)|O(1)|2 pointers|
 |No.1304|[Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/)|[Solution](./1304/1304.py)|[Note](./1304/note1304.md)|Easy|O(n)|O(n)|---|
 |No.1287|[Element Appearing More Than 25% In Sorted Array](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/)|[Solution](./1287/1287.py)|[Note](./1287/note1287.md)|Easy|O(n)|O(1)|---|
+|No.759|[Employee Free Time](https://leetcode.com/problems/employee-free-time/)|[Solution](./0759/0759.py)|[Note](./0759/note0759.md)|Hard|O(nlogn)|O(n)|flatten|
 
 ## String
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
