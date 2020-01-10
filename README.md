@@ -270,6 +270,7 @@ Table of Contents
 |No.46|[Permutations](https://leetcode.com/problems/permutations/)|[Solution](./0046/0046.py)|[Note](./0046/note046.md)|Medium|O(n!)|O(n!)|---|
 |No.47|[Permutations II](https://leetcode.com/problems/permutations-ii/)|[Solution](./0047/0047.py)|[Note](./0047/note047.md)|Medium|O(n!)|O(n!)|---|
 |No.1088|[Confusing Number II](https://leetcode.com/problems/confusing-number-ii/)|[Solution](./1088/1088.py)|[Note](./1088/note1088.md)|Hard|O(nlogn)|O(1)|---|
+|No.212|[Word Search II](https://leetcode.com/problems/word-search-ii/)|[Solution](./0212/0212.py)|[Note](./0212/note0212.md)|Hard|O(sum(l)+4^max(l))|O(n)|TrieNode|
 
 
 ## Dynamic Programming
