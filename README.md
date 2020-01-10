@@ -255,6 +255,7 @@ Table of Contents
 |No.246|[Strobogrammatic Number](https://leetcode.com/problems/strobogrammatic-number/)|[Solution](./0246/0246.py)|[Note](./0246/note0246.md)|Easy|O(n)|O(1)|---|
 |No.1088|[Confusing Number II](https://leetcode.com/problems/confusing-number-ii/)|[Solution](./1088/1088.py)|[Note](./1088/note1088.md)|Hard|O(nlogn)|O(1)|---|
 |No.247|[Strobogrammatic Number II](https://leetcode.com/problems/strobogrammatic-number-ii/)|[Solution](./0247/0247.py)|[Note](./0247/note0247.md)|Medium|O(n)|O(n)|recursion|
+|No.659|[Split Array into Consecutive Subsequences](https://leetcode.com/problems/split-array-into-consecutive-subsequences/)|[Solution](./0659/0659.py)|[Note](./0659/note0659.md)|Medium|O(n)|O(n)|greedy|
 
 ## Graph
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
