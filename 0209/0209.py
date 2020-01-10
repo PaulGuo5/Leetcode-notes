@@ -1,5 +1,5 @@
 class Solution:
-    def minSubArrayLen(self, s: int, nums: List[int]) -> int:
+    def minSubArrayLen1(self, s: int, nums: List[int]) -> int:
         if sum(nums) < s:
             return 0
         fst = 0
@@ -14,4 +14,19 @@ class Solution:
                 temp_sum -= nums[fst]
                 fst += 1
             res = min(res,lst-fst+1)            
+        return res
+            
+    def minSubArrayLen(self, s: int, nums: List[int]) -> int:
+        if sum(nums) < s:
+            return 0
+        slow = 0
+        tmp = 0
+        res = len(nums)
+        for fast in range(len(nums)):
+            tmp += nums[fast]
+            while tmp >= s:
+                if res > fast - slow + 1:
+                    res = fast - slow + 1
+                tmp -= nums[slow]
+                slow += 1
         return res
