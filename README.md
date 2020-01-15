@@ -99,6 +99,7 @@ Table of Contents
 |No.1271|[Hexspeak](https://leetcode.com/problems/hexspeak/)|[Solution](./1271/1271.py)|[Note](./1271/note1271.md)|Easy|O(n))|O(n)|---|
 |No.227|[HBasic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)|[Solution](./0227/0227.py)|[Note](./0227/note0227.md)|Medium|O(n))|O(n)|---|
 |No.567|[Permutation in String](https://leetcode.com/problems/permutation-in-string/)|[Solution](./0567/0567.py)|[Note](./0567/note0567.md)|Medium|O(n))|O(n)|sliding window|
+|No.30|[ Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)|[Solution](./0030/0030.py)|[Note](./0030/note0030.md)|Hard|O(n^2))|O(n)|sliding window|
 
 
 ## Linked List
