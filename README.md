@@ -292,3 +292,4 @@ Table of Contents
 |No.727|[Minimum Window Subsequence](https://leetcode.com/problems/minimum-window-subsequence/)|[Solution](./0727/0727.py)|[Note](./0727/note0727.md)|Hard|O(n^2))|O(n)|---|
 |No.552|[Student Attendance Record II](https://leetcode.com/problems/student-attendance-record-ii/)|[Solution](./0552/0552.py)|[Note](./0552/note0552.md)|Hard|O(n))|O(n)|---|
 |No.239|[Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)|[Solution](./0239/0239.py)|[Note](./0239/note0239.md)|Hard|O(n))|O(1)|---|
+|No.140|[Word Break II](https://leetcode.com/problems/word-break-ii/)|[Solution](./0140/0140.py)|[Note](./0140/note0140.md)|Hard|O(nlogn))|O(n)|dfs|
