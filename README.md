@@ -289,3 +289,4 @@ Table of Contents
 |No.139|[Word Break](https://leetcode.com/problems/word-break/)|[Solution](./0139/0139.py)|[Note](./0139/note0139.md)|Medium|O(n^3))|O(n)|---|
 |No.472|[Concatenated Words](https://leetcode.com/problems/concatenated-words/)|[Solution](./0472/0472.py)|[Note](./0472/note0472.md)|Hard|O(n^3))|O(n)|---|
 |No.727|[Minimum Window Subsequence](https://leetcode.com/problems/minimum-window-subsequence/)|[Solution](./0727/0727.py)|[Note](./0727/note0727.md)|Hard|O(n^2))|O(n)|---|
+|No.552|[Student Attendance Record II](https://leetcode.com/problems/student-attendance-record-ii/)|[Solution](./0552/0552.py)|[Note](./0552/note0552.md)|Hard|O(n))|O(n)|---|
