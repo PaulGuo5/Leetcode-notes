@@ -276,6 +276,7 @@ Table of Contents
 |No.399|[Evaluate Division](https://leetcode.com/problems/evaluate-division/)|[Solution](./0399/0399.py)|[Note](./0399/note0399.md)|Medium|O(n)|O(n)|dfs|
 |No.1192|[Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/)|[Solution](./01192/01192.py)|[Note](./01192/note1192.md)|Hard|O(n)|O(n)|dfs/Targan|
 |No.694|[Number of Distinct Islands](https://leetcode.com/problems/number-of-distinct-islands/)|[Solution](./0694/0694.py)|[Note](./0694/note694.md)|Medium|O(nlogn)|O(n)|dfs|
+|No.1102|[Path With Maximum Minimum Value](https://leetcode.com/problems/path-with-maximum-minimum-value/)|[Solution](./1102/1102.py)|[Note](./1102/not1102.md)|Medium|O(nlogn)|O(n)|heap|
 
 ## Backtracking
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
