@@ -204,6 +204,7 @@ Table of Contents
 |No.427|[Construct Quad Tree](https://leetcode.com/problems/construct-quad-tree/)|[Solution](./0427/0427.py)|[Note](./0427/note427.md)|Medium|O(n)|O(n)|dfs|
 |No.1110|[Delete Nodes And Return Forest](https://leetcode.com/problems/delete-nodes-and-return-forest/)|[Solution](./1110/1110.py)|[Note](./1110/not1110.md)|Medium|O(n)|O(|d|+h)|recursion|
 |No.0889|[Construct Binary Tree from Preorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/)|[Solution](./0889/0889.py)|[Note](./0889/not0889.md)|Medium|O(nlogn)|O(n)|recursion|
+|No.0545|[Boundary of Binary Tree](https://leetcode.com/problems/boundary-of-binary-tree/)|[Solution](./0545/0545.py)|[Note](./0545/not0545.md)|Medium|O(nlogn)|O(n)|recursion|
 
 
 ## Hash Table
