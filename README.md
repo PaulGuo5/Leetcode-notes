@@ -266,6 +266,7 @@ Table of Contents
 |No.659|[Split Array into Consecutive Subsequences](https://leetcode.com/problems/split-array-into-consecutive-subsequences/)|[Solution](./0659/0659.py)|[Note](./0659/note0659.md)|Medium|O(n)|O(n)|greedy|
 |No.465|[Optimal Account Balancing](https://leetcode.com/problems/optimal-account-balancing/)|[Solution](./0465/0465.py)|[Note](./0465/note0465.md)|Hard|O(nlogn)|O(n)|dfs|
 |No.794|[Valid Tic-Tac-Toe State](https://leetcode.com/problems/valid-tic-tac-toe-state/)|[Solution](./0794/0794.py)|[Note](./0794/note0794.md)|Medium|O(n)|O(n)|---|
+|No.866|[Prime Palindrome](https://leetcode.com/problems/prime-palindrome/)|[Solution](./0866/0866.py)|[Note](./0866/note0866.md)|Medium|O(n)|O(n)|---|
 
 ## Graph
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
