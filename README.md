@@ -137,6 +137,7 @@ Table of Contents
 |No.20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[Solution](./0020/0020.py)|[Note](./0020/note0020.md)|Easy|O(n)|O(n)|---|
 |No.224|[Basic Calculator](https://leetcode.com/problems/basic-calculator/)|[Solution](./0224/0224.py)|[Note](./0224/note0224.md)|Hard|O(n)|O(n)|---|
 |No.739|[Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)|[Solution](./0739/0739.py)|[Note](./0739/note0739.md)|Medium|O(n)|O(n)|---|
+|No.456|[132 Pattern](https://leetcode.com/problems/132-pattern/)|[Solution](./0456/0456.py)|[Note](./0456/note0456.md)|Medium|O(n)|O(n)|---|
 
 
 
