@@ -23,6 +23,7 @@ Table of Contents
       * [Graph](#graph)
       * [BackTracking](#backtracking)
       * [Dynamic Programming](#dynamic-programming)
+      * [Design](#design)
 
 
 ## Leetcode
@@ -293,3 +294,9 @@ Table of Contents
 |No.552|[Student Attendance Record II](https://leetcode.com/problems/student-attendance-record-ii/)|[Solution](./0552/0552.py)|[Note](./0552/note0552.md)|Hard|O(n))|O(n)|---|
 |No.239|[Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)|[Solution](./0239/0239.py)|[Note](./0239/note0239.md)|Hard|O(n))|O(1)|---|
 |No.140|[Word Break II](https://leetcode.com/problems/word-break-ii/)|[Solution](./0140/0140.py)|[Note](./0140/note0140.md)|Hard|O(nlogn))|O(n)|dfs|
+
+
+## Design
+|NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
+|---|-----|--------|----|----------|----|-----|---|
+|No.348|[Design Tic-Tac-Toe](https://leetcode.com/problems/design-tic-tac-toe/)|[Solution](./0348/0348.py)|[Note](./0348/note0348.md)|Medium|O(n)|O(n)|---|
