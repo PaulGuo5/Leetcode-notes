@@ -236,7 +236,7 @@ Table of Contents
 |No.4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)|[Solution](./0004/0004.py)|[Note](./0004/note0004.md)|Hard|O(log(m+n))|O(n)|---|
 |No.33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[Solution](./0033/0033.py)|[Note](./0033/note0033.md)|Medium|O(log(n))|O(1)|---|
 |No.34|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[Solution](./0034/0034.py)|[Note](./0034/note0034.md)|Medium|O(log(n))|O(1)|---|
-|No.240|[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)|[Solution](./0240/0240.py)|[Note](./0240/note0240.md)|Medium|O(log(n))|O(1)|---|
+|No.240|[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)|[Solution](./0240/0240.py)|[Note](./0240/note0240.mhttps://leetcode.com/problems/capacity-to-ship-packages-within-d-days/)|[Solution](./1011/1011.py)|[Note](./1011/note1011.md)|Medium|O(nlogn|O(1)|---|
 
 ## Binary Search Tree
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
