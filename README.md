@@ -290,6 +290,7 @@ Table of Contents
 |No.47|[Permutations II](https://leetcode.com/problems/permutations-ii/)|[Solution](./0047/0047.py)|[Note](./0047/note047.md)|Medium|O(n!)|O(n!)|---|
 |No.1088|[Confusing Number II](https://leetcode.com/problems/confusing-number-ii/)|[Solution](./1088/1088.py)|[Note](./1088/note1088.md)|Hard|O(nlogn)|O(1)|---|
 |No.212|[Word Search II](https://leetcode.com/problems/word-search-ii/)|[Solution](./0212/0212.py)|[Note](./0212/note0212.md)|Hard|O(sum(l)+4^max(l))|O(n)|TrieNode|
+|No.980|[Unique Paths III](https://leetcode.com/problems/unique-paths-iii/)|[Solution](./0980/0980.py)|[Note](./0980/note0980.md)|Hard|O(4^mn)|O(m*n)|dfs|
 
 
 ## Dynamic Programming
@@ -308,6 +309,7 @@ Table of Contents
 |No.239|[Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)|[Solution](./0239/0239.py)|[Note](./0239/note0239.md)|Hard|O(n))|O(1)|---|
 |No.140|[Word Break II](https://leetcode.com/problems/word-break-ii/)|[Solution](./0140/0140.py)|[Note](./0140/note0140.md)|Hard|O(nlogn))|O(n)|dfs|
 |No.62|[Unique Paths](https://leetcode.com/problems/unique-paths/)|[Solution](./0062/0062.py)|[Note](./0062/note0062.md)|Hard|O(n^2))|O(n)|---|
+|No.63|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)|[Solution](./0063/0063.py)|[Note](./0063/note0063.md)|Hard|O(n^2))|O(n)|---|
 
 
 
