@@ -245,6 +245,8 @@ Table of Contents
 |No.1283|[Find the Smallest Divisor Given a Threshold](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/)|[Solution](./1283/1283.py)|[Note](./1283/note1283.md)|Medium|O(log(n))|O(1)|---|
 |No.875|[Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)|[Solution](./0875/0875.py)|[Note](./0875/note0875.md)|Medium|O(log(n))|O(1)|---|
 |No.774|[Minimize Max Distance to Gas Station](https://leetcode.com/problems/minimize-max-distance-to-gas-station/)|[Solution](./0774/0774.py)|[Note](./0774/note0774.md)|Hard|O(log(n))|O(1)|---|
+|No.1044|[Longest Duplicate Substring](https://leetcode.com/problems/longest-duplicate-substring/)|[Solution](./1044/1044.py)|[Note](./1044/note1044.md)|Hard|O(log(n))|O(n)|Rabin-karp|
+
 
 ## Binary Search Tree
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
