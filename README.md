@@ -74,6 +74,7 @@ Table of Contents
 |No.1287|[Element Appearing More Than 25% In Sorted Array](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/)|[Solution](./1287/1287.py)|[Note](./1287/note1287.md)|Easy|O(n)|O(1)|---|
 |No.759|[Employee Free Time](https://leetcode.com/problems/employee-free-time/)|[Solution](./0759/0759.py)|[Note](./0759/note0759.md)|Hard|O(nlogn)|O(n)|flatten|
 |No.1152|[Analyze User Website Visit Pattern](https://leetcode.com/problems/analyze-user-website-visit-pattern/)|[Solution](./1152/1152.py)|[Note](./1152/note1152.md)|Hard|O(nlogn)|O(n)|---|
+|No.55|[Jump Game](https://leetcode.com/problems/jump-game/)|[Solution](./0055/0055.py)|[Note](./0055/note0055.md)|Medium|O(n)|O(1)|greedy|
 
 ## String
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
