@@ -323,3 +323,4 @@ Table of Contents
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
 |---|-----|--------|----|----------|----|-----|---|
 |No.348|[Design Tic-Tac-Toe](https://leetcode.com/problems/design-tic-tac-toe/)|[Solution](./0348/0348.py)|[Note](./0348/note0348.md)|Medium|O(n)|O(n)|---|
+|No.642|[Design Search Autocomplete System](https://leetcode.com/problems/design-search-autocomplete-system/)|[Solution](./0642/0642.py)|[Note](./0642/note0642.md)|Hard|O(n)|O(n)|TrieNode|
