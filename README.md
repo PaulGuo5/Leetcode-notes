@@ -332,6 +332,7 @@ Table of Contents
 |No.642|[Design Search Autocomplete System](https://leetcode.com/problems/design-search-autocomplete-system/)|[Solution](./0642/0642.py)|[Note](./0642/note0642.md)|Hard|O(n)|O(n)|TrieNode|
 |No.355|[Design Twitter](https://leetcode.com/problems/design-twitter/)|[Solution](./0355/0355.py)|[Note](./0355/note0355.md)|Medium|O(n)|O(n)|---|
 |No.341|[Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)|[Solution](./0341/0341.py)|[Note](./0341/note0341.md)|Medium|O(n)|O(n)|stack|
+|No.353|[Design Snake Game](https://leetcode.com/problems/design-snake-game/)|[Solution](./0353/0353.py)|[Note](./0353/note0353.md)|Medium|O(n)|O(n)|queue|
 
 
 ## SQL
