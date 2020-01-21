@@ -302,6 +302,7 @@ Table of Contents
 |No.1088|[Confusing Number II](https://leetcode.com/problems/confusing-number-ii/)|[Solution](./1088/1088.py)|[Note](./1088/note1088.md)|Hard|O(nlogn)|O(1)|---|
 |No.212|[Word Search II](https://leetcode.com/problems/word-search-ii/)|[Solution](./0212/0212.py)|[Note](./0212/note0212.md)|Hard|O(sum(l)+4^max(l))|O(n)|TrieNode|
 |No.980|[Unique Paths III](https://leetcode.com/problems/unique-paths-iii/)|[Solution](./0980/0980.py)|[Note](./0980/note0980.md)|Hard|O(4^mn)|O(m*n)|dfs|
+|No.267|[Palindrome Permutation II](https://leetcode.com/problems/palindrome-permutation-ii/)|[Solution](./0267/0267.py)|[Note](./0267/note0267.md)|Medium|O(n^2)|O(n)|---|
 
 
 ## Dynamic Programming
