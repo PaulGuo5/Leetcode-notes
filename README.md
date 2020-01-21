@@ -341,3 +341,5 @@ Table of Contents
 |---|-----|--------|----|----------|----|-----|---|
 |No.183|[Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/)|[Solution](./0183/0183.py)|[Note](./0183/note0183.md)|Easy|---|---|join|
 |No.1050|[Actors and Directors Who Cooperated At Least Three Times](https://leetcode.com/problems/actors-and-directors-who-cooperated-at-least-three-times/)|[Solution](./1050/1050.py)|[Note](./1050/note1050.md)|Easy|---|---|groupby+count|
+|No.595|[Big Countries](https://leetcode.com/problems/big-countries/)|[Solution](./0595/0595.py)|[Note](./0595/note0595.md)|Easy|---|---|or/union|
+|No.1075|[Project Employees I](https://leetcode.com/problems/project-employees-i/)|[Solution](./1075/1075.py)|[Note](./1075/note1075.md)|Easy|---|---|round+avg+groupby|
