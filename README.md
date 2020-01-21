@@ -339,4 +339,5 @@ Table of Contents
 ## SQL
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
 |---|-----|--------|----|----------|----|-----|---|
-No.183|[Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/)|[Solution](./0183/0183.py)|[Note](./0183/note0183.md)|Easy|---|---|---|
+|No.183|[Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/)|[Solution](./0183/0183.py)|[Note](./0183/note0183.md)|Easy|---|---|join|
+|No.1050|[Actors and Directors Who Cooperated At Least Three Times](https://leetcode.com/problems/actors-and-directors-who-cooperated-at-least-three-times/)|[Solution](./1050/1050.py)|[Note](./1050/note1050.md)|Easy|---|---|groupby+count|
