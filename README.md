@@ -292,6 +292,7 @@ Table of Contents
 |No.1192|[Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/)|[Solution](./01192/01192.py)|[Note](./01192/note1192.md)|Hard|O(n)|O(n)|dfs/Targan|
 |No.694|[Number of Distinct Islands](https://leetcode.com/problems/number-of-distinct-islands/)|[Solution](./0694/0694.py)|[Note](./0694/note694.md)|Medium|O(nlogn)|O(n)|dfs|
 |No.1102|[Path With Maximum Minimum Value](https://leetcode.com/problems/path-with-maximum-minimum-value/)|[Solution](./1102/1102.py)|[Note](./1102/not1102.md)|Medium|O(nlogn)|O(n)|heap|
+|No.207|[Course Schedule](https://leetcode.com/problems/course-schedule/)|[Solution](./0207/0207.py)|[Note](./0207/not0207.md)|Medium|O(n)|O(n)|dfs/bfs|
 
 ## Backtracking
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
