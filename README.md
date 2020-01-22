@@ -323,7 +323,8 @@ Table of Contents
 |No.140|[Word Break II](https://leetcode.com/problems/word-break-ii/)|[Solution](./0140/0140.py)|[Note](./0140/note0140.md)|Hard|O(nlogn))|O(n)|dfs|
 |No.62|[Unique Paths](https://leetcode.com/problems/unique-paths/)|[Solution](./0062/0062.py)|[Note](./0062/note0062.md)|Hard|O(n^2))|O(n)|---|
 |No.63|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)|[Solution](./0063/0063.py)|[Note](./0063/note0063.md)|Hard|O(n^2))|O(n)|---|
-|No.1000|[Minimum Cost to Merge Stones](hhttps://leetcode.com/problems/minimum-cost-to-merge-stones/)|[Solution](./1000/1000.py)|[Note](./1000/note1000.md)|Hard|O(N^3/K))|O(KN^2)|functools.lru_cache|
+|No.1000|[Minimum Cost to Merge Stones](https://leetcode.com/problems/minimum-cost-to-merge-stones/)|[Solution](./1000/1000.py)|[Note](./1000/note1000.md)|Hard|O(N^3/K))|O(KN^2)|functools.lru_cache|
+|No.279|[Perfect Squares](https://leetcode.com/problems/perfect-squares/)|[Solution](./0279/0279.py)|[Note](./0279/note0279.md)|Medium|O(n^2))|O(n)|---|
 
 
 
