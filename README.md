@@ -132,6 +132,7 @@ Table of Contents
 |No.86|[Partition List](https://leetcode.com/problems/partition-list/)|[Solution](./0086/0086.py)|[Note](./0086/note0086.md)|Medium|O(n)|O(n)|---|
 |No.143|[Reorder List](https://leetcode.com/problems/reorder-list/)|[Solution](./0143/0143.py)|[Note](./0143/note0143.md)|Medium|O(n)|O(n)|---|
 |No.109|[Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/)|[Solution](./0109/0109.py)|[Note](./0109/note0109.md)|Medium|O(nlogn)|O(n)|recursion|
+|No.328|[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)|[Solution](./0328/0328.py)|[Note](./0328/note0328.md)|Medium|O(n)|O(1)|---|
 
 
 
