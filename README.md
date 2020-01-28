@@ -137,6 +137,7 @@ Table of Contents
 |No.430|[Flatten a Multilevel Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/)|[Solution](./0430/0430.py)|[Note](./0430/note0430.md)|Medium|O(n)|O(1)|---|
 |No.445|[Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/)|[Solution](./0445/0445.py)|[Note](./0445/note0445.md)|Medium|O(n)|O(1)|---|
 |No.708|[Insert into a Sorted Circular Linked List](https://leetcode.com/problems/insert-into-a-sorted-circular-linked-list/)|[Solution](./0708/0708.py)|[Note](./0708/note0708.md)|Medium|O(n)|O(1)|---|
+|No.725|[Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts/)|[Solution](./0725/0725.py)|[Note](./0725/note0725.md)|Medium|O(n)|O(n)|---|
 
 
 
