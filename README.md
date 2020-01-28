@@ -140,7 +140,8 @@ Table of Contents
 |No.725|[Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts/)|[Solution](./0725/0725.py)|[Note](./0725/note0725.md)|Medium|O(n)|O(n)|---|
 |No.817|[Linked List Components](https://leetcode.com/problems/linked-list-components/)|[Solution](./0817/0817.py)|[Note](./0817/note0817.md)|Medium|O(n)|O(1)|---|
 |No.1019|[Next Greater Node In Linked List](https://leetcode.com/problems/next-greater-node-in-linked-list/)|[Solution](./1019/1019.py)|[Note](./1019/note1019.md)|Medium|O(n)|O(n)|stack|
-|No.1171|[Remove Zero Sum Consecutive Nodes from Linked List](https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/)|[Solution](./1171/1171.py)|[Note](./1171/note1019.md)|Medium|O(n)|O(n)|---|
+|No.1171|[Remove Zero Sum Consecutive Nodes from Linked List](https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/)|[Solution](./1171/1171.py)|[Note](./1171/note1171.md)|Medium|O(n)|O(n)|---|
+|No.1290|[Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)|[Solution](./1290/1290.py)|[Note](./1290/note1019.md)|Medium|O(n)|O(n)|---|
 
 
 
