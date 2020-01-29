@@ -75,6 +75,7 @@ Table of Contents
 |No.759|[Employee Free Time](https://leetcode.com/problems/employee-free-time/)|[Solution](./0759/0759.py)|[Note](./0759/note0759.md)|Hard|O(nlogn)|O(n)|flatten|
 |No.1152|[Analyze User Website Visit Pattern](https://leetcode.com/problems/analyze-user-website-visit-pattern/)|[Solution](./1152/1152.py)|[Note](./1152/note1152.md)|Hard|O(nlogn)|O(n)|---|
 |No.55|[Jump Game](https://leetcode.com/problems/jump-game/)|[Solution](./0055/0055.py)|[Note](./0055/note0055.md)|Medium|O(n)|O(1)|greedy|
+|No.695|[Max Area of Island](https://leetcode.com/problems/max-area-of-island/)|[Solution](./0695/0695.py)|[Note](./0695/note0695.md)|Medium|O(n^2)|O(n)|dfs|
 
 ## String
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
