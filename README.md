@@ -173,7 +173,7 @@ Table of Contents
 |No.346|[Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/)|[Solution](./0346/0346.py)|[Note](./0346/note0346.md)|Easy|O(n)|O(n)|---|
 |No.127|[Word Ladder](https://leetcode.com/problems/word-ladder/)|[Solution](./0127/0127.py)|[Note](./0127/note0127.md)|Medium|O(nlogn)|O(n)|bfs|
 |No.126|[Word Ladder II](https://leetcode.com/problems/word-ladder-ii/)|[Solution](./0126/0126.py)|[Note](./0126/note0126.md)|Hard|O(nlogn)|O(n)|bfs/dfs|
-
+|No.743|[Network Delay Time](https://leetcode.com/problems/network-delay-time/)|[Solution](./0743/0743.py)|[Note](./0743/not0743.md)|Medium|O(n)|O(n)|graph+heap/queue|
 
 
 
@@ -248,6 +248,7 @@ Table of Contents
 |---|-----|--------|----|----------|----|-----|---|
 |No.253|[Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)|[Solution](./0253/0253.py)|[Note](./0253/note253.md)|Medium|O(nlogn)|O(n)|heapq|
 |No.1167|[inimum Cost to Connect Sticks](https://leetcode.com/problems/minimum-cost-to-connect-sticks/)|[Solution](./1167/1167.py)|[Note](./1167/not1167.md)|Medium|O(nlogn)|O(n)|heapq|
+|No.743|[Network Delay Time](https://leetcode.com/problems/network-delay-time/)|[Solution](./0743/0743.py)|[Note](./0743/not0743.md)|Medium|O(n)|O(n)|graph+heap/queue|
 
 
 ## Binary Search
@@ -307,6 +308,7 @@ Table of Contents
 |No.694|[Number of Distinct Islands](https://leetcode.com/problems/number-of-distinct-islands/)|[Solution](./0694/0694.py)|[Note](./0694/note694.md)|Medium|O(nlogn)|O(n)|dfs|
 |No.1102|[Path With Maximum Minimum Value](https://leetcode.com/problems/path-with-maximum-minimum-value/)|[Solution](./1102/1102.py)|[Note](./1102/not1102.md)|Medium|O(nlogn)|O(n)|heap|
 |No.207|[Course Schedule](https://leetcode.com/problems/course-schedule/)|[Solution](./0207/0207.py)|[Note](./0207/not0207.md)|Medium|O(n)|O(n)|dfs/bfs|
+|No.743|[Network Delay Time](https://leetcode.com/problems/network-delay-time/)|[Solution](./0743/0743.py)|[Note](./0743/not0743.md)|Medium|O(n)|O(n)|graph+heap/queue|
 
 ## Backtracking
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
