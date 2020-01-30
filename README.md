@@ -108,7 +108,8 @@ Table of Contents
 |No.340|[Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/)|[Solution](./0340/0340.py)|[Note](./0340/note0340.md)|Hard|O(n))|O(1)|sliding window|
 |No.1268|[Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/)|[Solution](./1268/1268.py)|[Note](./1268/note1268.md)|Hard|O(nlogn))|O(n)|bisect|
 |No.438|[Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)|[Solution](./0438/0438.py)|[Note](./0438/note0438.md)|Hard|O(n))|O(n)|sliding window|
-
+|No.438|[Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)|[Solution](./0438/0438.py)|[Note](./0438/note0438.md)|Hard|O(n))|O(n)|sliding window|
+|No.271|[Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/)|[Solution](./0271/0271.py)|[Note](./0271/note0271.md)|Medium|O(n))|O(n)|---|
 
 ## Linked List
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
