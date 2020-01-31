@@ -110,6 +110,7 @@ Table of Contents
 |No.438|[Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)|[Solution](./0438/0438.py)|[Note](./0438/note0438.md)|Hard|O(n))|O(n)|sliding window|
 |No.438|[Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)|[Solution](./0438/0438.py)|[Note](./0438/note0438.md)|Hard|O(n))|O(n)|sliding window|
 |No.271|[Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/)|[Solution](./0271/0271.py)|[Note](./0271/note0271.md)|Medium|O(n))|O(n)|---|
+|No.809|[Expressive Words](https://leetcode.com/problems/expressive-words/)|[Solution](./0809/0809.py)|[Note](./0809/note0809.md)|Medium|O(n))|O(1)|---|
 
 ## Linked List
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
