@@ -341,6 +341,7 @@ Table of Contents
 |No.1000|[Minimum Cost to Merge Stones](https://leetcode.com/problems/minimum-cost-to-merge-stones/)|[Solution](./1000/1000.py)|[Note](./1000/note1000.md)|Hard|O(N^3/K))|O(KN^2)|functools.lru_cache|
 |No.279|[Perfect Squares](https://leetcode.com/problems/perfect-squares/)|[Solution](./0279/0279.py)|[Note](./0279/note0279.md)|Medium|O(n^2))|O(n)|---|
 |No.221|[Maximal Square](https://leetcode.com/problems/maximal-square/)|[Solution](./0221/0221.py)|[Note](./0221/note0221.md)|Medium|O(n^2))|O(n)|---|
+|No.801|[Minimum Swaps To Make Sequences Increasing](https://leetcode.com/problems/maximal-square/)|[Solution](./0801/0801.py)|[Note](./0801/note0801.md)|Medium|O(n))|O(n)|---|
 
 
 
