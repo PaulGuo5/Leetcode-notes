@@ -76,6 +76,7 @@ Table of Contents
 |No.1152|[Analyze User Website Visit Pattern](https://leetcode.com/problems/analyze-user-website-visit-pattern/)|[Solution](./1152/1152.py)|[Note](./1152/note1152.md)|Hard|O(nlogn)|O(n)|---|
 |No.55|[Jump Game](https://leetcode.com/problems/jump-game/)|[Solution](./0055/0055.py)|[Note](./0055/note0055.md)|Medium|O(n)|O(1)|greedy|
 |No.695|[Max Area of Island](https://leetcode.com/problems/max-area-of-island/)|[Solution](./0695/0695.py)|[Note](./0695/note0695.md)|Medium|O(n^2)|O(n)|dfs|
+|No.846|[Hand of Straights](https://leetcode.com/problems/hand-of-straights/)|[Solution](./0846/0846.py)|[Note](./0846/note0846.md)|Medium|O(n)|O(1)|try+except|
 
 ## String
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
