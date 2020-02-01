@@ -270,6 +270,7 @@ Table of Contents
 |No.774|[Minimize Max Distance to Gas Station](https://leetcode.com/problems/minimize-max-distance-to-gas-station/)|[Solution](./0774/0774.py)|[Note](./0774/note0774.md)|Hard|O(log(n))|O(1)|---|
 |No.1044|[Longest Duplicate Substring](https://leetcode.com/problems/longest-duplicate-substring/)|[Solution](./1044/1044.py)|[Note](./1044/note1044.md)|Hard|O(log(n))|O(n)|Rabin-karp|
 |No.528|[Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/)|[Solution](./0528/0528.py)|[Note](./0528/note0528.md)|Medium|O(log(n))|O(n)|random|
+|No.981|[Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/)|[Solution](./0981/0981.py)|[Note](./0981/note0981.md)|Medium|O(log(n))|O(n)|bisect|
 
 
 ## Binary Search Tree
