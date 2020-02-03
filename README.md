@@ -352,6 +352,7 @@ Table of Contents
 |No.221|[Maximal Square](https://leetcode.com/problems/maximal-square/)|[Solution](./0221/0221.py)|[Note](./0221/note0221.md)|Medium|O(n^2))|O(n)|---|
 |No.801|[Minimum Swaps To Make Sequences Increasing](https://leetcode.com/problems/maximal-square/)|[Solution](./0801/0801.py)|[Note](./0801/note0801.md)|Medium|O(n))|O(n)|---|
 |No.877|[Stone Game](https://leetcode.com/problems/stone-game/)|[Solution](./0877/0877.py)|[Note](./0877/note0877.md)|Medium|O(n^2))|O(n^2)|---|
+|No.486|[Predict the Winner](https://leetcode.com/problems/predict-the-winner/)|[Solution](./0486/0486.py)|[Note](./0486/note0486.md)|Medium|O(n^2))|O(n^2)|---|
 
 
 
