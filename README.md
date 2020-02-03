@@ -351,6 +351,7 @@ Table of Contents
 |No.279|[Perfect Squares](https://leetcode.com/problems/perfect-squares/)|[Solution](./0279/0279.py)|[Note](./0279/note0279.md)|Medium|O(n^2))|O(n)|---|
 |No.221|[Maximal Square](https://leetcode.com/problems/maximal-square/)|[Solution](./0221/0221.py)|[Note](./0221/note0221.md)|Medium|O(n^2))|O(n)|---|
 |No.801|[Minimum Swaps To Make Sequences Increasing](https://leetcode.com/problems/maximal-square/)|[Solution](./0801/0801.py)|[Note](./0801/note0801.md)|Medium|O(n))|O(n)|---|
+|No.877|[Stone Game](https://leetcode.com/problems/stone-game/)|[Solution](./0877/0877.py)|[Note](./0877/note0877.md)|Medium|O(n^2))|O(n^2)|---|
 
 
 
