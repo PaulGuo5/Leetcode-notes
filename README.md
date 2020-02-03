@@ -77,7 +77,7 @@ Table of Contents
 |No.55|[Jump Game](https://leetcode.com/problems/jump-game/)|[Solution](./0055/0055.py)|[Note](./0055/note0055.md)|Medium|O(n)|O(1)|greedy|
 |No.695|[Max Area of Island](https://leetcode.com/problems/max-area-of-island/)|[Solution](./0695/0695.py)|[Note](./0695/note0695.md)|Medium|O(n^2)|O(n)|dfs|
 |No.846|[Hand of Straights](https://leetcode.com/problems/hand-of-straights/)|[Solution](./0846/0846.py)|[Note](./0846/note0846.md)|Medium|O(n)|O(1)|try+except|
-|No.1146|[Snapshot Array](https://leetcode.com/problems/snapshot-array/)|[Solution](./1146/1146.py)|[Note](./1146/note1146.md)|Medium|O(n)|O(n)|deepcopy|
+|No.1146|[Snapshot Array](https://leetcode.com/problems/snapshot-array/)|[Solution](./1146/1146.py)|[Note](./1146/note1146.md)|Medium|O(n)|O(n)|copy|
 
 ## String
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
@@ -275,6 +275,8 @@ Table of Contents
 |No.1044|[Longest Duplicate Substring](https://leetcode.com/problems/longest-duplicate-substring/)|[Solution](./1044/1044.py)|[Note](./1044/note1044.md)|Hard|O(log(n))|O(n)|Rabin-karp|
 |No.528|[Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/)|[Solution](./0528/0528.py)|[Note](./0528/note0528.md)|Medium|O(log(n))|O(n)|random|
 |No.981|[Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/)|[Solution](./0981/0981.py)|[Note](./0981/note0981.md)|Medium|O(log(n))|O(n)|bisect|
+|No.981|[Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/)|[Solution](./0981/0981.py)|[Note](./0981/note0981.md)|Medium|O(log(n))|O(n)|bisect|
+|No.1170|[Compare Strings by Frequency of the Smallest Character](https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character/)|[Solution](./1170/1170.py)|[Note](./1170/note1170.md)|Medium|O(log(n))|O(n)|bisect|
 
 
 ## Binary Search Tree
