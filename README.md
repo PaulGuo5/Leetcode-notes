@@ -79,6 +79,8 @@ Table of Contents
 |No.695|[Max Area of Island](https://leetcode.com/problems/max-area-of-island/)|[Solution](./0695/0695.py)|[Note](./0695/note0695.md)|Medium|O(n^2)|O(n)|dfs|
 |No.846|[Hand of Straights](https://leetcode.com/problems/hand-of-straights/)|[Solution](./0846/0846.py)|[Note](./0846/note0846.md)|Medium|O(n)|O(1)|try+except|
 |No.1146|[Snapshot Array](https://leetcode.com/problems/snapshot-array/)|[Solution](./1146/1146.py)|[Note](./1146/note1146.md)|Medium|O(n)|O(n)|copy|
+|No.73|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)|[Solution](./0073/0073.py)|[Note](./0073/note0073.md)|Medium|O(n^2)|O(n)|---|
+
 
 ## String
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
