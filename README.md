@@ -180,6 +180,7 @@ Table of Contents
 |No.126|[Word Ladder II](https://leetcode.com/problems/word-ladder-ii/)|[Solution](./0126/0126.py)|[Note](./0126/note0126.md)|Hard|O(nlogn)|O(n)|bfs/dfs|
 |No.743|[Network Delay Time](https://leetcode.com/problems/network-delay-time/)|[Solution](./0743/0743.py)|[Note](./0743/not0743.md)|Medium|O(n)|O(n)|graph+heap/queue|
 |No.752|[Open the Lock](https://leetcode.com/problems/open-the-lock/)|[Solution](./0752/0752.py)|[Note](./0752/not0752.md)|Medium|O(8*10000)|O(10000)|bfs deque|
+|No.1197|[Minimum Knight Moves](https://leetcode.com/problems/minimum-knight-moves/)|[Solution](./1197/1197.py)|[Note](./1197/not1197.md)|Medium|O(n)|O(n)|bfs deque|
 
 
 ## Binary Tree
