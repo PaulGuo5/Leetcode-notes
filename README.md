@@ -80,6 +80,7 @@ Table of Contents
 |No.846|[Hand of Straights](https://leetcode.com/problems/hand-of-straights/)|[Solution](./0846/0846.py)|[Note](./0846/note0846.md)|Medium|O(n)|O(1)|try+except|
 |No.1146|[Snapshot Array](https://leetcode.com/problems/snapshot-array/)|[Solution](./1146/1146.py)|[Note](./1146/note1146.md)|Medium|O(n)|O(n)|copy|
 |No.73|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)|[Solution](./0073/0073.py)|[Note](./0073/note0073.md)|Medium|O(n^2)|O(n)|---|
+|No.48|[Rotate Image](https://leetcode.com/problems/rotate-image/)|[Solution](./0048/0048.py)|[Note](./0048/note0048.md)|Medium|O(n^2)|O(1)|---|
 
 
 ## String
