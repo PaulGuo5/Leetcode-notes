@@ -339,6 +339,7 @@ Table of Contents
 |No.980|[Unique Paths III](https://leetcode.com/problems/unique-paths-iii/)|[Solution](./0980/0980.py)|[Note](./0980/note0980.md)|Hard|O(4^mn)|O(m*n)|dfs|
 |No.267|[Palindrome Permutation II](https://leetcode.com/problems/palindrome-permutation-ii/)|[Solution](./0267/0267.py)|[Note](./0267/note0267.md)|Medium|O(n^2)|O(n)|---|
 |No.1219|[Path with Maximum Gold](https://leetcode.com/problems/path-with-maximum-gold/)|[Solution](./1219/1219.py)|[Note](./1219/not1219.md)|Medium|O(n^2)|O(n)|dfs|
+|No.131|[Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)|[Solution](./0131/0131.py)|[Note](./0131/not0131.md)|Medium|O(n!)|O(n)|---|
 
 ## Dynamic Programming
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
