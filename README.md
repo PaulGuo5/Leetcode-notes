@@ -323,6 +323,7 @@ Table of Contents
 |No.207|[Course Schedule](https://leetcode.com/problems/course-schedule/)|[Solution](./0207/0207.py)|[Note](./0207/not0207.md)|Medium|O(n)|O(n)|dfs/bfs|
 |No.743|[Network Delay Time](https://leetcode.com/problems/network-delay-time/)|[Solution](./0743/0743.py)|[Note](./0743/not0743.md)|Medium|O(n)|O(n)|graph+heap/queue|
 
+
 ## Backtracking
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
 |---|-----|--------|----|----------|----|-----|---|
@@ -332,7 +333,7 @@ Table of Contents
 |No.212|[Word Search II](https://leetcode.com/problems/word-search-ii/)|[Solution](./0212/0212.py)|[Note](./0212/note0212.md)|Hard|O(sum(l)+4^max(l))|O(n)|TrieNode|
 |No.980|[Unique Paths III](https://leetcode.com/problems/unique-paths-iii/)|[Solution](./0980/0980.py)|[Note](./0980/note0980.md)|Hard|O(4^mn)|O(m*n)|dfs|
 |No.267|[Palindrome Permutation II](https://leetcode.com/problems/palindrome-permutation-ii/)|[Solution](./0267/0267.py)|[Note](./0267/note0267.md)|Medium|O(n^2)|O(n)|---|
-
+|No.1219|[Path with Maximum Gold](https://leetcode.com/problems/path-with-maximum-gold/)|[Solution](./1219/1219.py)|[Note](./1219/not1219.md)|Medium|O(n^2)|O(n)|dfs|
 
 ## Dynamic Programming
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
