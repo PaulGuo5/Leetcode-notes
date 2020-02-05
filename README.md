@@ -41,6 +41,7 @@ Table of Contents
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
 |---|-----|--------|----|----------|----|-----|---|
 |No.136|[Single Number](https://leetcode.com/problems/single-number/)|[Solution](./0136/0136.py)|[Note](./0136/note0136.md)|Easy|O(n)|O(1)|Bit Manipulation|
+|No.29|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)|[Solution](./0029/0029.py)|[Note](./0029/note0029.md)|Medium|O(n)|O(1)|---|
 
 
 
