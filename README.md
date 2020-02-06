@@ -366,6 +366,7 @@ Table of Contents
 |No.877|[Stone Game](https://leetcode.com/problems/stone-game/)|[Solution](./0877/0877.py)|[Note](./0877/note0877.md)|Medium|O(n^2))|O(n^2)|---|
 |No.486|[Predict the Winner](https://leetcode.com/problems/predict-the-winner/)|[Solution](./0486/0486.py)|[Note](./0486/note0486.md)|Medium|O(n^2))|O(n^2)|---|
 |No.5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)|[Solution](./0005/0005.py)|[Note](./0005/note0005.md)|Medium|O(n^2)|O(n^2)|---|
+|No.312|[Burst Balloons](https://leetcode.com/problems/burst-balloons/)|[Solution](./0312/0312.py)|[Note](./0312/note0312.md)|Hard|O(n^3)|O(n^2)|---|
 
 
 ## Design
