@@ -368,6 +368,7 @@ Table of Contents
 |No.5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)|[Solution](./0005/0005.py)|[Note](./0005/note0005.md)|Medium|O(n^2)|O(n^2)|---|
 |No.312|[Burst Balloons](https://leetcode.com/problems/burst-balloons/)|[Solution](./0312/0312.py)|[Note](./0312/note0312.md)|Hard|O(n^3)|O(n^2)|---|
 |No.338|[Counting Bits](https://leetcode.com/problems/counting-bits/)|[Solution](./0338/0338.py)|[Note](./0338/note0338.md)|Hard|O(n)|O(n)|---|
+|No.494|[Target Sum](https://leetcode.com/problems/target-sum/)|[Solution](./0494/0494.py)|[Note](./0494/note0494.md)|Medium|O(n*m)|O(n)|---|
 
 
 ## Design
