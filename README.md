@@ -255,7 +255,7 @@ Table of Contents
 |No.295|[Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)|[Solution](./0295/0295.py)|[Note](./0295/note295.md)|Hard|O(n)|O(n)|---|
 |No.692|[Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/)|[Solution](./0692/0692.py)|[Note](./0692/note692.md)|Medium|O(nlogn)|O(n)|---|
 |No.1057|[Campus Bikes](https://leetcode.com/problems/campus-bikes/)|[Solution](./1057/1057.py)|[Note](./1057/not1057.md)|Medium|O(n^2)|O(n)|---|
-
+|No.912|[Sort an Array](https://leetcode.com/problems/sort-an-array/)|[Solution](./0912/0912.py)|[Note](./0912/note912.md)|Medium|---|---|sortings method summary|
 
 
 ## Heap
