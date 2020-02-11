@@ -344,6 +344,7 @@ Table of Contents
 |No.267|[Palindrome Permutation II](https://leetcode.com/problems/palindrome-permutation-ii/)|[Solution](./0267/0267.py)|[Note](./0267/note0267.md)|Medium|O(n^2)|O(n)|---|
 |No.1219|[Path with Maximum Gold](https://leetcode.com/problems/path-with-maximum-gold/)|[Solution](./1219/1219.py)|[Note](./1219/not1219.md)|Medium|O(n^2)|O(n)|dfs|
 |No.131|[Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)|[Solution](./0131/0131.py)|[Note](./0131/not0131.md)|Medium|O(n!)|O(n)|---|
+|No.37|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)|[Solution](./0037/0037.py)|[Note](./0037/note037.md)|Hard|O(nlogn)|O(n)|---|
 
 ## Dynamic Programming
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
