@@ -331,6 +331,7 @@ Table of Contents
 |No.743|[Network Delay Time](https://leetcode.com/problems/network-delay-time/)|[Solution](./0743/0743.py)|[Note](./0743/not0743.md)|Medium|O(n)|O(n)|graph+heap/queue|
 |No.130|[Surrounded Regions](https://leetcode.com/problems/surrounded-regions/)|[Solution](./0130/0130.py)|[Note](./0130/not0130.md)|Medium|O(n^2)|O(n)|dfs|
 |No.210|[Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)|[Solution](./0210/0210.py)|[Note](./0210/not0210.md)|Medium|O(n)|O(n)|bfs|
+|No.269|[Alien Dictionary](https://leetcode.com/problems/alien-dictionary/)|[Solution](./0269/0269.py)|[Note](./0269/not0269.md)|Hard|O(n)|O(n)|bfs|
 
 ## Backtracking
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
