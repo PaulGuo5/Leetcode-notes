@@ -345,6 +345,7 @@ Table of Contents
 |No.1219|[Path with Maximum Gold](https://leetcode.com/problems/path-with-maximum-gold/)|[Solution](./1219/1219.py)|[Note](./1219/not1219.md)|Medium|O(n^2)|O(n)|dfs|
 |No.131|[Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)|[Solution](./0131/0131.py)|[Note](./0131/not0131.md)|Medium|O(n!)|O(n)|---|
 |No.37|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)|[Solution](./0037/0037.py)|[Note](./0037/note037.md)|Hard|O(nlogn)|O(n)|---|
+|No.51|[N-Queens](https://leetcode.com/problems/n-queens/)|[Solution](./0051/0051.py)|[Note](./0051/note051.md)|Hard|O(n!)|O(n)|---|
 
 ## Dynamic Programming
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
