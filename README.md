@@ -375,6 +375,7 @@ Table of Contents
 |No.312|[Burst Balloons](https://leetcode.com/problems/burst-balloons/)|[Solution](./0312/0312.py)|[Note](./0312/note0312.md)|Hard|O(n^3)|O(n^2)|---|
 |No.338|[Counting Bits](https://leetcode.com/problems/counting-bits/)|[Solution](./0338/0338.py)|[Note](./0338/note0338.md)|Hard|O(n)|O(n)|---|
 |No.494|[Target Sum](https://leetcode.com/problems/target-sum/)|[Solution](./0494/0494.py)|[Note](./0494/note0494.md)|Medium|O(n*m)|O(n)|---|
+|No.64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)|[Solution](./0064/0064.py)|[Note](./0064/note0064.md)|Medium|O(n^2)|O(n^2)|---|
 
 
 ## Design
