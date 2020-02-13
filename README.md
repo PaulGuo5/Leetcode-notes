@@ -240,6 +240,7 @@ Table of Contents
 |No.298|[Binary Tree Longest Consecutive Sequence](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence/)|[Solution](./0298/0298.py)|[Note](./0298/not0298.md)|Medium|O(n)|O(1)|---|
 |No.951|[Flip Equivalent Binary Trees](https://leetcode.com/problems/flip-equivalent-binary-trees/)|[Solution](./0951/0951.py)|[Note](./0951/not0951.md)|Medium|O(n)|O(1)|---|
 |No.1145|[Binary Tree Coloring Game](https://leetcode.com/problems/binary-tree-coloring-game/)|[Solution](./1145/1145.py)|[Note](./1145/not1145.md)|Medium|O(n)|O(1)|---|
+|No.250|[Count Univalue Subtrees](https://leetcode.com/problems/count-univalue-subtrees/)|[Solution](./0250/0250.py)|[Note](./0250/not0250.md)|Medium|O(n)|O(1)|---|
 
 
 ## Hash Table
