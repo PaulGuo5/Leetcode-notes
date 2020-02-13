@@ -168,6 +168,7 @@ Table of Contents
 |No.456|[132 Pattern](https://leetcode.com/problems/132-pattern/)|[Solution](./0456/0456.py)|[Note](./0456/note0456.md)|Medium|O(n)|O(n)|---|
 |No.32|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)|[Solution](./0032/0032.py)|[Note](./0032/note0032.md)|Hard|O(n)|O(n)|---|
 |No.582|[Kill Process](https://leetcode.com/problems/kill-process/)|[Solution](./0582/0582.py)|[Note](./0582/note0582.md)|Medium|O(n)|O(n)|---|
+|No.716|[Max Stack](https://leetcode.com/problems/max-stack/)|[Solution](./0716/0716.py)|[Note](./0716/note0716.md)|Easy|O(n)|O(n)|---|
 
 
 
