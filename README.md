@@ -350,6 +350,8 @@ Table of Contents
 |No.37|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)|[Solution](./0037/0037.py)|[Note](./0037/note037.md)|Hard|O(nlogn)|O(n)|---|
 |No.51|[N-Queens](https://leetcode.com/problems/n-queens/)|[Solution](./0051/0051.py)|[Note](./0051/note051.md)|Hard|O(n!)|O(n)|---|
 
+
+
 ## Dynamic Programming
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
 |---|-----|--------|----|----------|----|-----|---|
@@ -378,6 +380,9 @@ Table of Contents
 |No.338|[Counting Bits](https://leetcode.com/problems/counting-bits/)|[Solution](./0338/0338.py)|[Note](./0338/note0338.md)|Hard|O(n)|O(n)|---|
 |No.494|[Target Sum](https://leetcode.com/problems/target-sum/)|[Solution](./0494/0494.py)|[Note](./0494/note0494.md)|Medium|O(n*m)|O(n)|---|
 |No.64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)|[Solution](./0064/0064.py)|[Note](./0064/note0064.md)|Medium|O(n^2)|O(n^2)|---|
+|No.1143|[Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)|[Solution](./1143/1143.py)|[Note](./1143/note1143.md)|Medium|O(n^2)|O(n^2)|---|
+|No.300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)|[Solution](./0300/0300.py)|[Note](./0300/note0300.md)|Easy|O(n^2)|O(n)|---|
+
 
 
 ## Design
