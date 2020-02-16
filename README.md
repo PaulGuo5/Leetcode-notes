@@ -382,6 +382,7 @@ Table of Contents
 |No.64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)|[Solution](./0064/0064.py)|[Note](./0064/note0064.md)|Medium|O(n^2)|O(n^2)|---|
 |No.1143|[Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)|[Solution](./1143/1143.py)|[Note](./1143/note1143.md)|Medium|O(n^2)|O(n^2)|---|
 |No.300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)|[Solution](./0300/0300.py)|[Note](./0300/note0300.md)|Easy|O(n^2)|O(n)|---|
+|No.673|[Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/)|[Solution](./0673/0673.py)|[Note](./0673/note0673.md)|Medium|O(n^2)|O(n^2)|---|
 
 
 
