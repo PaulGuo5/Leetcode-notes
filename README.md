@@ -270,6 +270,7 @@ Table of Contents
 |No.253|[Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)|[Solution](./0253/0253.py)|[Note](./0253/note253.md)|Medium|O(nlogn)|O(n)|heapq|
 |No.1167|[inimum Cost to Connect Sticks](https://leetcode.com/problems/minimum-cost-to-connect-sticks/)|[Solution](./1167/1167.py)|[Note](./1167/not1167.md)|Medium|O(nlogn)|O(n)|heapq|
 |No.743|[Network Delay Time](https://leetcode.com/problems/network-delay-time/)|[Solution](./0743/0743.py)|[Note](./0743/not0743.md)|Medium|O(n)|O(n)|graph+heap/queue|
+|No.373|[Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/)|[Solution](./0373/0373.py)|[Note](./0373/not0373.md)|Medium|O(nlogn)|O(n)|heapq|
 
 
 ## Binary Search
