@@ -4,14 +4,19 @@ class MedianFinder:
         """
         initialize your data structure here.
         """
-        self.nums = []
+        self.small, self.large = [], []
 
     def addNum(self, num: int) -> None:
-        self.nums.append(num)
-        self.nums.sort()
+        if len(self.small) == len(self.large):
+            heapq.heappush(self.large, -heapq.heappushpop(self.small, -num))
+        else:
+            heapq.heappush(self.small, -heapq.heappushpop(self.large, num))
 
     def findMedian(self) -> float:
-        return self.nums[len(self.nums)//2] if len(self.nums) % 2 == 1 else (self.nums[len(self.nums)//2-1]+self.nums[len(self.nums)//2])*0.5
+        if len(self.small) == len(self.large):
+            return (self.large[0] - self.small[0])/2.0
+        else:
+            return self.large[0]/1.0
 
 
 # Your MedianFinder object will be instantiated and called as such:

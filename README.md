@@ -271,6 +271,9 @@ Table of Contents
 |No.1167|[inimum Cost to Connect Sticks](https://leetcode.com/problems/minimum-cost-to-connect-sticks/)|[Solution](./1167/1167.py)|[Note](./1167/not1167.md)|Medium|O(nlogn)|O(n)|heapq|
 |No.743|[Network Delay Time](https://leetcode.com/problems/network-delay-time/)|[Solution](./0743/0743.py)|[Note](./0743/not0743.md)|Medium|O(n)|O(n)|graph+heap/queue|
 |No.373|[Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/)|[Solution](./0373/0373.py)|[Note](./0373/not0373.md)|Medium|O(nlogn)|O(n)|heapq|
+|No.378|[Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)|[Solution](./0378/0378.py)|[Note](./0378/not0378.md)|Medium|O(nlogn)|O(n)|heapq|
+|No.295|[Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)|[Solution](./0295/0295.py)|[Note](./0295/not0295.md)|Hard|O(nlogn)|O(n)|heapq|
+|No.703|[Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)|[Solution](./0703/0703.py)|[Note](./0703/not0703.md)|Easy|O(nlogn)|O(n)|heapq|
 
 
 ## Binary Search
