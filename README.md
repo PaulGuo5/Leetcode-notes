@@ -121,6 +121,7 @@ Table of Contents
 |No.833|[Find And Replace in String](https://leetcode.com/problems/find-and-replace-in-string/)|[Solution](./0833/0833.py)|[Note](./0833/note0833.md)|Medium|O(n))|O(1)|---|
 |No.1055|[Shortest Way to Form String](https://leetcode.com/problems/shortest-way-to-form-string/)|[Solution](./01055/01055.py)|[Note](./01055/note01055.md)|Medium|O(n))|O(1)|---|
 |No.161|[One Edit Distance](https://leetcode.com/problems/one-edit-distance/)|[Solution](./0161/0161.py)|[Note](./0161/note0161.md)|Medium|O(n))|O(1)|---|
+|No.161|[Word Subsets](https://leetcode.com/problems/word-subsets/)|[Solution](./0161/0161.py)|[Note](./0161/note0161.md)|Medium|O(n^2))|O(n)|---|
 
 
 ## Linked List
