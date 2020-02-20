@@ -246,6 +246,7 @@ Table of Contents
 |No.951|[Flip Equivalent Binary Trees](https://leetcode.com/problems/flip-equivalent-binary-trees/)|[Solution](./0951/0951.py)|[Note](./0951/not0951.md)|Medium|O(n)|O(1)|---|
 |No.1145|[Binary Tree Coloring Game](https://leetcode.com/problems/binary-tree-coloring-game/)|[Solution](./1145/1145.py)|[Note](./1145/not1145.md)|Medium|O(n)|O(1)|---|
 |No.250|[Count Univalue Subtrees](https://leetcode.com/problems/count-univalue-subtrees/)|[Solution](./0250/0250.py)|[Note](./0250/not0250.md)|Medium|O(n)|O(1)|---|
+|No.1038|[Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/)|[Solution](./1038/1038.py)|[Note](./1038/not1038.md)|Medium|O(nlogn)|O(1)|---|
 
 
 ## Hash Table
