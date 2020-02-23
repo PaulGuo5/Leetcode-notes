@@ -252,6 +252,7 @@ Table of Contents
 |No.1038|[Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/)|[Solution](./1038/1038.py)|[Note](./1038/not1038.md)|Medium|O(n)|O(1)|---|
 |No.1214|[Two Sum BSTs](https://leetcode.com/problems/two-sum-bsts/)|[Solution](./1214/1214.py)|[Note](./1214/not1214.md)|Medium|O(n)|O(n)|---|
 |No.654|[Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/)|[Solution](./0654/0654.py)|[Note](./0654/not0654.md)|Medium|O(n)|O(1)|---|
+|No.314|[Binary Tree Vertical Order Traversal](https://leetcode.com/problems/binary-tree-vertical-order-traversal/)|[Solution](./0314/0314.py)|[Note](./0314/not0314.md)|Medium|O(n)|O(n)|queue|
 
 
 ## Hash Table
