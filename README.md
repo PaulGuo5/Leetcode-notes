@@ -307,7 +307,7 @@ Table of Contents
 ## Binary Search Tree
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
 |---|-----|--------|----|----------|----|-----|---|
-
+|No.776|[Split BST](https://leetcode.com/problems/split-bst/)|[Solution](./0776/0776.py)|[Note](./0776/note0776.md)|Medium|O(log(n))|O(1)|---|
 
 
 ## N-ary Tree
