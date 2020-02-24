@@ -405,6 +405,7 @@ Table of Contents
 |No.72|[Edit Distance](https://leetcode.com/problems/edit-distance/)|[Solution](./0072/0072.py)|[Note](./0072/note0072.md)|Hard|O(n^2))|O(n^2)|---|
 |No.416|[Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)|[Solution](./0416/0416.py)|[Note](./0416/note0416.md)|Medium|O(n^2)|O(n^2)|---|
 |No.689|[Maximum Sum of 3 Non-Overlapping Subarrays](https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays/)|[Solution](./0689/0689.py)|[Note](./0689/note0689.md)|Hard|O(n)|O(n)|---|
+|No.152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)|[Solution](./0152/0152.py)|[Note](./0152/note0152.md)|Medium|O(n)|O(n)|---|
 
 
 ## Design
