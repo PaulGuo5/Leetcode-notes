@@ -263,6 +263,7 @@ Table of Contents
 |No.706|[Design HashMap](https://leetcode.com/problems/design-hashmap/)|[Solution](./0706/0706.py)|[Note](./0706/note706.md)|Easy|O(n)|O(n)|---|
 |No.36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[Solution](./0036/0036.py)|[Note](./0036/note036.md)|Medium|O(n^2)|O(n)|---|
 |No.939|[Minimum Area Rectangle](https://leetcode.com/problems/minimum-area-rectangle/)|[Solution](./0939/0939.py)|[Note](./0939/note939.md)|Medium|O(n^2)|O(n)|---|
+|No.187|[Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/)|[Solution](./0187/0187.py)|[Note](./0187/note187.md)|Medium|O(n)|O(n)|---|
 
 
 ## Sort
