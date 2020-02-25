@@ -343,6 +343,7 @@ Table of Contents
 |No.166|[Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/)|[Solution](./0166/0166.py)|[Note](./0166/note0166.md)|Medium|O(n)|O(n)|---|
 |No.282|[Expression Add Operators](https://leetcode.com/problems/expression-add-operators/)|[Solution](./0282/0282.py)|[Note](./0282/note0282.md)|Hard|O(4^n)|O(n)|dfs|
 |No.43|[Multiply Strings](https://leetcode.com/problems/multiply-strings/)|[Solution](./0043/0043.py)|[Note](./0043/note0043.md)|Medium|O(n^2)|O(n)|---|
+|No.498|[Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/)|[Solution](./0498/0498.py)|[Note](./0498/note0498.md)|Medium|O(n*m)|O(n*m)|---|
 
 ## Graph
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
