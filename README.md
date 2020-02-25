@@ -185,7 +185,7 @@ Table of Contents
 |No.247|[Strobogrammatic Number II](https://leetcode.com/problems/strobogrammatic-number-ii/)|[Solution](./0247/0247.py)|[Note](./0247/note0247.md)|Medium|O(n)|O(n)|---|
 |No.39|[Combination Sum](https://leetcode.com/problems/combination-sum/)|[Solution](./0039/0039.py)|[Note](./0039/note0039.md)|Medium|O(2^n)|O(n)|---|
 |No.40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)|[Solution](./0040/0040.py)|[Note](./0040/note0040.md)|Medium|O(2^n)|O(n)|---|
-
+|No.339|[Nested List Weight Sum](https://leetcode.com/problems/nested-list-weight-sum/)|[Solution](./0339/0339.py)|[Note](./0339/note0339.md)|Easy|O(n)|O(1)|---|
 
 
 
