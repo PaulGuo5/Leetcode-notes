@@ -409,6 +409,7 @@ Table of Contents
 |No.416|[Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)|[Solution](./0416/0416.py)|[Note](./0416/note0416.md)|Medium|O(n^2)|O(n^2)|---|
 |No.689|[Maximum Sum of 3 Non-Overlapping Subarrays](https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays/)|[Solution](./0689/0689.py)|[Note](./0689/note0689.md)|Hard|O(n)|O(n)|---|
 |No.152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)|[Solution](./0152/0152.py)|[Note](./0152/note0152.md)|Medium|O(n)|O(n)|---|
+|No.516|[Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/)|[Solution](./0516/0516.py)|[Note](./0516/note0516.md)|Medium|O(n^2)|O(n^2)|---|
 
 
 ## Design
