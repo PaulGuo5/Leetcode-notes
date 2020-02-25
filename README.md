@@ -360,6 +360,7 @@ Table of Contents
 |No.210|[Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)|[Solution](./0210/0210.py)|[Note](./0210/not0210.md)|Medium|O(n)|O(n)|bfs|
 |No.269|[Alien Dictionary](https://leetcode.com/problems/alien-dictionary/)|[Solution](./0269/0269.py)|[Note](./0269/not0269.md)|Hard|O(n)|O(n)|bfs|
 |No.684|[Redundant Connection](https://leetcode.com/problems/redundant-connection/)|[Solution](./0684/0684.py)|[Note](./0684/not0684.md)|Medium|O(n^2)/O(n)|O(n)|dfs/Union find|
+|No.787|[Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/)|[Solution](./0787/0787.py)|[Note](./0787/not0787.md)|Medium|O(m+nlogn)|O(n)|Dijkstra+heap|
 
 ## Backtracking
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
