@@ -288,6 +288,7 @@ Table of Contents
 |No.378|[Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)|[Solution](./0378/0378.py)|[Note](./0378/not0378.md)|Medium|O(nlogn)|O(n)|heapq|
 |No.295|[Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)|[Solution](./0295/0295.py)|[Note](./0295/not0295.md)|Hard|O(nlogn)|O(n)|heapq|
 |No.703|[Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)|[Solution](./0703/0703.py)|[Note](./0703/not0703.md)|Easy|O(nlogn)|O(n)|heapq|
+|No.786|[K-th Smallest Prime Fraction](https://leetcode.com/problems/k-th-smallest-prime-fraction/)|[Solution](./0786/0786.py)|[Note](./0786/not0786.md)|Hard|O(nlogn)|O(n)|heapq|
 
 
 ## Binary Search
