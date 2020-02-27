@@ -440,3 +440,4 @@ Table of Contents
 |No.1082|[Sales Analysis I](https://leetcode.com/problems/sales-analysis-i/)|[Solution](./1082/1082.py)|[Note](./1082/note1082.md)|Easy|---|---|groupby+sum+having+orderby|
 |No.1068|[Product Sales Analysis I](https://leetcode.com/problems/product-sales-analysis-i/)|[Solution](./1068/1068.py)|[Note](./1068/note1068.md)|Easy|---|---|INNER JOIN|
 |No.1148|[Article Views I](https://leetcode.com/problems/article-views-i/)|[Solution](./1148/1148.sql)|[Note](./1148/note1148.md)|Easy|---|---|distinct+orderby|
+|No.1303|[Find the Team Size](https://leetcode.com/problems/find-the-team-size/)|[Solution](./1303/1303.sql)|[Note](./1303/note1303.md)|Easy|---|---|inner join+count|
