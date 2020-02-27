@@ -442,3 +442,4 @@ Table of Contents
 |No.1148|[Article Views I](https://leetcode.com/problems/article-views-i/)|[Solution](./1148/1148.sql)|[Note](./1148/note1148.md)|Easy|---|---|distinct+orderby|
 |No.1303|[Find the Team Size](https://leetcode.com/problems/find-the-team-size/)|[Solution](./1303/1303.sql)|[Note](./1303/note1303.md)|Easy|---|---|inner join+count|
 |No.1251|[Average Selling Price](https://leetcode.com/problems/average-selling-price/)|[Solution](./1251/1251.sql)|[Note](./1251/note1251.md)|Easy|---|---|right join+round+sum|
+|No.1327|[List the Products Ordered in a Period](https://leetcode.com/problems/list-the-products-ordered-in-a-period/)|[Solution](./1327/1327.sql)|[Note](./1327/note1327.md)|Easy|---|---|join+having+sum|
