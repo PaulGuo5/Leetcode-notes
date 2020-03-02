@@ -318,6 +318,7 @@ Table of Contents
 |---|-----|--------|----|----------|----|-----|---|
 |No.776|[Split BST](https://leetcode.com/problems/split-bst/)|[Solution](./0776/0776.py)|[Note](./0776/note0776.md)|Medium|O(log(n))|O(1)|---|
 |No.230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)|[Solution](./0230/0230.py)|[Note](./0230/note0230.md)|Medium|O(n)|O(1)|---|
+|No.285|[Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst/)|[Solution](./0285/0285.py)|[Note](./0285/note0285.md)|Medium|O(n)|O(1)|---|
 
 
 ## N-ary Tree
