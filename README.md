@@ -311,7 +311,7 @@ Table of Contents
 |No.981|[Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/)|[Solution](./0981/0981.py)|[Note](./0981/note0981.md)|Medium|O(log(n))|O(n)|bisect|
 |No.1170|[Compare Strings by Frequency of the Smallest Character](https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character/)|[Solution](./1170/1170.py)|[Note](./1170/note1170.md)|Medium|O(log(n))|O(n)|bisect|
 |No.16|[3Sum Closest](https://leetcode.com/problems/3sum-closest/)|[Solution](./0016/0016.py)|[Note](./0016/note0016.md)|Medium|O(n^2)|O(n)|---|
-
+|No.540|[Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)|[Solution](./0540/0540.py)|[Note](./0540/note0540.md)|Medium|O(log(n))|O(1)|---|
 
 ## Binary Search Tree
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
