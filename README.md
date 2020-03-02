@@ -348,6 +348,7 @@ Table of Contents
 |No.43|[Multiply Strings](https://leetcode.com/problems/multiply-strings/)|[Solution](./0043/0043.py)|[Note](./0043/note0043.md)|Medium|O(n^2)|O(n)|---|
 |No.498|[Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/)|[Solution](./0498/0498.py)|[Note](./0498/note0498.md)|Medium|O(n*m)|O(n*m)|---|
 |No.398|[Random Pick Index](https://leetcode.com/problems/random-pick-index/)|[Solution](./0398/0398.py)|[Note](./0398/note0398.md)|Medium|O(n)|O(n)|Reservoir Sampling|
+|No.382|[Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/)|[Solution](./0382/0382.py)|[Note](./0382/note0382.md)|Medium|O(n)|O(1)|Reservoir Sampling|
 
 ## Graph
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
