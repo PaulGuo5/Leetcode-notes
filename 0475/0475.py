@@ -1,11 +1,24 @@
 class Solution:
     def findRadius(self, houses: List[int], heaters: List[int]) -> int:
-        houses.sort()
         heaters.sort()
         res = 0
-        j = 0
-        for i in range(len(houses)):
-                while j < len(heaters) - 1 and abs(heaters[j]-houses[i]) >= abs(heaters[j+1]-houses[i]):
-                    j += 1
-                res = max(abs(heaters[j]-houses[i]), res)
+        for h in houses:
+            # hi = bisect.bisect_left(heaters, h)
+            hi = self.binarySearch(heaters, h)
+            left = heaters[hi-1] if hi-1 >= 0 else -float('inf')
+            right = heaters[hi] if hi < len(heaters) else float('inf')
+            res = max(res, min(h-left, right-h))
         return res
+    
+    def binarySearch(self, nums, target):
+        left, right = 0, len(nums)-1
+        while left <= right:
+            mid = (left+right)//2
+            if nums[mid] == target:
+                return mid
+            elif nums[mid] < target:
+                left = mid+1
+            else:
+                right = mid-1
+        return left
+                
