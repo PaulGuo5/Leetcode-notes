@@ -387,6 +387,7 @@ Table of Contents
 |No.37|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)|[Solution](./0037/0037.py)|[Note](./0037/note037.md)|Hard|O(nlogn)|O(n)|---|
 |No.51|[N-Queens](https://leetcode.com/problems/n-queens/)|[Solution](./0051/0051.py)|[Note](./0051/note051.md)|Hard|O(n!)|O(n)|---|
 |No.294|[Flip Game II](https://leetcode.com/problems/flip-game-ii/)|[Solution](./0294/0294.py)|[Note](./0294/not0294.md)|Medium|O(n)|O(n)|memo|
+|No.464|[Can I Win](https://leetcode.com/problems/can-i-win/)|[Solution](./0464/0464.py)|[Note](./0464/not0464.md)|Medium|O(2^n)|O(2^n)|memo|
 
 
 ## Dynamic Programming
