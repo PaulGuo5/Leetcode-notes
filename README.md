@@ -386,7 +386,7 @@ Table of Contents
 |No.131|[Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)|[Solution](./0131/0131.py)|[Note](./0131/not0131.md)|Medium|O(n!)|O(n)|---|
 |No.37|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)|[Solution](./0037/0037.py)|[Note](./0037/note037.md)|Hard|O(nlogn)|O(n)|---|
 |No.51|[N-Queens](https://leetcode.com/problems/n-queens/)|[Solution](./0051/0051.py)|[Note](./0051/note051.md)|Hard|O(n!)|O(n)|---|
-
+|No.294|[Flip Game II](https://leetcode.com/problems/flip-game-ii/)|[Solution](./0294/0294.py)|[Note](./0294/not0294.md)|Medium|O(n)|O(n)|---|
 
 
 ## Dynamic Programming
