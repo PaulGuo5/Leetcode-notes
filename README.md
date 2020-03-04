@@ -125,7 +125,7 @@ Table of Contents
 |No.161|[Word Subsets](https://leetcode.com/problems/word-subsets/)|[Solution](./0161/0161.py)|[Note](./0161/note0161.md)|Medium|O(n^2))|O(n)|---|
 |No.6|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)|[Solution](./0006/0006.py)|[Note](./0006/note0006.md)|Medium|O(n))|O(n)|---|
 |No.12|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/)|[Solution](./0012/0012.py)|[Note](./0012/note0012.md)|Medium|O(n))|O(n)|---|
-
+|No.293|[Flip Game](https://leetcode.com/problems/flip-game/)|[Solution](./0293/0293.py)|[Note](./0293/note0293.md)|Easy|O(n))|O(n)|---|
 
 
 ## Linked List
@@ -386,7 +386,7 @@ Table of Contents
 |No.131|[Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)|[Solution](./0131/0131.py)|[Note](./0131/not0131.md)|Medium|O(n!)|O(n)|---|
 |No.37|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)|[Solution](./0037/0037.py)|[Note](./0037/note037.md)|Hard|O(nlogn)|O(n)|---|
 |No.51|[N-Queens](https://leetcode.com/problems/n-queens/)|[Solution](./0051/0051.py)|[Note](./0051/note051.md)|Hard|O(n!)|O(n)|---|
-|No.294|[Flip Game II](https://leetcode.com/problems/flip-game-ii/)|[Solution](./0294/0294.py)|[Note](./0294/not0294.md)|Medium|O(n)|O(n)|---|
+|No.294|[Flip Game II](https://leetcode.com/problems/flip-game-ii/)|[Solution](./0294/0294.py)|[Note](./0294/not0294.md)|Medium|O(n)|O(n)|memo|
 
 
 ## Dynamic Programming
