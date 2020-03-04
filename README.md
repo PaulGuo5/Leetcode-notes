@@ -371,6 +371,7 @@ Table of Contents
 |No.684|[Redundant Connection](https://leetcode.com/problems/redundant-connection/)|[Solution](./0684/0684.py)|[Note](./0684/not0684.md)|Medium|O(n^2)/O(n)|O(n)|dfs/Union find|
 |No.787|[Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/)|[Solution](./0787/0787.py)|[Note](./0787/not0787.md)|Medium|O(m+nlogn)|O(n)|Dijkstra+heap|
 |No.417|[Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/)|[Solution](./0417/0417.py)|[Note](./0417/not0417.md)|Medium|O(logn)|O(n)|dfs/bfs|
+|No.547|[Friend Circles](https://leetcode.com/problems/friend-circles/)|[Solution](./0547/0547.py)|[Note](./0547/not0547.md)|Medium|O(n)|O(n)|dfs|
 
 ## Backtracking
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
