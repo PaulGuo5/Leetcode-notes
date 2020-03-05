@@ -178,6 +178,7 @@ Table of Contents
 |No.716|[Max Stack](https://leetcode.com/problems/max-stack/)|[Solution](./0716/0716.py)|[Note](./0716/note0716.md)|Easy|O(n)|O(n)|---|
 |No.636|[Exclusive Time of Functions](https://leetcode.com/problems/exclusive-time-of-functions/)|[Solution](./0636/0636.py)|[Note](./0636/note0636.md)|Medium|O(n)|O(n)|---|
 |No.678|[Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/)|[Solution](./0678/0678.py)|[Note](./0678/note0678.md)|Medium|O(n)|O(n)|---|
+|No.1130|[Minimum Cost Tree From Leaf Values](https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/)|[Solution](./1130/1130.py)|[Note](./1130/note1130.md)|Medium|O(n)|O(n)|---|
 
 
 
