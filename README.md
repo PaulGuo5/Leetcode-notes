@@ -316,6 +316,7 @@ Table of Contents
 |No.16|[3Sum Closest](https://leetcode.com/problems/3sum-closest/)|[Solution](./0016/0016.py)|[Note](./0016/note0016.md)|Medium|O(n^2)|O(n)|---|
 |No.540|[Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)|[Solution](./0540/0540.py)|[Note](./0540/note0540.md)|Medium|O(log(n))|O(1)|---|
 |No.74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|[Solution](./0074/0074.py)|[Note](./0074/note0074.md)|Medium|O(log(n))|O(1)|---|
+|No.702|[Search in a Sorted Array of Unknown Size](https://leetcode.com/problems/search-in-a-sorted-array-of-unknown-size/)|[Solution](./0702/0702.py)|[Note](./0702/note0702.md)|Medium|O(log(n))|O(1)|---|
 
 
 ## Binary Search Tree
@@ -390,6 +391,7 @@ Table of Contents
 |No.51|[N-Queens](https://leetcode.com/problems/n-queens/)|[Solution](./0051/0051.py)|[Note](./0051/note051.md)|Hard|O(n!)|O(n)|---|
 |No.294|[Flip Game II](https://leetcode.com/problems/flip-game-ii/)|[Solution](./0294/0294.py)|[Note](./0294/not0294.md)|Medium|O(n)|O(n)|memo|
 |No.464|[Can I Win](https://leetcode.com/problems/can-i-win/)|[Solution](./0464/0464.py)|[Note](./0464/not0464.md)|Medium|O(2^n)|O(2^n)|memo|
+|No.698|[Partition to K Equal Sum Subsets](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/)|[Solution](./0698/0698.py)|[Note](./0698/not0698.md)|Medium|O(n!)|O(n)|---|
 
 
 ## Dynamic Programming
