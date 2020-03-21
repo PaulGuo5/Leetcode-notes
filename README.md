@@ -437,6 +437,7 @@ Table of Contents
 |No.730|[Count Different Palindromic Subsequences](https://leetcode.com/problems/count-different-palindromic-subsequences/)|[Solution](./0730/0730.py)|[Note](./0730/note0730.md)|Hard|O(n^2)|O(n^2)|---|
 |No.1027|[Longest Arithmetic Sequence](https://leetcode.com/problems/longest-arithmetic-sequence/)|[Solution](./1027/1027.py)|[Note](./1027/note1027.md)|Hard|O(n**2))|O(n)|---|
 |No.1223|[Dice Roll Simulation](https://leetcode.com/problems/dice-roll-simulation/)|[Solution](./1223/1223.py)|[Note](./1223/note1223.md)|Medium|O(n))|O(n)|---|
+|No.375|[Guess Number Higher or Lower II](https://leetcode.com/problems/guess-number-higher-or-lower-ii/)|[Solution](./0375/0375.py)|[Note](./0375/note0375.md)|Medium|O(n^2)|O(n^2)|min-max|
 
 ## Design
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
