@@ -85,6 +85,7 @@ Table of Contents
 |No.384|[Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/)|[Solution](./0384/0384.py)|[Note](./0384/note0384.md)|Medium|O(n)|O(n)|---|
 |No.59|[Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)|[Solution](./0059/0059.py)|[Note](./0059/note0059.md)|Medium|O(n^2)|O(n^2)|---|
 |No.713|[Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/)|[Solution](./0713/0713.py)|[Note](./0713/note0713.md)|Medium|O(n)|O(1)|slide window|
+|No.995|[Minimum Number of K Consecutive Bit Flips](https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/)|[Solution](./0995/0995.py)|[Note](./0995/note0995.md)|Hard|O(n)|O(n)|greedy+slide window|
 
 
 ## String
