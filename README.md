@@ -397,7 +397,8 @@ Table of Contents
 |No.294|[Flip Game II](https://leetcode.com/problems/flip-game-ii/)|[Solution](./0294/0294.py)|[Note](./0294/not0294.md)|Medium|O(n)|O(n)|memo/min-max|
 |No.464|[Can I Win](https://leetcode.com/problems/can-i-win/)|[Solution](./0464/0464.py)|[Note](./0464/not0464.md)|Medium|O(2^n)|O(2^n)|memo|
 |No.698|[Partition to K Equal Sum Subsets](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/)|[Solution](./0698/0698.py)|[Note](./0698/not0698.md)|Medium|O(n!)|O(n)|---|
-
+|No.676|[Implement Magic Dictionary](https://leetcode.com/problems/implement-magic-dictionary/)|[Solution](./0676/0676.py)|[Note](./0676/not0676.md)|Medium|O(n)|O(n)|TrieNode|
+|No.1233|[Remove Sub-Folders from the Filesystem](https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/)|[Solution](./1233/1233.py)|[Note](./1233/note1233.md)|Medium|O(nlogn)|O(n)|TrieNode|
 
 ## Dynamic Programming
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
