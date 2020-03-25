@@ -288,6 +288,7 @@ Table of Contents
 |No.1057|[Campus Bikes](https://leetcode.com/problems/campus-bikes/)|[Solution](./1057/1057.py)|[Note](./1057/not1057.md)|Medium|O(n^2)|O(n)|---|
 |No.912|[Sort an Array](https://leetcode.com/problems/sort-an-array/)|[Solution](./0912/0912.py)|[Note](./0912/note912.md)|Medium|---|---|sortings method summary|
 |No.280|[Wiggle Sort](https://leetcode.com/problems/wiggle-sort/)|[Solution](./0280/0280.py)|[Note](./0280/note280.md)|Medium|O(nlogn)|O(1)|---|
+|No.324|[Wiggle Sort II](https://leetcode.com/problems/wiggle-sort-ii/)|[Solution](./0324/0324.py)|[Note](./0324/note324.md)|Medium|O(nlogn)|O(1)|---|
 
 
 ## Heap
