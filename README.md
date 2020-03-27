@@ -89,6 +89,7 @@ Table of Contents
 |No.243|[Shortest Word Distance](https://leetcode.com/problems/shortest-word-distance/)|[Solution](./0243/0243.py)|[Note](./0243/note0243.md)|Easy|O(n)|O(1)|---|
 |No.45|[Jump Game II](https://leetcode.com/problems/jump-game-ii/)|[Solution](./0045/0045.py)|[Note](./0045/note0045.md)|Hard|O(n)|O(n)|lcd.1326/lcd.1024|
 |No.1326|[Minimum Number of Taps to Open to Water a Garden](https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/)|[Solution](./1326/1326.py)|[Note](./1326/note1326.md)|Hard|O(n)|O(n)|lcd.45/lcd.1024|
+|No.1024|[Video Stitching](https://leetcode.com/problems/video-stitching/)|[Solution](./1024/1024.py)|[Note](./1024/note1024.md)|Medium|O(n)|O(n)|lcd.45/lcd.1326|
 
 ## String
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
