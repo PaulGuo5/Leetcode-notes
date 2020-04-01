@@ -19,7 +19,6 @@ Table of Contents
       * [Math](#math)
       * [Binary Search](#binary-search)
       * [Binary Search Tree](#binary-search-tree)
-      * [N-ary Tree](#n-ary-tree)
       * [Graph](#graph)
       * [BackTracking](#backtracking)
       * [Dynamic Programming](#dynamic-programming)
@@ -91,7 +90,7 @@ Table of Contents
 |No.1326|[Minimum Number of Taps to Open to Water a Garden](https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/)|[Solution](./1326/1326.py)|[Note](./1326/note1326.md)|Hard|O(n)|O(n)|lcd.45/lcd.1024|
 |No.1024|[Video Stitching](https://leetcode.com/problems/video-stitching/)|[Solution](./1024/1024.py)|[Note](./1024/note1024.md)|Medium|O(n)|O(n)|lcd.45/lcd.1326|
 |No.670|[Maximum Swap](https://leetcode.com/problems/maximum-swap/)|[Solution](./0670/0670.py)|[Note](./0670/note0670.md)|Medium|O(n)|O(n)|---|
-
+|No.1365|[How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)|[Solution](./1365/1365.py)|[Note](./1365/note1365.md)|Easy|O(n)|O(n)|bucket|
 
 ## String
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
@@ -135,8 +134,7 @@ Table of Contents
 |No.12|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/)|[Solution](./0012/0012.py)|[Note](./0012/note0012.md)|Medium|O(n))|O(n)|---|
 |No.293|[Flip Game](https://leetcode.com/problems/flip-game/)|[Solution](./0293/0293.py)|[Note](./0293/note0293.md)|Easy|O(n))|O(n)|---|
 |No.539|[Minimum Time Difference](https://leetcode.com/problems/minimum-time-difference/)|[Solution](./0539/0539.py)|[Note](./0539/note0539.md)|Medium|O(n))|O(n)|---|
-|No.1374|[Generate a String With Characters That Have Odd Counts
-](https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts/)|[Solution](./1374/1374.py)|[Note](./1374/note1374.md)|Easy|O(n))|O(n)|---|
+|No.1374|[Generate a String With Characters That Have Odd Counts](https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts/)|[Solution](./1374/1374.py)|[Note](./1374/note1374.md)|Easy|O(n))|O(n)|---|
 |No.1177|[Can Make Palindrome from Substring](https://leetcode.com/problems/can-make-palindrome-from-substring/)|[Solution](./1177/1177.py)|[Note](./1177/note1177.md)|Medium|O(nx26))|O(nx26)|prefix sum|
 |No.1338|[Reduce Array Size to The Half](https://leetcode.com/problems/reduce-array-size-to-the-half/)|[Solution](./1338/1338.py)|[Note](./1338/note1338.md)|Medium|O(n))|O(n)|---|
 |No.1370|[Increasing Decreasing String](https://leetcode.com/problems/increasing-decreasing-string/)|[Solution](./1370/1370.py)|[Note](./1370/note1370.md)|Easy|O(n))|O(n)|---|
@@ -341,10 +339,6 @@ Table of Contents
 |No.230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)|[Solution](./0230/0230.py)|[Note](./0230/note0230.md)|Medium|O(n)|O(1)|---|
 |No.285|[Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst/)|[Solution](./0285/0285.py)|[Note](./0285/note0285.md)|Medium|O(n)|O(1)|---|
 
-
-## N-ary Tree
-|NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
-|---|-----|--------|----|----------|----|-----|---|
 
 
 
