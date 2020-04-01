@@ -459,7 +459,7 @@ Table of Contents
 |No.379|[Design Phone Directory](https://leetcode.com/problems/design-phone-directory/)|[Solution](./0379/0379.py)|[Note](./0379/note0379.md)|Medium|O(n)|O(1)|---|
 |No.362|[Design Hit Counter](https://leetcode.com/problems/design-hit-counter/)|[Solution](./0362/0362.py)|[Note](./0362/note0362.md)|Medium|O(1)|O(n)|---|
 |No.1032|[Stream of Characters](https://leetcode.com/problems/stream-of-characters/)|[Solution](./1032/1032.py)|[Note](./1032/note1032.md)|Hard|O(n)|O(n)|TrieNode|
-
+|No.745|[Prefix and Suffix Search](https://leetcode.com/problems/prefix-and-suffix-search/)|[Solution](./0745/0745.py)|[Note](./0745/note0745.md)|Hard|O(n)|O(n)|TrieNode|
 
 ## SQL
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
