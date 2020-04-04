@@ -92,6 +92,7 @@ Table of Contents
 |No.670|[Maximum Swap](https://leetcode.com/problems/maximum-swap/)|[Solution](./0670/0670.py)|[Note](./0670/note0670.md)|Medium|O(n)|O(n)|---|
 |No.1365|[How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)|[Solution](./1365/1365.py)|[Note](./1365/note1365.md)|Easy|O(n)|O(n)|bucket|
 |No.1394|[Find Lucky Integer in an Array](https://leetcode.com/problems/find-lucky-integer-in-an-array/)|[Solution](./1394/1394.py)|[Note](./1394/note1394.md)|Easy|O(n)|O(n)|---|
+|No.260|[Single Number III](https://leetcode.com/problems/single-number-iii/)|[Solution](./0260/0260.py)|[Note](./0260/note0260.md)|Medium|O(n)|O(n)|---|
 
 ## String
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
