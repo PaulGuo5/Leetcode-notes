@@ -94,6 +94,8 @@ Table of Contents
 |No.1365|[How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)|[Solution](./1365/1365.py)|[Note](./1365/note1365.md)|Easy|O(n)|O(n)|bucket|
 |No.1394|[Find Lucky Integer in an Array](https://leetcode.com/problems/find-lucky-integer-in-an-array/)|[Solution](./1394/1394.py)|[Note](./1394/note1394.md)|Easy|O(n)|O(n)|---|
 |No.260|[Single Number III](https://leetcode.com/problems/single-number-iii/)|[Solution](./0260/0260.py)|[Note](./0260/note0260.md)|Medium|O(n)|O(n)|---|
+|No.1403|[Minimum Subsequence in Non-Increasing Order](https://leetcode.com/problems/minimum-subsequence-in-non-increasing-order/)|[Solution](./1403/1403.py)|[Note](./1403/note1403.md)|Easy|O(n)|O(n)|---|
+
 
 ## String
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
