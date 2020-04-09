@@ -97,6 +97,7 @@ Table of Contents
 |No.1403|[Minimum Subsequence in Non-Increasing Order](https://leetcode.com/problems/minimum-subsequence-in-non-increasing-order/)|[Solution](./1403/1403.py)|[Note](./1403/note1403.md)|Easy|O(n)|O(n)|---|
 |No.1399|[Count Largest Group](https://leetcode.com/problems/count-largest-group/)|[Solution](./1399/1399.py)|[Note](./1399/note1399.md)|Easy|O(n)|O(n)|---|
 |No.1389|[Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/)|[Solution](./1389/1389.py)|[Note](./1389/note1389.md)|Easy|O(n)|O(n)|---|
+|No.1385|[Find the Distance Value Between Two Arrays](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/)|[Solution](./1385/1385.py)|[Note](./1385/note1385.md)|Easy|O(nlogn)|O(n)|---|
 
 ## String
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
