@@ -146,6 +146,7 @@ Table of Contents
 |No.1177|[Can Make Palindrome from Substring](https://leetcode.com/problems/can-make-palindrome-from-substring/)|[Solution](./1177/1177.py)|[Note](./1177/note1177.md)|Medium|O(nx26))|O(nx26)|prefix sum|
 |No.1338|[Reduce Array Size to The Half](https://leetcode.com/problems/reduce-array-size-to-the-half/)|[Solution](./1338/1338.py)|[Note](./1338/note1338.md)|Medium|O(n))|O(n)|---|
 |No.1370|[Increasing Decreasing String](https://leetcode.com/problems/increasing-decreasing-string/)|[Solution](./1370/1370.py)|[Note](./1370/note1370.md)|Easy|O(n))|O(n)|---|
+|No.1323|[Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/)|[Solution](./1323/1323.py)|[Note](./1323/note1323.md)|Easy|O(n))|O(n)|---|
 
 ## Linked List
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
