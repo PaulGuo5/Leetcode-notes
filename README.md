@@ -291,7 +291,7 @@ Table of Contents
 |No.939|[Minimum Area Rectangle](https://leetcode.com/problems/minimum-area-rectangle/)|[Solution](./0939/0939.py)|[Note](./0939/note939.md)|Medium|O(n^2)|O(n)|---|
 |No.187|[Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/)|[Solution](./0187/0187.py)|[Note](./0187/note187.md)|Medium|O(n)|O(n)|---|
 |No.676|[Implement Magic Dictionary](https://leetcode.com/problems/implement-magic-dictionary/)|[Solution](./0676/0676.py)|[Note](./0676/note676.md)|Medium|O(n*26)|O(n)|---|
-
+|No.525|[Contiguous Array](https://leetcode.com/problems/contiguous-array/)|[Solution](./0525/0525.py)|[Note](./0525/note525.md)|Medium|O(n)|O(n)|---|
 
 ## Sort
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
