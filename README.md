@@ -226,7 +226,7 @@ Table of Contents
 |No.1197|[Minimum Knight Moves](https://leetcode.com/problems/minimum-knight-moves/)|[Solution](./1197/1197.py)|[Note](./1197/not1197.md)|Medium|O(n)|O(n)|bfs deque|
 |No.133|[Clone Graph](https://leetcode.com/problems/clone-graph/)|[Solution](./0133/0133.py)|[Note](./0133/not0133.md)|Medium|O(n)|O(n)|bfs deque|
 |No.773|[Sliding Puzzle](https://leetcode.com/problems/sliding-puzzle/)|[Solution](./0773/0773.py)|[Note](./0773/not0773.md)|Hard|O(n)|O(n)|bfs deque|
-
+|No.286|[Walls and Gates](https://leetcode.com/problems/walls-and-gates/)|[Solution](./0286/0286.py)|[Note](./0286/not0286.md)|Medium|O(n)|O(n)|bfs deque|
 
 ## Binary Tree
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
