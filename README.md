@@ -397,6 +397,8 @@ Table of Contents
 |No.417|[Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/)|[Solution](./0417/0417.py)|[Note](./0417/not0417.md)|Medium|O(logn)|O(n)|dfs/bfs|
 |No.547|[Friend Circles](https://leetcode.com/problems/friend-circles/)|[Solution](./0547/0547.py)|[Note](./0547/not0547.md)|Medium|O(n)|O(n)|dfs|
 |No.1319|[Number of Operations to Make Network Connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected/)|[Solution](./01319/01319.py)|[Note](./01319/note1319.md)|Medium|O(n)|O(n)|Union find|
+|No.547|[Sentence Similarity II](https://leetcode.com/problems/sentence-similarity-ii/)|[Solution](./0547/0547.py)|[Note](./0547/not0547.md)|Medium|O(nlogn)|O(n)|dfs|
+
 
 ## Backtracking
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
