@@ -100,6 +100,7 @@ Table of Contents
 |No.1385|[Find the Distance Value Between Two Arrays](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/)|[Solution](./1385/1385.py)|[Note](./1385/note1385.md)|Easy|O(nlogn)|O(n)|---|
 |No.1380|[Lucky Numbers in a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/)|[Solution](./1380/1380.py)|[Note](./1380/note1380.md)|Easy|O(nxm)|O(n)|---|
 |No.1351|[Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)|[Solution](./1351/1351.py)|[Note](./1351/note1351.md)|Easy|O(n)|O(1)|---|
+|No.1346|[Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/)|[Solution](./1346/1346.py)|[Note](./1346/note1346.md)|Easy|O(n)|O(n)|---|
 
 ## String
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
