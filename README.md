@@ -380,6 +380,7 @@ Table of Contents
 |No.382|[Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/)|[Solution](./0382/0382.py)|[Note](./0382/note0382.md)|Medium|O(n)|O(1)|Reservoir Sampling|
 |No.1342|[Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)|[Solution](./1342/1342.py)|[Note](./1342/note1342.md)|Easy|O(n)|O(1)|---|
 |No.1317|[Convert Integer to the Sum of Two No-Zero Integers](https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers/)|[Solution](./1317/1317.py)|[Note](./1317/note1317.md)|Easy|O(n)|O(n)|---|
+|No.1413|[Minimum Value to Get Positive Step by Step Sum](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/)|[Solution](./1413/1413.py)|[Note](./1413/note1413.md)|Easy|O(n)|O(1)|prefix sum|
 
 ## Graph
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
