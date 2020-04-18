@@ -101,6 +101,7 @@ Table of Contents
 |No.1380|[Lucky Numbers in a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/)|[Solution](./1380/1380.py)|[Note](./1380/note1380.md)|Easy|O(nxm)|O(n)|---|
 |No.1351|[Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)|[Solution](./1351/1351.py)|[Note](./1351/note1351.md)|Easy|O(n)|O(1)|---|
 |No.1346|[Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/)|[Solution](./1346/1346.py)|[Note](./1346/note1346.md)|Easy|O(n)|O(n)|---|
+|No.1332|[Remove Palindromic Subsequences](https://leetcode.com/problems/remove-palindromic-subsequences/)|[Solution](./1332/1332.py)|[Note](./1332/note1332.md)|Easy|O(n)|O(n)|---|
 
 ## String
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
