@@ -383,6 +383,8 @@ Table of Contents
 |No.1342|[Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)|[Solution](./1342/1342.py)|[Note](./1342/note1342.md)|Easy|O(n)|O(1)|---|
 |No.1317|[Convert Integer to the Sum of Two No-Zero Integers](https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers/)|[Solution](./1317/1317.py)|[Note](./1317/note1317.md)|Easy|O(n)|O(n)|---|
 |No.1413|[Minimum Value to Get Positive Step by Step Sum](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/)|[Solution](./1413/1413.py)|[Note](./1413/note1413.md)|Easy|O(n)|O(1)|prefix sum|
+|No.470|[Implement Rand10() Using Rand7()](https://leetcode.com/problems/implement-rand10-using-rand7/)|[Solution](./0470/0470.py)|[Note](./0470/note0470.md)|Medium|O(1)|O(1)|random|
+
 
 ## Graph
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
