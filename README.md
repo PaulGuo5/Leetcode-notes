@@ -152,6 +152,8 @@ Table of Contents
 |No.1338|[Reduce Array Size to The Half](https://leetcode.com/problems/reduce-array-size-to-the-half/)|[Solution](./1338/1338.py)|[Note](./1338/note1338.md)|Medium|O(n))|O(n)|---|
 |No.1370|[Increasing Decreasing String](https://leetcode.com/problems/increasing-decreasing-string/)|[Solution](./1370/1370.py)|[Note](./1370/note1370.md)|Easy|O(n))|O(n)|---|
 |No.1323|[Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/)|[Solution](./1323/1323.py)|[Note](./1323/note1323.md)|Easy|O(n))|O(n)|---|
+|No.1405|[Longest Happy String](https://leetcode.com/problems/longest-happy-string/)|[Solution](./1405/1405.py)|[Note](./1405/note1405.md)|Medium|O(n))|O(n)|greedy|
+
 
 ## Linked List
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
