@@ -153,7 +153,7 @@ Table of Contents
 |No.1370|[Increasing Decreasing String](https://leetcode.com/problems/increasing-decreasing-string/)|[Solution](./1370/1370.py)|[Note](./1370/note1370.md)|Easy|O(n))|O(n)|---|
 |No.1323|[Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/)|[Solution](./1323/1323.py)|[Note](./1323/note1323.md)|Easy|O(n))|O(n)|---|
 |No.1405|[Longest Happy String](https://leetcode.com/problems/longest-happy-string/)|[Solution](./1405/1405.py)|[Note](./1405/note1405.md)|Medium|O(n))|O(n)|greedy|
-
+|No.647|[Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)|[Solution](./0647/0647.py)|[Note](./0647/note0647.md)|Medium|O(n^2)|O(n^2)|---|
 
 ## Linked List
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
@@ -475,6 +475,8 @@ Table of Contents
 |No.375|[Guess Number Higher or Lower II](https://leetcode.com/problems/guess-number-higher-or-lower-ii/)|[Solution](./0375/0375.py)|[Note](./0375/note0375.md)|Medium|O(n^2)|O(n^2)|min-max|
 |No.740|[Delete and Earn](https://leetcode.com/problems/delete-and-earn/)|[Solution](./0740/0740.py)|[Note](./0740/note0740.md)|Medium|O(n)|O(n)|min-max|
 |No.741|[Cherry Pickup](https://leetcode.com/problems/cherry-pickup/)|[Solution](./0741/0741.py)|[Note](./0741/note0741.md)|Hard|O(n^3)|O(n)|memo|
+|No.647|[Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)|[Solution](./0647/0647.py)|[Note](./0647/note0647.md)|Medium|O(n^2)|O(n^2)|---|
+
 
 ## Design
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
