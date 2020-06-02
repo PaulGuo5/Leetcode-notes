@@ -390,7 +390,7 @@ Table of Contents
 |No.1413|[Minimum Value to Get Positive Step by Step Sum](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/)|[Solution](./1413/1413.py)|[Note](./1413/note1413.md)|Easy|O(n)|O(1)|prefix sum|
 |No.470|[Implement Rand10() Using Rand7()](https://leetcode.com/problems/implement-rand10-using-rand7/)|[Solution](./0470/0470.py)|[Note](./0470/note0470.md)|Medium|O(1)|O(1)|random|
 |No.593|[Valid Square](https://leetcode.com/problems/valid-square/)|[Solution](./0593/0593.py)|[Note](./0593/note0593.md)|Medium|O(1)|O(1)|---|
-
+|No.150|[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)|[Solution](./0150/0150.py)|[Note](./0150/note0150.md)|Medium|O(n)|O(n)|---|
 
 ## Graph
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
