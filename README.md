@@ -103,7 +103,7 @@ Table of Contents
 |No.1346|[Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/)|[Solution](./1346/1346.py)|[Note](./1346/note1346.md)|Easy|O(n)|O(n)|---|
 |No.1332|[Remove Palindromic Subsequences](https://leetcode.com/problems/remove-palindromic-subsequences/)|[Solution](./1332/1332.py)|[Note](./1332/note1332.md)|Easy|O(n)|O(n)|---|
 |No.992|[Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/)|[Solution](./0992/0992.py)|[Note](./0992/note0992.md)|Hard|O(n)|O(n)|slide window|
-
+|No.406|[Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/)|[Solution](./0406/0406.py)|[Note](./0406/note0406.md)|Medium|O(n^2)|O(n)|insert function|
 
 ## String
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
