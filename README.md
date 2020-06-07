@@ -480,7 +480,7 @@ Table of Contents
 |No.647|[Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)|[Solution](./0647/0647.py)|[Note](./0647/note0647.md)|Medium|O(n^2)|O(n^2)|---|
 |No.518|[Coin Change 2](https://leetcode.com/problems/coin-change-2/)|[Solution](./0518/0518.py)|[Note](./0518/note0518.md)|Medium|O(n*m)|O(n)|combination-377|
 |No.377|[Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/)|[Solution](./0377/0377.py)|[Note](./0377/note0377.md)|Medium|O(n*m)|O(n)|permutation-518|
-
+|No.983|[Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/)|[Solution](./0983/0983.py)|[Note](./0983/note0983.md)|Medium|O(n)|O(n)|similar-322|
 
 ## Design
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
