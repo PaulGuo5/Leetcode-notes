@@ -478,7 +478,9 @@ Table of Contents
 |No.740|[Delete and Earn](https://leetcode.com/problems/delete-and-earn/)|[Solution](./0740/0740.py)|[Note](./0740/note0740.md)|Medium|O(n)|O(n)|min-max|
 |No.741|[Cherry Pickup](https://leetcode.com/problems/cherry-pickup/)|[Solution](./0741/0741.py)|[Note](./0741/note0741.md)|Hard|O(n^3)|O(n)|memo|
 |No.647|[Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)|[Solution](./0647/0647.py)|[Note](./0647/note0647.md)|Medium|O(n^2)|O(n^2)|---|
-|No.518|[Coin Change 2](https://leetcode.com/problems/coin-change-2/)|[Solution](./0518/0518.py)|[Note](./0518/note0518.md)|Medium|O(n*m)|O(n)|---|
+|No.518|[Coin Change 2](https://leetcode.com/problems/coin-change-2/)|[Solution](./0518/0518.py)|[Note](./0518/note0518.md)|Medium|O(n*m)|O(n)|combination-377|
+|No.377|[Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/)|[Solution](./0377/0377.py)|[Note](./0377/note0377.md)|Medium|O(n*m)|O(n)|permutation-518|
+
 
 ## Design
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
