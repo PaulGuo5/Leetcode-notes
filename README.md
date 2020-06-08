@@ -415,6 +415,8 @@ Table of Contents
 |No.1319|[Number of Operations to Make Network Connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected/)|[Solution](./01319/01319.py)|[Note](./01319/note1319.md)|Medium|O(n)|O(n)|Union find|
 |No.547|[Sentence Similarity II](https://leetcode.com/problems/sentence-similarity-ii/)|[Solution](./0547/0547.py)|[Note](./0547/not0547.md)|Medium|O(nlogn)|O(n)|dfs|
 |No.909|[Snakes and Ladders](https://leetcode.com/problems/snakes-and-ladders/)|[Solution](./0909/0909.py)|[Note](./0909/not0909.md)|Medium|O(n^2)|O(n^2)|bfs|
+|No.490|[The Maze](https://leetcode.com/problems/the-maze/)|[Solution](./0490/0490.py)|[Note](./0490/not0490.md)|Medium|O(n^2)|O(n^2)|bfs/dfs|
+
 
 ## Backtracking
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
