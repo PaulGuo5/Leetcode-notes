@@ -487,6 +487,7 @@ Table of Contents
 |No.518|[Coin Change 2](https://leetcode.com/problems/coin-change-2/)|[Solution](./0518/0518.py)|[Note](./0518/note0518.md)|Medium|O(n*m)|O(n)|combination-377|
 |No.377|[Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/)|[Solution](./0377/0377.py)|[Note](./0377/note0377.md)|Medium|O(n*m)|O(n)|permutation-518|
 |No.983|[Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/)|[Solution](./0983/0983.py)|[Note](./0983/note0983.md)|Medium|O(n)|O(n)|similar-322|
+|No.1155|[Number of Dice Rolls With Target Sum](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/)|[Solution](./1155/1155.py)|[Note](./1155/note1155.md)|Medium|O(n^3)|O(n^2)|---|
 
 ## Design
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
