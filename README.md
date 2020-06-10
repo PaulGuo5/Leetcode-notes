@@ -331,7 +331,7 @@ Table of Contents
 |No.295|[Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)|[Solution](./0295/0295.py)|[Note](./0295/not0295.md)|Hard|O(nlogn)|O(n)|heapq|
 |No.703|[Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)|[Solution](./0703/0703.py)|[Note](./0703/not0703.md)|Easy|O(nlogn)|O(n)|heapq|
 |No.786|[K-th Smallest Prime Fraction](https://leetcode.com/problems/k-th-smallest-prime-fraction/)|[Solution](./0786/0786.py)|[Note](./0786/not0786.md)|Hard|O(nlogn)|O(n)|heapq|
-
+|No.767|[Reorganize String](https://leetcode.com/problems/reorganize-string/)|[Solution](./0767/0767.py)|[Note](./0767/not0767.md)|Medium|O(nlogn)|O(n)|heapq|
 
 ## Binary Search
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
@@ -397,6 +397,7 @@ Table of Contents
 |No.150|[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)|[Solution](./0150/0150.py)|[Note](./0150/note0150.md)|Medium|O(n)|O(n)|---|
 |No.640|[Solve the Equation](https://leetcode.com/problems/solve-the-equation/)|[Solution](./0640/0640.py)|[Note](./0640/note0640.md)|Medium|O(n)|O(1)|---|
 |No.1360|[Number of Days Between Two Dates](https://leetcode.com/problems/number-of-days-between-two-dates/)|[Solution](./1360/1360.py)|[Note](./1360/note1360.md)|Easy|O(n)|O(n)|---|
+
 
 
 ## Graph
