@@ -105,7 +105,7 @@ Table of Contents
 |No.992|[Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/)|[Solution](./0992/0992.py)|[Note](./0992/note0992.md)|Hard|O(n)|O(n)|slide window|
 |No.406|[Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/)|[Solution](./0406/0406.py)|[Note](./0406/note0406.md)|Medium|O(n^2)|O(n)|insert function|
 |No.729|[My Calendar I](https://leetcode.com/problems/my-calendar-i/)|[Solution](./0729/0729.py)|[Note](./0729/note0729.md)|Medium|O(n)|O(n)|interval|
-
+|No.1229|[Meeting Scheduler](https://leetcode.com/problems/meeting-scheduler/)|[Solution](./1229/1229.py)|[Note](./1229/note1229.md)|Medium|O(n)|O(1)|interval|
 
 ## String
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
