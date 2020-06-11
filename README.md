@@ -106,6 +106,8 @@ Table of Contents
 |No.406|[Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/)|[Solution](./0406/0406.py)|[Note](./0406/note0406.md)|Medium|O(n^2)|O(n)|insert function|
 |No.729|[My Calendar I](https://leetcode.com/problems/my-calendar-i/)|[Solution](./0729/0729.py)|[Note](./0729/note0729.md)|Medium|O(n)|O(n)|interval|
 |No.1229|[Meeting Scheduler](https://leetcode.com/problems/meeting-scheduler/)|[Solution](./1229/1229.py)|[Note](./1229/note1229.md)|Medium|O(n)|O(1)|interval|
+|No.1275|[Find Winner on a Tic Tac Toe Game](https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/)|[Solution](./1275/1275.py)|[Note](./1275/note1229.md)|Easy|O(n^2)|O(n)|---|
+
 
 ## String
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
