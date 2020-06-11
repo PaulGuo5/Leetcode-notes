@@ -524,3 +524,4 @@ Table of Contents
 |No.1251|[Average Selling Price](https://leetcode.com/problems/average-selling-price/)|[Solution](./1251/1251.sql)|[Note](./1251/note1251.md)|Easy|---|---|right join+round+sum|
 |No.1327|[List the Products Ordered in a Period](https://leetcode.com/problems/list-the-products-ordered-in-a-period/)|[Solution](./1327/1327.sql)|[Note](./1327/note1327.md)|Easy|---|---|join+having+sum|
 |No.184|[Department Highest Salary](https://leetcode.com/problems/department-highest-salary/)|[Solution](./0184/0184.py)|[Note](./0184/note0184.md)|Medium|---|---|group by|
+|No.176|[Second Highest Salary](https://leetcode.com/problems/second-highest-salary/)|[Solution](./0176/0176.py)|[Note](./0176/note0176.md)|Medium|---|---|order by+offset|
