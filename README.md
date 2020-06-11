@@ -506,7 +506,7 @@ Table of Contents
 |No.1032|[Stream of Characters](https://leetcode.com/problems/stream-of-characters/)|[Solution](./1032/1032.py)|[Note](./1032/note1032.md)|Hard|O(n)|O(n)|TrieNode|
 |No.745|[Prefix and Suffix Search](https://leetcode.com/problems/prefix-and-suffix-search/)|[Solution](./0745/0745.py)|[Note](./0745/note0745.md)|Hard|O(n)|O(n)|TrieNode|
 |No.1206|[Design Skiplist](https://leetcode.com/problems/design-skiplist/)|[Solution](./1206/1206.py)|[Note](./1206/note1206.md)|Hard|O(nlog)|O(n)|skiplist|
-
+|No.1429|[First Unique Number](https://leetcode.com/problems/first-unique-number/)|[Solution](./1429/1429.py)|[Note](./1429/note1429.md)|Medium|O(n)|O(n)|---|
 
 ## SQL
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
