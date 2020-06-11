@@ -426,7 +426,7 @@ Table of Contents
 |No.490|[The Maze](https://leetcode.com/problems/the-maze/)|[Solution](./0490/0490.py)|[Note](./0490/not0490.md)|Medium|O(n^2)|O(n^2)|bfs/dfs|
 |No.841|[Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/)|[Solution](./0841/0841.py)|[Note](./0841/not0841.md)|Medium|O(n^2)|O(n^2)|bfs/dfs|
 |No.542|[01 Matrix](https://leetcode.com/problems/01-matrix/)|[Solution](./0542/0542.py)|[Note](./0542/not0542.md)|Medium|O(n^2)|O(n^2)|bfs|
-
+|No.721|[Accounts Merge](https://leetcode.com/problems/accounts-merge/)|[Solution](./0721/0721.py)|[Note](./0721/not0721.md)|Medium|O(n)|O(n^2)|dfs|
 
 ## Backtracking
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
