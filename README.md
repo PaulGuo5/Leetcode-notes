@@ -427,6 +427,8 @@ Table of Contents
 |No.841|[Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/)|[Solution](./0841/0841.py)|[Note](./0841/not0841.md)|Medium|O(n^2)|O(n^2)|bfs/dfs|
 |No.542|[01 Matrix](https://leetcode.com/problems/01-matrix/)|[Solution](./0542/0542.py)|[Note](./0542/not0542.md)|Medium|O(n^2)|O(n^2)|bfs|
 |No.721|[Accounts Merge](https://leetcode.com/problems/accounts-merge/)|[Solution](./0721/0721.py)|[Note](./0721/not0721.md)|Medium|O(n)|O(n^2)|dfs|
+|No.261|[Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/)|[Solution](./0261/0261.py)|[Note](./0261/not0261.md)|Medium|O(n^2)|O(n)|union find|
+
 
 ## Backtracking
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
