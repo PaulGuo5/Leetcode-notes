@@ -400,7 +400,7 @@ Table of Contents
 |No.640|[Solve the Equation](https://leetcode.com/problems/solve-the-equation/)|[Solution](./0640/0640.py)|[Note](./0640/note0640.md)|Medium|O(n)|O(1)|---|
 |No.1360|[Number of Days Between Two Dates](https://leetcode.com/problems/number-of-days-between-two-dates/)|[Solution](./1360/1360.py)|[Note](./1360/note1360.md)|Easy|O(n)|O(n)|---|
 |No.1031|[Maximum Sum of Two Non-Overlapping Subarrays](https://leetcode.com/problems/maximum-sum-of-two-non-overlapping-subarrays/)|[Solution](./1031/1031.py)|[Note](./1031/note1031.md)|Medium|O(n)|O(n)|prefix sum|
-
+|No.368|[Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/)|[Solution](./0368/0368.py)|[Note](./0368/note0368.md)|Medium|O(n^2)|O(n)|---|
 
 ## Graph
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
