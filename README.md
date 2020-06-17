@@ -216,6 +216,8 @@ Table of Contents
 |No.503|[Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/)|[Solution](./0503/0503.py)|[Note](./0503/note0503.md)|Medium|O(n)|O(n)|monotonous stack|
 |No.901|[Online Stock Span](https://leetcode.com/problems/online-stock-span/)|[Solution](./0901/0901.py)|[Note](./0901/note0901.md)|Medium|O(n)|O(n)|monotonous stack|
 |No.84|[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)|[Solution](./0084/0084.py)|[Note](./0084/note0084.md)|Hard|O(n)|O(n)|monotonous stack|
+|No.1249|[Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/)|[Solution](./1249/1249.py)|[Note](./1249/note1249.md)|Medium|O(n)|O(n)|---|
+
 
 ## Recursion
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
