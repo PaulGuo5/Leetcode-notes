@@ -432,6 +432,7 @@ Table of Contents
 |No.261|[Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/)|[Solution](./0261/0261.py)|[Note](./0261/not0261.md)|Medium|O(n^2)|O(n)|union find|
 |No.323|[Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/)|[Solution](./0323/0323.py)|[Note](./0323/not0323.md)|Medium|O(n^2)|O(n)|union find|
 |No.959|[Regions Cut By Slashes](https://leetcode.com/problems/regions-cut-by-slashes/)|[Solution](./0959/0959.py)|[Note](./0959/not0959.md)|Medium|O(n^2)|O(n^2)|union find|
+|No.1135|[Connecting Cities With Minimum Cost](https://leetcode.com/problems/connecting-cities-with-minimum-cost/)|[Solution](./1135/1135.py)|[Note](./1135/not1135.md)|Medium|O(nlogn)|O(n)|union find|
 
 
 ## Backtracking
