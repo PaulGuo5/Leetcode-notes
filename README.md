@@ -108,6 +108,8 @@ Table of Contents
 |No.1229|[Meeting Scheduler](https://leetcode.com/problems/meeting-scheduler/)|[Solution](./1229/1229.py)|[Note](./1229/note1229.md)|Medium|O(n)|O(1)|interval|
 |No.1275|[Find Winner on a Tic Tac Toe Game](https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/)|[Solution](./1275/1275.py)|[Note](./1275/note1275.md)|Easy|O(n^2)|O(n)|---|
 |No.1202|[Smallest String With Swaps](https://leetcode.com/problems/smallest-string-with-swaps/)|[Solution](./1202/1202.py)|[Note](./1202/note12202.md)|Medium|O(n)|O(nlogn)|union find|
+|No.274|[H-Index](https://leetcode.com/problems/h-index/)|[Solution](./0274/0274.py)|[Note](./0274/note0274.md)|Medium|O(n)|O(1)|---|
+
 
 ## String
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
