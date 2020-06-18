@@ -358,7 +358,7 @@ Table of Contents
 |No.540|[Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)|[Solution](./0540/0540.py)|[Note](./0540/note0540.md)|Medium|O(log(n))|O(1)|---|
 |No.74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|[Solution](./0074/0074.py)|[Note](./0074/note0074.md)|Medium|O(log(n))|O(1)|---|
 |No.702|[Search in a Sorted Array of Unknown Size](https://leetcode.com/problems/search-in-a-sorted-array-of-unknown-size/)|[Solution](./0702/0702.py)|[Note](./0702/note0702.md)|Medium|O(log(n))|O(1)|---|
-
+|No.275|[H-Index II](https://leetcode.com/problems/h-index-ii/)|[Solution](./0275/0275.py)|[Note](./0275/note0275.md)|Medium|O(log(n))|O(1)|---|
 
 ## Binary Search Tree
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
