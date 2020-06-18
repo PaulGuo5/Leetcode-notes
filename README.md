@@ -434,6 +434,8 @@ Table of Contents
 |No.959|[Regions Cut By Slashes](https://leetcode.com/problems/regions-cut-by-slashes/)|[Solution](./0959/0959.py)|[Note](./0959/not0959.md)|Medium|O(n^2)|O(n^2)|union find|
 |No.1135|[Connecting Cities With Minimum Cost](https://leetcode.com/problems/connecting-cities-with-minimum-cost/)|[Solution](./1135/1135.py)|[Note](./1135/not1135.md)|Medium|O(nlogn)|O(n)|union find|
 |No.990|[Satisfiability of Equality Equations](https://leetcode.com/problems/satisfiability-of-equality-equations/)|[Solution](./0990/0990.py)|[Note](./0990/not0990.md)|Medium|O(nlogn)|O(n)|union find|
+|No.1101|[The Earliest Moment When Everyone Become Friends](https://leetcode.com/problems/the-earliest-moment-when-everyone-become-friends/)|[Solution](./1101/1101.py)|[Note](./1101/not1101.md)|Medium|O(nlogn)|O(n)|union find|
+
 
 ## Backtracking
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
