@@ -508,7 +508,7 @@ Table of Contents
 |No.983|[Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/)|[Solution](./0983/0983.py)|[Note](./0983/note0983.md)|Medium|O(n)|O(n)|similar-322|
 |No.1155|[Number of Dice Rolls With Target Sum](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/)|[Solution](./1155/1155.py)|[Note](./1155/note1155.md)|Medium|O(n^3)|O(n^2)|---|
 |No.978|[Longest Turbulent Subarray](https://leetcode.com/problems/longest-turbulent-subarray/)|[Solution](./0978/0978.py)|[Note](./0978/note0978.md)|Medium|O(n)|O(n)|---|
-
+|No.256|[Paint House](https://leetcode.com/problems/paint-house/)|[Solution](./0256/0256.py)|[Note](./0256/note0256.md)|Easy|O(n)|O(1)|---|
 
 ## Design
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
