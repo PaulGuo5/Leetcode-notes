@@ -537,3 +537,4 @@ Table of Contents
 |No.184|[Department Highest Salary](https://leetcode.com/problems/department-highest-salary/)|[Solution](./0184/0184.py)|[Note](./0184/note0184.md)|Medium|---|---|group by|
 |No.176|[Second Highest Salary](https://leetcode.com/problems/second-highest-salary/)|[Solution](./0176/0176.py)|[Note](./0176/note0176.md)|Easy|---|---|order by+offset|
 |No.175|[Combine Two Tables](https://leetcode.com/problems/combine-two-tables/)|[Solution](./0175/0175.py)|[Note](./0175/note0175.md)|Easy|---|---|left join|
+|No.177|[Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/)|[Solution](./0177/0177.py)|[Note](./0177/note0177.md)|Medium|---|---|function+offset|
