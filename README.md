@@ -244,6 +244,8 @@ Table of Contents
 |No.133|[Clone Graph](https://leetcode.com/problems/clone-graph/)|[Solution](./0133/0133.py)|[Note](./0133/not0133.md)|Medium|O(n)|O(n)|bfs deque|
 |No.773|[Sliding Puzzle](https://leetcode.com/problems/sliding-puzzle/)|[Solution](./0773/0773.py)|[Note](./0773/not0773.md)|Hard|O(n)|O(n)|bfs deque|
 |No.286|[Walls and Gates](https://leetcode.com/problems/walls-and-gates/)|[Solution](./0286/0286.py)|[Note](./0286/not0286.md)|Medium|O(n)|O(n)|bfs deque|
+|No.1236|[Web Crawler](https://leetcode.com/problems/web-crawler/)|[Solution](./1236/1236.py)|[Note](./1236/not1236.md)|Medium|O(n)|O(n)|bfs deque|
+
 
 ## Binary Tree
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
