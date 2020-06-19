@@ -458,7 +458,7 @@ Table of Contents
 |No.676|[Implement Magic Dictionary](https://leetcode.com/problems/implement-magic-dictionary/)|[Solution](./0676/0676.py)|[Note](./0676/not0676.md)|Medium|O(n)|O(n)|TrieNode|
 |No.1233|[Remove Sub-Folders from the Filesystem](https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/)|[Solution](./1233/1233.py)|[Note](./1233/note1233.md)|Medium|O(nlogn)|O(n)|TrieNode|
 |No.93|[Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/)|[Solution](./0093/0093.py)|[Note](./0093/note093.md)|Medium|O(nlogn)|O(n)|---|
-
+|No.473|[Matchsticks to Square](https://leetcode.com/problems/matchsticks-to-square/)|[Solution](./0473/0473.py)|[Note](./0473/not0473.md)|Medium|O(nlogn)|O(n)|---|
 
 ## Dynamic Programming
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
