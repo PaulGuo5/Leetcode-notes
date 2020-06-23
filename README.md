@@ -407,6 +407,8 @@ Table of Contents
 |No.1360|[Number of Days Between Two Dates](https://leetcode.com/problems/number-of-days-between-two-dates/)|[Solution](./1360/1360.py)|[Note](./1360/note1360.md)|Easy|O(n)|O(n)|---|
 |No.1031|[Maximum Sum of Two Non-Overlapping Subarrays](https://leetcode.com/problems/maximum-sum-of-two-non-overlapping-subarrays/)|[Solution](./1031/1031.py)|[Note](./1031/note1031.md)|Medium|O(n)|O(n)|prefix sum|
 |No.368|[Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/)|[Solution](./0368/0368.py)|[Note](./0368/note0368.md)|Medium|O(n^2)|O(n)|---|
+|No.60|[Permutation Sequence](https://leetcode.com/problems/permutation-sequence/)|[Solution](./0060/0060.py)|[Note](./0060/note0060.md)|Medium|O(n)|O(n)|---|
+
 
 ## Graph
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
