@@ -463,6 +463,8 @@ Table of Contents
 |No.1233|[Remove Sub-Folders from the Filesystem](https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/)|[Solution](./1233/1233.py)|[Note](./1233/note1233.md)|Medium|O(nlogn)|O(n)|TrieNode|
 |No.93|[Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/)|[Solution](./0093/0093.py)|[Note](./0093/note093.md)|Medium|O(nlogn)|O(n)|---|
 |No.473|[Matchsticks to Square](https://leetcode.com/problems/matchsticks-to-square/)|[Solution](./0473/0473.py)|[Note](./0473/not0473.md)|Medium|O(nlogn)|O(n)|---|
+|No.95|[Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/)|[Solution](./0095/0095.py)|[Note](./0095/note095.md)|Medium|O(3^n)|O(3^n)|---|
+
 
 ## Dynamic Programming
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
