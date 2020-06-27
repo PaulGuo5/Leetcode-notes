@@ -517,6 +517,7 @@ Table of Contents
 |No.256|[Paint House](https://leetcode.com/problems/paint-house/)|[Solution](./0256/0256.py)|[Note](./0256/note0256.md)|Easy|O(n)|O(1)|---|
 |No.120|[Triangle](https://leetcode.com/problems/triangle/)|[Solution](./0120/0120.py)|[Note](./0120/note0120.md)|Medium|O(n)|O(1)|---|
 |No.1139|[Largest 1-Bordered Square](https://leetcode.com/problems/largest-1-bordered-square/)|[Solution](./1139/1139.py)|[Note](./1139/note1139.md)|Medium|O(n^3)|O(n^2)|---|
+|No.688|[Knight Probability in Chessboard](https://leetcode.com/problems/knight-probability-in-chessboard/)|[Solution](./0688/0688.py)|[Note](./0688/note0688.md)|Medium|O(n^3)|O(n^2)|---|
 
 ## Design
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
