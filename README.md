@@ -444,6 +444,8 @@ Table of Contents
 |No.990|[Satisfiability of Equality Equations](https://leetcode.com/problems/satisfiability-of-equality-equations/)|[Solution](./0990/0990.py)|[Note](./0990/not0990.md)|Medium|O(nlogn)|O(n)|union find|
 |No.1101|[The Earliest Moment When Everyone Become Friends](https://leetcode.com/problems/the-earliest-moment-when-everyone-become-friends/)|[Solution](./1101/1101.py)|[Note](./1101/not1101.md)|Medium|O(nlogn)|O(n)|union find|
 |No.1061|[Lexicographically Smallest Equivalent String](https://leetcode.com/problems/lexicographically-smallest-equivalent-string/)|[Solution](./1061/1061.py)|[Note](./1061/not1061.md)|Medium|O(nlogn)|O(n)|union find|
+|No.310|[Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/)|[Solution](./0310/0310.py)|[Note](./0310/not0310.md)|Medium|O(n^2)|O(n)|---|
+
 
 ## Backtracking
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
