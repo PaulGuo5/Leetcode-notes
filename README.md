@@ -364,6 +364,7 @@ Table of Contents
 |No.702|[Search in a Sorted Array of Unknown Size](https://leetcode.com/problems/search-in-a-sorted-array-of-unknown-size/)|[Solution](./0702/0702.py)|[Note](./0702/note0702.md)|Medium|O(log(n))|O(1)|---|
 |No.275|[H-Index II](https://leetcode.com/problems/h-index-ii/)|[Solution](./0275/0275.py)|[Note](./0275/note0275.md)|Medium|O(log(n))|O(1)|---|
 |No.34|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[Solution](./0034/0034.py)|[Note](./0034/note0034.md)|Medium|O(n)|O(1)|---|
+|No.81|[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)|[Solution](./0081/0081.py)|[Note](./0081/note0081.md)|Medium|O(logn)|O(1)|---|
 
 
 ## Binary Search Tree
