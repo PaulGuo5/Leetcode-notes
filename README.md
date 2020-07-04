@@ -540,7 +540,7 @@ Table of Contents
 |No.1206|[Design Skiplist](https://leetcode.com/problems/design-skiplist/)|[Solution](./1206/1206.py)|[Note](./1206/note1206.md)|Hard|O(nlog)|O(n)|skiplist|
 |No.1429|[First Unique Number](https://leetcode.com/problems/first-unique-number/)|[Solution](./1429/1429.py)|[Note](./1429/note1429.md)|Medium|O(n)|O(n)|---|
 |No.1117|[Building H2O](https://leetcode.com/problems/building-h2o/)|[Solution](./1117/1117.py)|[Note](./1117/note1117.md)|Medium|O(n)|O(n)|---|
-
+|No.307|[Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/)|[Solution](./0307/0307.py)|[Note](./0307/note0307.md)|Medium|init:O(nlogn)/query:O(logn)/update:O(logn)|O(n)|FenwickTree/Prefix Sum|
 
 ## SQL
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
