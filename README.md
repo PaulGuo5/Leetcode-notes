@@ -525,7 +525,7 @@ Table of Contents
 |No.688|[Knight Probability in Chessboard](https://leetcode.com/problems/knight-probability-in-chessboard/)|[Solution](./0688/0688.py)|[Note](./0688/note0688.md)|Medium|O(n^3)|O(n^2)|---|
 |No.174|[Dungeon Game](https://leetcode.com/problems/dungeon-game/)|[Solution](./0174/0174.py)|[Note](./0174/note0174.md)|Hard|O(n^2)|O(n^2)|---|
 |No.304|[Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/)|[Solution](./0304/0304.py)|[Note](./0304/note0304.md)|Medium|O(n^2)|O(n^2)|---|
-
+|No.361|[Bomb Enemy](https://leetcode.com/problems/bomb-enemy/)|[Solution](./0361/0361.py)|[Note](./0361/note0361.md)|Medium|O(n^2)|O(n^2)|---|
 
 ## Design
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
