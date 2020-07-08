@@ -221,6 +221,7 @@ Table of Contents
 |No.901|[Online Stock Span](https://leetcode.com/problems/online-stock-span/)|[Solution](./0901/0901.py)|[Note](./0901/note0901.md)|Medium|O(n)|O(n)|monotonous stack|
 |No.84|[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)|[Solution](./0084/0084.py)|[Note](./0084/note0084.md)|Hard|O(n)|O(n)|monotonous stack|
 |No.1249|[Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/)|[Solution](./1249/1249.py)|[Note](./1249/note1249.md)|Medium|O(n)|O(n)|---|
+|No.1209|[Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/)|[Solution](./1209/1209.py)|[Note](./1209/note1209.md)|Medium|O(n)|O(n)|---|
 
 
 ## Recursion
