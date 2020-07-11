@@ -43,7 +43,7 @@ Table of Contents
 |No.29|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)|[Solution](./0029/0029.py)|[Note](./0029/note0029.md)|Medium|O(n)|O(1)|---|
 |No.1356|[Sort Integers by The Number of 1 Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/)|[Solution](./1356/1356.py)|[Note](./1356/note1356.md)|Easy|O(n)|O(n)|---|
 |No.201|[Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/)|[Solution](./0201/0201.py)|[Note](./0201/note0201.md)|Medium|O(n)|O(1)|---|
-
+|No.260|[Single Number III](https://leetcode.com/problems/single-number-iii/)|[Solution](./0260/0260.py)|[Note](./0260/note0260.md)|Medium|O(n)|O(1)|---|
 
 
 
