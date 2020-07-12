@@ -163,6 +163,7 @@ Table of Contents
 |No.1405|[Longest Happy String](https://leetcode.com/problems/longest-happy-string/)|[Solution](./1405/1405.py)|[Note](./1405/note1405.md)|Medium|O(n))|O(n)|greedy|
 |No.647|[Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)|[Solution](./0647/0647.py)|[Note](./0647/note0647.md)|Medium|O(n^2)|O(n^2)|---|
 |No.763|[Partition Labels](https://leetcode.com/problems/partition-labels/)|[Solution](./0763/0763.py)|[Note](./0763/note0763.md)|Medium|O(n)|O(n)|---|
+|No.524|[Longest Word in Dictionary through Deleting](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/)|[Solution](./0524/0524.py)|[Note](./0524/note0524.md)|Medium|O(nlogn)|O(n)|---|
 
 
 ## Linked List
