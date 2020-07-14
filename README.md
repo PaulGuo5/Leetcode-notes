@@ -112,6 +112,8 @@ Table of Contents
 |No.1375|[Bulb Switcher III](https://leetcode.com/problems/bulb-switcher-iii/)|[Solution](./1375/1375.py)|[Note](./1375/note1375.md)|Medium|O(1)|O(1)|---|
 |No.252|[Meeting Rooms](https://leetcode.com/problems/meeting-rooms/)|[Solution](./0252/0252.py)|[Note](./0252/note0252.md)|Easy|O(nlogn)|O(1)|interval|
 |No.435|[Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)|[Solution](./0435/0435.py)|[Note](./0435/note0435.md)|Medium|O(nlogn)|O(1)|interval|
+|No.18|[4Sum](https://leetcode.com/problems/4sum/)|[Solution](./0018/0018.py)|[Note](./0018/note0018.md)|Medium|O(n^3)|O(n)|---|
+
 
 ## String
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
@@ -535,6 +537,8 @@ Table of Contents
 |No.361|[Bomb Enemy](https://leetcode.com/problems/bomb-enemy/)|[Solution](./0361/0361.py)|[Note](./0361/note0361.md)|Medium|O(n^2)|O(n^2)|---|
 |No.265|[Paint House II](https://leetcode.com/problems/paint-house-ii/)|[Solution](./0265/0265.py)|[Note](./0265/note0265.md)|Hard|O(n^2)|O(1)|---|
 |No.276|[Paint Fence](https://leetcode.com/problems/paint-fence/)|[Solution](./0276/0276.py)|[Note](./0276/note0276.md)|Easy|O(n)|O(1)|---|
+|No.887|[Super Egg Drop](https://leetcode.com/problems/super-egg-drop/)|[Solution](./0887/0887.py)|[Note](./0887/note0887.md)|Hard|O(knm)|O(nm)|---|
+
 
 ## Design
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
