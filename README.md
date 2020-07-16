@@ -458,7 +458,7 @@ Table of Contents
 |No.1245|[Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/)|[Solution](./1245/1245.py)|[Note](./1245/not1245.md)|Medium|O(n)|O(n)|dfs/bfs|
 Medium|O(n^2)|O(n)|---|
 |No.1162|[As Far from Land as Possible](https://leetcode.com/problems/as-far-from-land-as-possible/)|[Solution](./1162/1162.py)|[Note](./1162/not1162.md)|Medium|O(n)|O(n)|bfs|
-
+|No.802|[Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/)|[Solution](./0802/0802.py)|[Note](./0802/not0802.md)|Medium|O(n+v)|O(n)|topological sorting|
 
 ## Backtracking
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
