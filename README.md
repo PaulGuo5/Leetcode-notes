@@ -456,6 +456,9 @@ Table of Contents
 |No.1061|[Lexicographically Smallest Equivalent String](https://leetcode.com/problems/lexicographically-smallest-equivalent-string/)|[Solution](./1061/1061.py)|[Note](./1061/not1061.md)|Medium|O(nlogn)|O(n)|union find|
 |No.310|[Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/)|[Solution](./0310/0310.py)|[Note](./0310/not0310.md)|Medium|O(n^2)|O(n)|---|
 |No.1245|[Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/)|[Solution](./1245/1245.py)|[Note](./1245/not1245.md)|Medium|O(n)|O(n)|dfs/bfs|
+Medium|O(n^2)|O(n)|---|
+|No.1162|[As Far from Land as Possible](https://leetcode.com/problems/as-far-from-land-as-possible/)|[Solution](./1162/1162.py)|[Note](./1162/not1162.md)|Medium|O(n)|O(n)|bfs|
+
 
 ## Backtracking
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
