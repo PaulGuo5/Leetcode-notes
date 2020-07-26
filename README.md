@@ -22,6 +22,7 @@ Table of Contents
       * [Graph](#graph)
       * [BackTracking](#backtracking)
       * [Dynamic Programming](#dynamic-programming)
+      * [Divide and Conquer](#divide-and-conquer)
       * [Design](#design)
       * [SQL](#sql)
 
@@ -543,6 +544,13 @@ Table of Contents
 |No.265|[Paint House II](https://leetcode.com/problems/paint-house-ii/)|[Solution](./0265/0265.py)|[Note](./0265/note0265.md)|Hard|O(n^2)|O(1)|---|
 |No.276|[Paint Fence](https://leetcode.com/problems/paint-fence/)|[Solution](./0276/0276.py)|[Note](./0276/note0276.md)|Easy|O(n)|O(1)|---|
 |No.887|[Super Egg Drop](https://leetcode.com/problems/super-egg-drop/)|[Solution](./0887/0887.py)|[Note](./0887/note0887.md)|Hard|O(knm)|O(nm)|---|
+
+
+
+## Divide and Conquer
+|NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
+|---|-----|--------|----|----------|----|-----|---|
+|No.932|[Beautiful Array](https://leetcode.com/problems/beautiful-array/)|[Solution](./0932/0932.py)|[Note](./0932/note0932.md)|Medium|O(nlogn)|O(n)|---|
 
 
 ## Design
