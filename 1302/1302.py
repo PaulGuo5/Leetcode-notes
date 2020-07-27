@@ -4,8 +4,9 @@
 #         self.val = val
 #         self.left = left
 #         self.right = right
+import copy
 class Solution:
-    def deepestLeavesSum(self, root: TreeNode) -> int:
+    def deepestLeavesSum1(self, root: TreeNode) -> int:
         deepest = 0
         def deeps(root, deep):
             nonlocal deepest
@@ -27,3 +28,16 @@ class Solution:
             helper(root.right, deep+1)
         helper(root, 1)
         return cum
+    
+    def deepestLeavesSum(self, root: TreeNode) -> int:
+        q = collections.deque([root])
+        while q:
+            pre = copy.copy(q)
+            for _ in range(len(q)):
+                node = q.popleft()
+                if node.left:
+                    q.append(node.left)
+                if node.right:
+                    q.append(node.right)
+        return sum(i.val for i in pre)
+            
