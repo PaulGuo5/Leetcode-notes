@@ -272,7 +272,7 @@ Table of Contents
 |No.701|[Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/)|[Solution](./0701/0701.py)|[Note](./0701/note0701.md)|Medium|O(logn)|O(n)|---|
 |No.1008|[Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/)|[Solution](./1008/1008.py)|[Note](./1008/note1008.md)|Medium|O(logn)|O(n)|---|
 |No.144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)|[Solution](./0144/0144.py)|[Note](./0144/note144.md)|Medium|O(n)|O(n)|---|
-|No.814|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-pruning/)|[Solution](./0814/0814.py)|[Note](./0814/note814.md)|Medium|O(n)|O(n)|---|
+|No.814|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-pruning/)|[Solution](./0814/0814.py)|[Note](./0814/note814.md)|Medium|O(n)|O(1)|---|
 |No.145|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-pruning/)|[Solution](./0145/0145.py)|[Note](./0145/note145.md)|Medium|O(n)|O(n)|---|
 |No.102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|[Solution](./0102/0102.py)|[Note](./0102/note102.md)|Medium|O(n)|O(n)|---|
 |No.105|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)|[Solution](./0105/0105.py)|[Note](./0105/note105.md)|Medium|O(n)|O(n)|---|
