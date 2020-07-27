@@ -309,8 +309,9 @@ Table of Contents
 |No.654|[Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/)|[Solution](./0654/0654.py)|[Note](./0654/not0654.md)|Medium|O(n)|O(1)|---|
 |No.314|[Binary Tree Vertical Order Traversal](https://leetcode.com/problems/binary-tree-vertical-order-traversal/)|[Solution](./0314/0314.py)|[Note](./0314/not0314.md)|Medium|O(n)|O(n)|queue|
 |No.129|[Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)|[Solution](./0129/0129.py)|[Note](./0129/not0129.md)|Medium|O(n*m)|O(n)|---|
-|No.1302|[Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/)|[Solution](./1302/1302.py)|[Note](./1302/not1302.md)|Medium|O(n)|O(1)|     traversal|
+|No.1302|[Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/)|[Solution](./1302/1302.py)|[Note](./1302/not1302.md)|Medium|O(n)|O(1)|traversal|
 |No.872|[Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/)|[Solution](./0872/0872.py)|[Note](./0872/not0872.md)|easy|O(n)|O(n)|collecting nodes|
+|No.1325|[Delete Leaves With a Given Value](https://leetcode.com/problems/delete-leaves-with-a-given-value/)|[Solution](./1325/1325.py)|[Note](./1325/not1325.md)|Medium|O(n)|O(1)|---|
 
 ## Hash Table
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
