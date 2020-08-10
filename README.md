@@ -385,7 +385,7 @@ Table of Contents
 |No.285|[Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst/)|[Solution](./0285/0285.py)|[Note](./0285/note0285.md)|Medium|O(n)|O(1)|---|
 |No.333|[Largest BST Subtree](https://leetcode.com/problems/largest-bst-subtree/)|[Solution](./0333/0333.py)|[Note](./0333/note0333.md)|Medium|O(nlogn)|O(1)|---|
 |No.270|[Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value/)|[Solution](./0270/0270.py)|[Note](./0270/note0270.md)|Easy|O(nlogn)|O(1)|---|
-
+|No.1382|[Balance a Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree/)|[Solution](./1382/1382.py)|[Note](./1382/note1382.md)|Medium|O(n)|O(n)|AVL|
 
 
 ## Math
