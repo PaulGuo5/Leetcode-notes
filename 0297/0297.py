@@ -6,25 +6,26 @@
 #         self.right = None
 
 class Codec:
-
     def serialize(self, root):
         """Encodes a tree to a single string.
         
         :type root: TreeNode
         :rtype: str
         """
+        if not root:
+            return None
         
-        def write(root):
+        nodes = []
+        def helper(root):
             if not root:
-                res.append("#")
-            else:
-                res.append(str(root.val))
-                write(root.left)
-                write(root.right)
-        res = []
-        write(root)
-        print(res)
-        return " ".join(res)
+                nodes.append('null')
+                return 
+            nodes.append(str(root.val))
+            helper(root.left)
+            helper(root.right)
+            
+        helper(root)
+        return " ".join(nodes)
 
     def deserialize(self, data):
         """Decodes your encoded data to tree.
@@ -32,30 +33,22 @@ class Codec:
         :type data: str
         :rtype: TreeNode
         """
-#         def read():
-#             val = next(vals)
-#             if val == "#":
-#                 return None
-#             node = TreeNode(int(val))
-#             node.left = read()
-#             node.right = read()
-#             return node
+        if not data:
+            return None
         
-#         vals = iter(data.split())
-#         return read()
-    
-        def read():
-            val = vals.popleft()
-            if val == "#":
-                return None
-            node = TreeNode(int(val))
-            node.left = read()
-            node.right = read()
-            return node
-        
-        vals = collections.deque(data.split(" "))
-        return read()
-                
+        nodes = data.split(" ")
+        def helper(nodes):
+            if nodes:
+                node = nodes.pop(0)
+                if node == "null":
+                    return None
+                else:
+                    new = TreeNode(int(node))
+                    new.left = helper(nodes)
+                    new.right = helper(nodes)
+                    return new
+        return helper(nodes)
+
 # Your Codec object will be instantiated and called as such:
 # codec = Codec()
 # codec.deserialize(codec.serialize(root))
