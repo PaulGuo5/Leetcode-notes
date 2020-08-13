@@ -581,6 +581,8 @@ Table of Contents
 |No.307|[Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/)|[Solution](./0307/0307.py)|[Note](./0307/note0307.md)|Medium|init:O(nlogn)/query:O(logn)/update:O(logn)|O(n)|FenwickTree/Prefix Sum|
 |No.315|[Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)|[Solution](./0315/0315.py)|[Note](./0315/note0315.md)|Hard|O(nlogn)|O(n)|FenwickTree/Prefix Sum|
 |No.895|[Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/)|[Solution](./0895/0895.py)|[Note](./0895/note0895.md)|Hard|O(1)|O(n)|---|
+|No.1286|[Iterator for Combination](https://leetcode.com/problems/iterator-for-combination/)|[Solution](./1286/1286.py)|[Note](./1286/note1286.md)|Medium|O(C(n,k))|O(k)|---|
+
 
 ## SQL
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
