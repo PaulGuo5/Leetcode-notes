@@ -602,3 +602,4 @@ Table of Contents
 |No.176|[Second Highest Salary](https://leetcode.com/problems/second-highest-salary/)|[Solution](./0176/0176.py)|[Note](./0176/note0176.md)|Easy|---|---|order by+offset|
 |No.175|[Combine Two Tables](https://leetcode.com/problems/combine-two-tables/)|[Solution](./0175/0175.py)|[Note](./0175/note0175.md)|Easy|---|---|left join|
 |No.177|[Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/)|[Solution](./0177/0177.py)|[Note](./0177/note0177.md)|Medium|---|---|function+offset|
+|No.1341|[Movie Rating](https://leetcode.com/problems/movie-rating/)|[Solution](./1341/1341.sql)|[Note](./1341/note1341.md)|Medium|---|---|union+groupby+orderby+like|
