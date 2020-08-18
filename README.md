@@ -10,7 +10,7 @@ Table of Contents
       * [Array](#array)
       * [Linked List](#linked-List)
       * [Stack](#stack)
-      * [Recursion](#recursion)
+      * [Search (dfs/bfs)](#search-dfs-bfs)
       * [Queue](#queue)
       * [Binary Tree](#binary-tree)
       * [Hash Table](#hash-table)
@@ -229,7 +229,7 @@ Table of Contents
 |No.1209|[Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/)|[Solution](./1209/1209.py)|[Note](./1209/note1209.md)|Medium|O(n)|O(n)|---|
 
 
-## Recursion
+## Search (dfs/bfs)
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
 |---|-----|--------|----|----------|----|-----|---|
 |No.247|[Strobogrammatic Number II](https://leetcode.com/problems/strobogrammatic-number-ii/)|[Solution](./0247/0247.py)|[Note](./0247/note0247.md)|Medium|O(n)|O(n)|---|
