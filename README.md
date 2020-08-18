@@ -10,8 +10,8 @@ Table of Contents
       * [Array](#array)
       * [Linked List](#linked-List)
       * [Stack](#stack)
-      * [Search (dfs/bfs)](#search-dfs-bfs)
       * [Queue](#queue)
+      * [Search](#search)
       * [Binary Tree](#binary-tree)
       * [Hash Table](#hash-table)
       * [Sort](#sort)
@@ -229,16 +229,6 @@ Table of Contents
 |No.1209|[Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/)|[Solution](./1209/1209.py)|[Note](./1209/note1209.md)|Medium|O(n)|O(n)|---|
 
 
-## Search (dfs/bfs)
-|NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
-|---|-----|--------|----|----------|----|-----|---|
-|No.247|[Strobogrammatic Number II](https://leetcode.com/problems/strobogrammatic-number-ii/)|[Solution](./0247/0247.py)|[Note](./0247/note0247.md)|Medium|O(n)|O(n)|---|
-|No.39|[Combination Sum](https://leetcode.com/problems/combination-sum/)|[Solution](./0039/0039.py)|[Note](./0039/note0039.md)|Medium|O(2^n)|O(n)|---|
-|No.40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)|[Solution](./0040/0040.py)|[Note](./0040/note0040.md)|Medium|O(2^n)|O(n)|---|
-|No.339|[Nested List Weight Sum](https://leetcode.com/problems/nested-list-weight-sum/)|[Solution](./0339/0339.py)|[Note](./0339/note0339.md)|Easy|O(n)|O(1)|---|
-|No.216|[Combination Sum III](https://leetcode.com/problems/combination-sum-iii/)|[Solution](./0216/0216.py)|[Note](./0216/note0216.md)|Medium|O(2^n)|O(n)|---|
-
-
 
 ## Queue
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
@@ -253,6 +243,18 @@ Table of Contents
 |No.773|[Sliding Puzzle](https://leetcode.com/problems/sliding-puzzle/)|[Solution](./0773/0773.py)|[Note](./0773/not0773.md)|Hard|O(n)|O(n)|bfs deque|
 |No.286|[Walls and Gates](https://leetcode.com/problems/walls-and-gates/)|[Solution](./0286/0286.py)|[Note](./0286/not0286.md)|Medium|O(n)|O(n)|bfs deque|
 |No.1236|[Web Crawler](https://leetcode.com/problems/web-crawler/)|[Solution](./1236/1236.py)|[Note](./1236/not1236.md)|Medium|O(n)|O(n)|bfs deque|
+
+
+
+## Search
+|NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
+|---|-----|--------|----|----------|----|-----|---|
+|No.247|[Strobogrammatic Number II](https://leetcode.com/problems/strobogrammatic-number-ii/)|[Solution](./0247/0247.py)|[Note](./0247/note0247.md)|Medium|O(n)|O(n)|---|
+|No.39|[Combination Sum](https://leetcode.com/problems/combination-sum/)|[Solution](./0039/0039.py)|[Note](./0039/note0039.md)|Medium|O(2^n)|O(n)|---|
+|No.40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)|[Solution](./0040/0040.py)|[Note](./0040/note0040.md)|Medium|O(2^n)|O(n)|---|
+|No.339|[Nested List Weight Sum](https://leetcode.com/problems/nested-list-weight-sum/)|[Solution](./0339/0339.py)|[Note](./0339/note0339.md)|Easy|O(n)|O(1)|---|
+|No.216|[Combination Sum III](https://leetcode.com/problems/combination-sum-iii/)|[Solution](./0216/0216.py)|[Note](./0216/note0216.md)|Medium|O(2^n)|O(n)|---|
+
 
 
 ## Binary Tree
