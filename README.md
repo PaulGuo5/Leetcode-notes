@@ -255,7 +255,7 @@ Table of Contents
 |No.339|[Nested List Weight Sum](https://leetcode.com/problems/nested-list-weight-sum/)|[Solution](./0339/0339.py)|[Note](./0339/note0339.md)|Easy|O(n)|O(1)|---|
 |No.216|[Combination Sum III](https://leetcode.com/problems/combination-sum-iii/)|[Solution](./0216/0216.py)|[Note](./0216/note0216.md)|Medium|O(2^n)|O(n)|dfs|
 |No.967|[Numbers With Same Consecutive Differences](https://leetcode.com/problems/numbers-with-same-consecutive-differences/)|[Solution](./0967/0967.py)|[Note](./0967/note0967.md)|Medium|O(2^n)|O(n)|dfs|
-
+|No.490|[The Maze](https://leetcode.com/problems/the-maze/)|[Solution](./0490/0490.py)|[Note](./0490/note0490.md)|Medium|O(mn)|O(mn)|bfs/dfs|
 
 ## Binary Tree
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
@@ -445,36 +445,35 @@ Table of Contents
 |No.399|[Evaluate Division](https://leetcode.com/problems/evaluate-division/)|[Solution](./0399/0399.py)|[Note](./0399/note0399.md)|Medium|O(n)|O(n)|dfs|
 |No.1192|[Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/)|[Solution](./01192/01192.py)|[Note](./01192/note1192.md)|Hard|O(n)|O(n)|dfs/Tarjan|
 |No.694|[Number of Distinct Islands](https://leetcode.com/problems/number-of-distinct-islands/)|[Solution](./0694/0694.py)|[Note](./0694/note694.md)|Medium|O(nlogn)|O(n)|dfs|
-|No.1102|[Path With Maximum Minimum Value](https://leetcode.com/problems/path-with-maximum-minimum-value/)|[Solution](./1102/1102.py)|[Note](./1102/not1102.md)|Medium|O(nlogn)|O(n)|heap|
-|No.207|[Course Schedule](https://leetcode.com/problems/course-schedule/)|[Solution](./0207/0207.py)|[Note](./0207/not0207.md)|Medium|O(n)|O(n)|dfs/bfs|
-|No.743|[Network Delay Time](https://leetcode.com/problems/network-delay-time/)|[Solution](./0743/0743.py)|[Note](./0743/not0743.md)|Medium|O(n)|O(n)|graph+heap/queue|
-|No.130|[Surrounded Regions](https://leetcode.com/problems/surrounded-regions/)|[Solution](./0130/0130.py)|[Note](./0130/not0130.md)|Medium|O(n^2)|O(n)|dfs|
-|No.210|[Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)|[Solution](./0210/0210.py)|[Note](./0210/not0210.md)|Medium|O(n)|O(n)|bfs|
-|No.269|[Alien Dictionary](https://leetcode.com/problems/alien-dictionary/)|[Solution](./0269/0269.py)|[Note](./0269/not0269.md)|Hard|O(n)|O(n)|bfs|
-|No.684|[Redundant Connection](https://leetcode.com/problems/redundant-connection/)|[Solution](./0684/0684.py)|[Note](./0684/not0684.md)|Medium|O(n^2)/O(n)|O(n)|dfs/Union find|
-|No.787|[Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/)|[Solution](./0787/0787.py)|[Note](./0787/not0787.md)|Medium|O(m+nlogn)|O(n)|Dijkstra+heap|
-|No.417|[Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/)|[Solution](./0417/0417.py)|[Note](./0417/not0417.md)|Medium|O(logn)|O(n)|dfs/bfs|
-|No.547|[Friend Circles](https://leetcode.com/problems/friend-circles/)|[Solution](./0547/0547.py)|[Note](./0547/not0547.md)|Medium|O(n)|O(n)|dfs|
+|No.1102|[Path With Maximum Minimum Value](https://leetcode.com/problems/path-with-maximum-minimum-value/)|[Solution](./1102/1102.py)|[Note](./1102/note1102.md)|Medium|O(nlogn)|O(n)|heap|
+|No.207|[Course Schedule](https://leetcode.com/problems/course-schedule/)|[Solution](./0207/0207.py)|[Note](./0207/note0207.md)|Medium|O(n)|O(n)|dfs/bfs|
+|No.743|[Network Delay Time](https://leetcode.com/problems/network-delay-time/)|[Solution](./0743/0743.py)|[Note](./0743/note0743.md)|Medium|O(n)|O(n)|graph+heap/queue|
+|No.130|[Surrounded Regions](https://leetcode.com/problems/surrounded-regions/)|[Solution](./0130/0130.py)|[Note](./0130/note0130.md)|Medium|O(n^2)|O(n)|dfs|
+|No.210|[Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)|[Solution](./0210/0210.py)|[Note](./0210/note0210.md)|Medium|O(n)|O(n)|bfs|
+|No.269|[Alien Dictionary](https://leetcode.com/problems/alien-dictionary/)|[Solution](./0269/0269.py)|[Note](./0269/note0269.md)|Hard|O(n)|O(n)|bfs|
+|No.684|[Redundant Connection](https://leetcode.com/problems/redundant-connection/)|[Solution](./0684/0684.py)|[Note](./0684/note0684.md)|Medium|O(n^2)/O(n)|O(n)|dfs/Union find|
+|No.787|[Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/)|[Solution](./0787/0787.py)|[Note](./0787/note0787.md)|Medium|O(m+nlogn)|O(n)|Dijkstra+heap|
+|No.417|[Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/)|[Solution](./0417/0417.py)|[Note](./0417/note0417.md)|Medium|O(logn)|O(n)|dfs/bfs|
+|No.547|[Friend Circles](https://leetcode.com/problems/friend-circles/)|[Solution](./0547/0547.py)|[Note](./0547/note0547.md)|Medium|O(n)|O(n)|dfs|
 |No.1319|[Number of Operations to Make Network Connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected/)|[Solution](./01319/01319.py)|[Note](./01319/note1319.md)|Medium|O(n)|O(n)|Union find|
-|No.547|[Sentence Similarity II](https://leetcode.com/problems/sentence-similarity-ii/)|[Solution](./0547/0547.py)|[Note](./0547/not0547.md)|Medium|O(nlogn)|O(n)|dfs|
-|No.909|[Snakes and Ladders](https://leetcode.com/problems/snakes-and-ladders/)|[Solution](./0909/0909.py)|[Note](./0909/not0909.md)|Medium|O(n^2)|O(n^2)|bfs|
-|No.490|[The Maze](https://leetcode.com/problems/the-maze/)|[Solution](./0490/0490.py)|[Note](./0490/not0490.md)|Medium|O(n^2)|O(n^2)|bfs/dfs|
-|No.841|[Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/)|[Solution](./0841/0841.py)|[Note](./0841/not0841.md)|Medium|O(n^2)|O(n^2)|bfs/dfs|
-|No.542|[01 Matrix](https://leetcode.com/problems/01-matrix/)|[Solution](./0542/0542.py)|[Note](./0542/not0542.md)|Medium|O(n^2)|O(n^2)|bfs|
-|No.721|[Accounts Merge](https://leetcode.com/problems/accounts-merge/)|[Solution](./0721/0721.py)|[Note](./0721/not0721.md)|Medium|O(n)|O(n^2)|dfs|
-|No.261|[Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/)|[Solution](./0261/0261.py)|[Note](./0261/not0261.md)|Medium|O(n^2)|O(n)|union find|
-|No.323|[Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/)|[Solution](./0323/0323.py)|[Note](./0323/not0323.md)|Medium|O(n^2)|O(n)|union find|
-|No.959|[Regions Cut By Slashes](https://leetcode.com/problems/regions-cut-by-slashes/)|[Solution](./0959/0959.py)|[Note](./0959/not0959.md)|Medium|O(n^2)|O(n^2)|union find|
-|No.1135|[Connecting Cities With Minimum Cost](https://leetcode.com/problems/connecting-cities-with-minimum-cost/)|[Solution](./1135/1135.py)|[Note](./1135/not1135.md)|Medium|O(nlogn)|O(n)|union find|
-|No.990|[Satisfiability of Equality Equations](https://leetcode.com/problems/satisfiability-of-equality-equations/)|[Solution](./0990/0990.py)|[Note](./0990/not0990.md)|Medium|O(nlogn)|O(n)|union find|
-|No.1101|[The Earliest Moment When Everyone Become Friends](https://leetcode.com/problems/the-earliest-moment-when-everyone-become-friends/)|[Solution](./1101/1101.py)|[Note](./1101/not1101.md)|Medium|O(nlogn)|O(n)|union find|
-|No.1061|[Lexicographically Smallest Equivalent String](https://leetcode.com/problems/lexicographically-smallest-equivalent-string/)|[Solution](./1061/1061.py)|[Note](./1061/not1061.md)|Medium|O(nlogn)|O(n)|union find|
-|No.310|[Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/)|[Solution](./0310/0310.py)|[Note](./0310/not0310.md)|Medium|O(n^2)|O(n)|---|
-|No.1245|[Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/)|[Solution](./1245/1245.py)|[Note](./1245/not1245.md)|Medium|O(n)|O(n)|dfs/bfs|
-|No.1162|[As Far from Land as Possible](https://leetcode.com/problems/as-far-from-land-as-possible/)|[Solution](./1162/1162.py)|[Note](./1162/not1162.md)|Medium|O(n)|O(n)|bfs|
-|No.802|[Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/)|[Solution](./0802/0802.py)|[Note](./0802/not0802.md)|Medium|O(n+v)|O(n)|topological sorting|
-|No.1091|[Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/)|[Solution](./1091/1091.py)|[Note](./1091/not1091.md)|Medium|O(n)|O(n)|bfs|
-|No.797|[All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/)|[Solution](./0797/0797.py)|[Note](./0797/not0797.md)|Medium|O(n+v)|O(n)|---|
+|No.547|[Sentence Similarity II](https://leetcode.com/problems/sentence-similarity-ii/)|[Solution](./0547/0547.py)|[Note](./0547/note0547.md)|Medium|O(nlogn)|O(n)|dfs|
+|No.909|[Snakes and Ladders](https://leetcode.com/problems/snakes-and-ladders/)|[Solution](./0909/0909.py)|[Note](./0909/note0909.md)|Medium|O(n^2)|O(n^2)|bfs|
+|No.841|[Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/)|[Solution](./0841/0841.py)|[Note](./0841/note0841.md)|Medium|O(n^2)|O(n^2)|bfs/dfs|
+|No.542|[01 Matrix](https://leetcode.com/problems/01-matrix/)|[Solution](./0542/0542.py)|[Note](./0542/note0542.md)|Medium|O(n^2)|O(n^2)|bfs|
+|No.721|[Accounts Merge](https://leetcode.com/problems/accounts-merge/)|[Solution](./0721/0721.py)|[Note](./0721/note0721.md)|Medium|O(n)|O(n^2)|dfs|
+|No.261|[Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/)|[Solution](./0261/0261.py)|[Note](./0261/note0261.md)|Medium|O(n^2)|O(n)|union find|
+|No.323|[Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/)|[Solution](./0323/0323.py)|[Note](./0323/note0323.md)|Medium|O(n^2)|O(n)|union find|
+|No.959|[Regions Cut By Slashes](https://leetcode.com/problems/regions-cut-by-slashes/)|[Solution](./0959/0959.py)|[Note](./0959/note0959.md)|Medium|O(n^2)|O(n^2)|union find|
+|No.1135|[Connecting Cities With Minimum Cost](https://leetcode.com/problems/connecting-cities-with-minimum-cost/)|[Solution](./1135/1135.py)|[Note](./1135/note1135.md)|Medium|O(nlogn)|O(n)|union find|
+|No.990|[Satisfiability of Equality Equations](https://leetcode.com/problems/satisfiability-of-equality-equations/)|[Solution](./0990/0990.py)|[Note](./0990/note0990.md)|Medium|O(nlogn)|O(n)|union find|
+|No.1101|[The Earliest Moment When Everyone Become Friends](https://leetcode.com/problems/the-earliest-moment-when-everyone-become-friends/)|[Solution](./1101/1101.py)|[Note](./1101/note1101.md)|Medium|O(nlogn)|O(n)|union find|
+|No.1061|[Lexicographically Smallest Equivalent String](https://leetcode.com/problems/lexicographically-smallest-equivalent-string/)|[Solution](./1061/1061.py)|[Note](./1061/note1061.md)|Medium|O(nlogn)|O(n)|union find|
+|No.310|[Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/)|[Solution](./0310/0310.py)|[Note](./0310/note0310.md)|Medium|O(n^2)|O(n)|---|
+|No.1245|[Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/)|[Solution](./1245/1245.py)|[Note](./1245/note1245.md)|Medium|O(n)|O(n)|dfs/bfs|
+|No.1162|[As Far from Land as Possible](https://leetcode.com/problems/as-far-from-land-as-possible/)|[Solution](./1162/1162.py)|[Note](./1162/note1162.md)|Medium|O(n)|O(n)|bfs|
+|No.802|[Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/)|[Solution](./0802/0802.py)|[Note](./0802/note0802.md)|Medium|O(n+v)|O(n)|topological sorting|
+|No.1091|[Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/)|[Solution](./1091/1091.py)|[Note](./1091/note1091.md)|Medium|O(n)|O(n)|bfs|
+|No.797|[All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/)|[Solution](./0797/0797.py)|[Note](./0797/note0797.md)|Medium|O(n+v)|O(n)|---|
 
 
 ## Backtracking
