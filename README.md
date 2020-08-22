@@ -256,6 +256,8 @@ Table of Contents
 |No.216|[Combination Sum III](https://leetcode.com/problems/combination-sum-iii/)|[Solution](./0216/0216.py)|[Note](./0216/note0216.md)|Medium|O(2^n)|O(n)|dfs|
 |No.967|[Numbers With Same Consecutive Differences](https://leetcode.com/problems/numbers-with-same-consecutive-differences/)|[Solution](./0967/0967.py)|[Note](./0967/note0967.md)|Medium|O(2^n)|O(n)|dfs|
 |No.490|[The Maze](https://leetcode.com/problems/the-maze/)|[Solution](./0490/0490.py)|[Note](./0490/note0490.md)|Medium|O(mn)|O(mn)|bfs/dfs|
+|No.505|[The Maze II](https://leetcode.com/problems/the-maze-ii/)|[Solution](./0505/0505.py)|[Note](./0505/note0505.md)|Medium|O(mnmax(m,n))|O(mn)|bfs/dfs|
+
 
 ## Binary Tree
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
