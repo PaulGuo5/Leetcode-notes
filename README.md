@@ -386,7 +386,7 @@ Table of Contents
 |No.275|[H-Index II](https://leetcode.com/problems/h-index-ii/)|[Solution](./0275/0275.py)|[Note](./0275/note0275.md)|Medium|O(log(n))|O(1)|---|
 |No.34|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[Solution](./0034/0034.py)|[Note](./0034/note0034.md)|Medium|O(n)|O(1)|---|
 |No.81|[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)|[Solution](./0081/0081.py)|[Note](./0081/note0081.md)|Medium|O(logn)|O(1)|---|
-
+|No.497|[Random Point in Non-overlapping Rectangles](https://leetcode.com/problems/random-point-in-non-overlapping-rectangles/)|[Solution](./0497/0497.py)|[Note](./0497/note0497.md)|Medium|O(n), O(logn)|O(n)|math(random)+binary search|
 
 ## Binary Search Tree
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
@@ -437,7 +437,7 @@ Table of Contents
 |No.556|[Next Greater Element III](https://leetcode.com/problems/next-greater-element-iii/)|[Solution](./0556/0556.py)|[Note](./0556/note0556.md)|Medium|O(n)|O(n)|---|
 |No.229|[Majority Element II](https://leetcode.com/problems/majority-element-ii/)|[Solution](./0229/0229.py)|[Note](./0229/note0229.md)|Medium|O(n)|O(1)|---|
 |No.829|[Consecutive Numbers Sum](https://leetcode.com/problems/consecutive-numbers-sum/)|[Solution](./0829/0829.py)|[Note](./0829/note0829.md)|Hard|O(n**0.5)|O(1)|---|
-
+|No.497|[Random Point in Non-overlapping Rectangles](https://leetcode.com/problems/random-point-in-non-overlapping-rectangles/)|[Solution](./0497/0497.py)|[Note](./0497/note0497.md)|Medium|O(n), O(logn)|O(n)|math(random)+binary search|
 
 ## Graph
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
