@@ -323,6 +323,9 @@ Table of Contents
 |No.968|[Binary Tree Cameras](https://leetcode.com/problems/binary-tree-cameras/)|[Solution](./0968/0968.py)|[Note](./0968/note0968.md)|Hard|O(n)|O(1)|dfs + Bottom-up|
 |No.337|[House Robber III](https://leetcode.com/problems/house-robber-iii/)|[Solution](./0337/0337.py)|[Note](./0337/note0337.md)|Medium|O(n)|O(1)|dfs + Bottom-up|
 |No.979|[Distribute Coins in Binary Tree](https://leetcode.com/problems/distribute-coins-in-binary-tree/)|[Solution](./0979/0979.py)|[Note](./0979/note0979.md)|Medium|O(n)|O(1)|dfs + Bottom-up|
+|No.1120|[Maximum Average Subtree](https://leetcode.com/problems/maximum-average-subtree/)|[Solution](./1120/1120.py)|[Note](./1120/note1120.md)|Medium|O(n)|O(n)|Bottom-up dfs|
+
+
 
 ## Hash Table
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
