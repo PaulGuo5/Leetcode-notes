@@ -175,7 +175,7 @@ Table of Contents
 |---|-----|--------|----|----------|----|-----|---|
 |No.82|[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)|[Solution](./0082/0082.py)|[Note](./0082/note0082.md)|Medium|O(n)|O(1)|---|
 |No.21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[Solution](./0021/0021.py)|[Note](./0021/note0021.md)|Easy|O(n)|O(1)|Dummy node|
-|No.24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)|[Solution](./0024/0024.py)|[Note](./0024/note0024.md)|Medium|O(n)|O(1)|---|
+|No.24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)|[Solution](./0024/0024.py)|[Note](./0024/note0024.md)|Medium|O(n)|O(1)|iterative/recursive|
 |No.83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[Solution](./0083/0083.py)|[Note](./0083/note0083.md)|Easy|O(n)|O(1)|---|
 |No.160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)|[Solution](./0160/0160.py)|[Note](./0160/note0160.md)|Easy|O(n)|O(1)|---|
 |No.203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|[Solution](./0203/0203.py)|[Note](./0203/note0203.md)|Easy|O(n)|O(1)|---|
@@ -390,6 +390,8 @@ Table of Contents
 |No.34|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[Solution](./0034/0034.py)|[Note](./0034/note0034.md)|Medium|O(n)|O(1)|---|
 |No.81|[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)|[Solution](./0081/0081.py)|[Note](./0081/note0081.md)|Medium|O(logn)|O(1)|---|
 |No.497|[Random Point in Non-overlapping Rectangles](https://leetcode.com/problems/random-point-in-non-overlapping-rectangles/)|[Solution](./0497/0497.py)|[Note](./0497/note0497.md)|Medium|O(n), O(logn)|O(n)|math(random)+binary search|
+|No.436|[Find Right Interval](https://leetcode.com/problems/find-right-interval/)|[Solution](./0436/0436.py)|[Note](./0436/note0436.md)|Medium|O(logn)|O(n)|---|
+
 
 ## Binary Search Tree
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
