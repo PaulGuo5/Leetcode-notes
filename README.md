@@ -258,6 +258,9 @@ Table of Contents
 |No.490|[The Maze](https://leetcode.com/problems/the-maze/)|[Solution](./0490/0490.py)|[Note](./0490/note0490.md)|Medium|O(mn)|O(mn)|bfs/dfs|
 |No.505|[The Maze II](https://leetcode.com/problems/the-maze-ii/)|[Solution](./0505/0505.py)|[Note](./0505/note0505.md)|Medium|O(mnmax(m,n))|O(mn)|bfs/dfs|
 |No.499|[The Maze III](https://leetcode.com/problems/the-maze-iii/)|[Solution](./0499/0499.py)|[Note](./0499/note0499.md)|Hard|O(mnmax(m,n))|O(mn)|bfs|
+|No.489|[Robot Room Cleaner](https://leetcode.com/problems/robot-room-cleaner/)|[Solution](./0489/0489.py)|[Note](./0489/note0489.md)|Hard|O(n)|O(n)|dfs|
+
+
 
 ## Binary Tree
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
