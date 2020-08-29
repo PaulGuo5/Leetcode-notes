@@ -116,6 +116,7 @@ Table of Contents
 |No.18|[4Sum](https://leetcode.com/problems/4sum/)|[Solution](./0018/0018.py)|[Note](./0018/note0018.md)|Medium|O(n^3)|O(n)|---|
 |No.442|[Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)|[Solution](./0442/0442.py)|[Note](./0442/note0442.md)|Medium|O(n)|O(1)|---|
 |No.484|[Find Permutation](https://leetcode.com/problems/find-permutation/)|[Solution](./0484/0484.py)|[Note](./0484/note0484.md)|Medium|O(n)|O(n)|---|
+|No.969|[Pancake Sorting](https://leetcode.com/problems/pancake-sorting/)|[Solution](./0969/0969.py)|[Note](./0969/note0969.md)|Medium|O(n^2)|O(n)|---|
 
 ## String
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
