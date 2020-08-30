@@ -578,6 +578,7 @@ Table of Contents
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
 |---|-----|--------|----|----------|----|-----|---|
 |No.932|[Beautiful Array](https://leetcode.com/problems/beautiful-array/)|[Solution](./0932/0932.py)|[Note](./0932/note0932.md)|Medium|O(nlogn)|O(n)|---|
+|No.241|[Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/)|[Solution](./0241/0241.py)|[Note](./0241/note0241.md)|Medium|O(n^3)|O(n)|memo|
 
 
 ## Design
