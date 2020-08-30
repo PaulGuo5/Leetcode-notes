@@ -485,6 +485,7 @@ Table of Contents
 |No.802|[Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/)|[Solution](./0802/0802.py)|[Note](./0802/note0802.md)|Medium|O(n+v)|O(n)|topological sorting|
 |No.1091|[Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/)|[Solution](./1091/1091.py)|[Note](./1091/note1091.md)|Medium|O(n)|O(n)|bfs|
 |No.797|[All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/)|[Solution](./0797/0797.py)|[Note](./0797/note0797.md)|Medium|O(n+v)|O(n)|---|
+|No.952|[Largest Component Size by Common Factor](https://leetcode.com/problems/largest-component-size-by-common-factor/)|[Solution](./0952/0952.py)|[Note](./0952/note0952.md)|Hard|O(n)|O(n)|union find|
 
 
 ## Backtracking
