@@ -447,6 +447,7 @@ Table of Contents
 |No.229|[Majority Element II](https://leetcode.com/problems/majority-element-ii/)|[Solution](./0229/0229.py)|[Note](./0229/note0229.md)|Medium|O(n)|O(1)|---|
 |No.829|[Consecutive Numbers Sum](https://leetcode.com/problems/consecutive-numbers-sum/)|[Solution](./0829/0829.py)|[Note](./0829/note0829.md)|Hard|O(n**0.5)|O(1)|---|
 |No.497|[Random Point in Non-overlapping Rectangles](https://leetcode.com/problems/random-point-in-non-overlapping-rectangles/)|[Solution](./0497/0497.py)|[Note](./0497/note0497.md)|Medium|O(n), O(logn)|O(n)|math(random)+binary search|
+|No.220|[Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/)|[Solution](./0220/0220.py)|[Note](./0220/note0220.md)|Medium|O(n)|O(n)|ordered dict|
 
 ## Graph
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
