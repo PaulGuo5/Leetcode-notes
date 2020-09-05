@@ -574,6 +574,7 @@ Table of Contents
 |No.213|[House Robber II](https://leetcode.com/problems/house-robber-ii/)|[Solution](./0213/0213.py)|[Note](./0213/note0213.md)|Medium|O(n)|O(n) and O(1)|---|
 |No.123|[Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)|[Solution](./0123/0123.py)|[Note](./0123/note0123.md)|Hard|O(n*5)|O(n)|---|
 |No.188|[Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/)|[Solution](./0188/0188.py)|[Note](./0188/note0188.md)|Hard|O(nk)|O(nk)|---|
+|No.132|[Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/)|[Solution](./0132/0132.py)|[Note](./0132/note0132.md)|Hard|O(n^2)|O(n)|dp partition|
 
 ## Divide and Conquer
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
