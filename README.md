@@ -264,6 +264,8 @@ Table of Contents
 |No.489|[Robot Room Cleaner](https://leetcode.com/problems/robot-room-cleaner/)|[Solution](./0489/0489.py)|[Note](./0489/note0489.md)|Hard|O(n)|O(n)|dfs|
 |No.1490|[Clone N-ary Tree](https://leetcode.com/problems/clone-n-ary-tree/)|[Solution](./1490/1490.py)|[Note](./1490/note1490.md)|Medium|O(n)|O(n)|clone bfs/dfs|
 |No.133|[Clone Graph](https://leetcode.com/problems/clone-graph/)|[Solution](./0133/0133.py)|[Note](./0133/note0133.md)|Medium|O(n)|O(n)|clone bfs|
+|No.1485|[Clone Binary Tree With Random Pointer](https://leetcode.com/problems/clone-binary-tree-with-random-pointer/)|[Solution](./1485/1485.py)|[Note](./1485/note1485.md)|Medium|O(n)|O(n)|clone bfs/dfs|
+|No.138|[Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)|[Solution](./0138/0138.py)|[Note](./0138/note0138.md)|Medium|O(n)|O(n)|clone bfs|
 
 
 ## Binary Tree
