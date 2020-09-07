@@ -1,24 +1,30 @@
 """
 # Definition for a Node.
 class Node:
-    def __init__(self, val = 0, neighbors = []):
+    def __init__(self, val = 0, neighbors = None):
         self.val = val
-        self.neighbors = neighbors
+        self.neighbors = neighbors if neighbors is not None else []
 """
+
 class Solution:
     def cloneGraph(self, node: 'Node') -> 'Node':
-        if not node: return 
-        nodes = {}
-        head = Node(node.val)
-        nodes[node.val] = head
+        # bfs
+        if not node:
+            return node
+        # dic = collections.defaultdict(Node)
+        dic = {}
         q = collections.deque([node])
-        
         while q:
-            node = q.popleft()
-            for child in node.neighbors:
-                if child.val not in nodes:
-                    new = Node(child.val)
-                    nodes[child.val] = new
-                    q.append(child)
-                nodes[node.val].neighbors.append(nodes[child.val])
-        return head
+            cur = q.popleft()
+            # dic[cur].val = cur.val
+            if cur not in dic:
+                dic[cur] = Node(cur.val)
+            for nei in cur.neighbors:
+                if nei not in dic:
+                    # dic[nei].val = nei.val
+                    dic[nei] = Node(nei.val)
+                    q.append(nei)
+                    
+                dic[cur].neighbors.append(dic[nei])
+        
+        return dic[node]

@@ -117,6 +117,8 @@ Table of Contents
 |No.442|[Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)|[Solution](./0442/0442.py)|[Note](./0442/note0442.md)|Medium|O(n)|O(1)|---|
 |No.484|[Find Permutation](https://leetcode.com/problems/find-permutation/)|[Solution](./0484/0484.py)|[Note](./0484/note0484.md)|Medium|O(n)|O(n)|---|
 |No.969|[Pancake Sorting](https://leetcode.com/problems/pancake-sorting/)|[Solution](./0969/0969.py)|[Note](./0969/note0969.md)|Medium|O(n^2)|O(n)|---|
+|No.835|[Image Overlap](https://leetcode.com/problems/image-overlap/)|[Solution](./0835/0835.py)|[Note](./0835/note0835.md)|Medium|O(n^2)|O(n)|---|
+
 
 ## String
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
@@ -260,7 +262,8 @@ Table of Contents
 |No.505|[The Maze II](https://leetcode.com/problems/the-maze-ii/)|[Solution](./0505/0505.py)|[Note](./0505/note0505.md)|Medium|O(mnmax(m,n))|O(mn)|bfs/dfs|
 |No.499|[The Maze III](https://leetcode.com/problems/the-maze-iii/)|[Solution](./0499/0499.py)|[Note](./0499/note0499.md)|Hard|O(mnmax(m,n))|O(mn)|bfs|
 |No.489|[Robot Room Cleaner](https://leetcode.com/problems/robot-room-cleaner/)|[Solution](./0489/0489.py)|[Note](./0489/note0489.md)|Hard|O(n)|O(n)|dfs|
-
+|No.1490|[Clone N-ary Tree](https://leetcode.com/problems/clone-n-ary-tree/)|[Solution](./1490/1490.py)|[Note](./1490/note1490.md)|Medium|O(n)|O(n)|clone bfs/dfs|
+|No.133|[Clone Graph](https://leetcode.com/problems/clone-graph/)|[Solution](./0133/0133.py)|[Note](./0133/note0133.md)|Medium|O(n)|O(n)|clone bfs|
 
 
 ## Binary Tree
@@ -406,7 +409,7 @@ Table of Contents
 |No.333|[Largest BST Subtree](https://leetcode.com/problems/largest-bst-subtree/)|[Solution](./0333/0333.py)|[Note](./0333/note0333.md)|Medium|O(nlogn)|O(1)|---|
 |No.270|[Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value/)|[Solution](./0270/0270.py)|[Note](./0270/note0270.md)|Easy|O(nlogn)|O(1)|---|
 |No.1382|[Balance a Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree/)|[Solution](./1382/1382.py)|[Note](./1382/note1382.md)|Medium|O(n)|O(n)|AVL|
-
+|No.1305|[All Elements in Two Binary Search Trees](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/)|[Solution](./1305/1305.py)|[Note](./1305/note1305.md)|Medium|O(n)|O(n)|inorder + merge sort|
 
 ## Math
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
