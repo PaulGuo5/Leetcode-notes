@@ -118,7 +118,7 @@ Table of Contents
 |No.484|[Find Permutation](https://leetcode.com/problems/find-permutation/)|[Solution](./0484/0484.py)|[Note](./0484/note0484.md)|Medium|O(n)|O(n)|---|
 |No.969|[Pancake Sorting](https://leetcode.com/problems/pancake-sorting/)|[Solution](./0969/0969.py)|[Note](./0969/note0969.md)|Medium|O(n^2)|O(n)|---|
 |No.835|[Image Overlap](https://leetcode.com/problems/image-overlap/)|[Solution](./0835/0835.py)|[Note](./0835/note0835.md)|Medium|O(n^2)|O(n)|---|
-
+|No.1574|[Shortest Subarray to be Removed to Make Array Sorted](https://leetcode.com/problems/shortest-subarray-to-be-removed-to-make-array-sorted/)|[Solution](./1574/1574.py)|[Note](./1574/note1574.md)|Medium|O(n)|O(1)|2 pointers|
 
 ## String
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
