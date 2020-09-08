@@ -453,6 +453,8 @@ Table of Contents
 |No.829|[Consecutive Numbers Sum](https://leetcode.com/problems/consecutive-numbers-sum/)|[Solution](./0829/0829.py)|[Note](./0829/note0829.md)|Hard|O(n**0.5)|O(1)|---|
 |No.497|[Random Point in Non-overlapping Rectangles](https://leetcode.com/problems/random-point-in-non-overlapping-rectangles/)|[Solution](./0497/0497.py)|[Note](./0497/note0497.md)|Medium|O(n), O(logn)|O(n)|math(random)+binary search|
 |No.220|[Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/)|[Solution](./0220/0220.py)|[Note](./0220/note0220.md)|Medium|O(n)|O(n)|ordered dict|
+|No.1237|[Find Positive Integer Solution for a Given Equation](https://leetcode.com/problems/find-positive-integer-solution-for-a-given-equation/)|[Solution](./1237/1237.py)|[Note](./1237/note1237.md)|Easay|O(n)|O(n)|2 pointers|
+
 
 ## Graph
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
