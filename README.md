@@ -400,7 +400,7 @@ Table of Contents
 |No.81|[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)|[Solution](./0081/0081.py)|[Note](./0081/note0081.md)|Medium|O(logn)|O(1)|---|
 |No.497|[Random Point in Non-overlapping Rectangles](https://leetcode.com/problems/random-point-in-non-overlapping-rectangles/)|[Solution](./0497/0497.py)|[Note](./0497/note0497.md)|Medium|O(n), O(logn)|O(n)|math(random)+binary search|
 |No.436|[Find Right Interval](https://leetcode.com/problems/find-right-interval/)|[Solution](./0436/0436.py)|[Note](./0436/note0436.md)|Medium|O(logn)|O(n)|---|
-
+|No.1533|[Find the Index of the Large Integer](https://leetcode.com/problems/find-the-index-of-the-large-integer/)|[Solution](./1533/1533.py)|[Note](./1533/note1533.md)|Medium|O(nlogn)|O(1)|---|
 
 ## Binary Search Tree
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
