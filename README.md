@@ -266,7 +266,7 @@ Table of Contents
 |No.133|[Clone Graph](https://leetcode.com/problems/clone-graph/)|[Solution](./0133/0133.py)|[Note](./0133/note0133.md)|Medium|O(n)|O(n)|clone bfs|
 |No.1485|[Clone Binary Tree With Random Pointer](https://leetcode.com/problems/clone-binary-tree-with-random-pointer/)|[Solution](./1485/1485.py)|[Note](./1485/note1485.md)|Medium|O(n)|O(n)|clone bfs/dfs|
 |No.138|[Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)|[Solution](./0138/0138.py)|[Note](./0138/note0138.md)|Medium|O(n)|O(n)|clone bfs|
-
+|No.351|[Android Unlock Patterns](https://leetcode.com/problems/android-unlock-patterns/)|[Solution](./0351/0351.py)|[Note](./0351/note0351.md)|Medium|O(n)|O(n)|dfs top-down bottom-up|
 
 
 ## Binary Search
