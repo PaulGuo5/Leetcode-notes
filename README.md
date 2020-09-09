@@ -268,6 +268,37 @@ Table of Contents
 |No.138|[Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)|[Solution](./0138/0138.py)|[Note](./0138/note0138.md)|Medium|O(n)|O(n)|clone bfs|
 
 
+
+## Binary Search
+|NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
+|---|-----|--------|----|----------|----|-----|---|
+|No.4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)|[Solution](./0004/0004.py)|[Note](./0004/note0004.md)|Hard|O(log(m+n))|O(n)|---|
+|No.33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[Solution](./0033/0033.py)|[Note](./0033/note0033.md)|Medium|O(log(n))|O(1)|---|
+|No.34|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[Solution](./0034/0034.py)|[Note](./0034/note0034.md)|Medium|O(log(n))|O(1)|---|
+|No.240|[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)|[Solution](./0240/0240.py)|[Note](./0240/note0240.md)|Medium|O(log(n))|O(1)|---|
+|No.1231|[Divide Chocolate](https://leetcode.com/problems/divide-chocolate/)|[Solution](./1231/1231.py)|[Note](./1231/note1231.md)|Medium|O(log(n))|O(1)|---|
+|No.1011|[Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/)|[Solution](./1011/1011.py)|[Note](./1011/note1011.md)|Medium|O(log(n))|O(1)|---|
+|No.1283|[Find the Smallest Divisor Given a Threshold](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/)|[Solution](./1283/1283.py)|[Note](./1283/note1283.md)|Medium|O(log(n))|O(1)|---|
+|No.875|[Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)|[Solution](./0875/0875.py)|[Note](./0875/note0875.md)|Medium|O(log(n))|O(1)|---|
+|No.774|[Minimize Max Distance to Gas Station](https://leetcode.com/problems/minimize-max-distance-to-gas-station/)|[Solution](./0774/0774.py)|[Note](./0774/note0774.md)|Hard|O(log(n))|O(1)|---|
+|No.1044|[Longest Duplicate Substring](https://leetcode.com/problems/longest-duplicate-substring/)|[Solution](./1044/1044.py)|[Note](./1044/note1044.md)|Hard|O(log(n))|O(n)|Rabin-karp|
+|No.528|[Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/)|[Solution](./0528/0528.py)|[Note](./0528/note0528.md)|Medium|O(log(n))|O(n)|random|
+|No.981|[Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/)|[Solution](./0981/0981.py)|[Note](./0981/note0981.md)|Medium|O(log(n))|O(n)|bisect|
+|No.981|[Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/)|[Solution](./0981/0981.py)|[Note](./0981/note0981.md)|Medium|O(log(n))|O(n)|bisect|
+|No.1170|[Compare Strings by Frequency of the Smallest Character](https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character/)|[Solution](./1170/1170.py)|[Note](./1170/note1170.md)|Medium|O(log(n))|O(n)|bisect|
+|No.16|[3Sum Closest](https://leetcode.com/problems/3sum-closest/)|[Solution](./0016/0016.py)|[Note](./0016/note0016.md)|Medium|O(n^2)|O(n)|---|
+|No.540|[Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)|[Solution](./0540/0540.py)|[Note](./0540/note0540.md)|Medium|O(log(n))|O(1)|---|
+|No.74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|[Solution](./0074/0074.py)|[Note](./0074/note0074.md)|Medium|O(log(n))|O(1)|---|
+|No.702|[Search in a Sorted Array of Unknown Size](https://leetcode.com/problems/search-in-a-sorted-array-of-unknown-size/)|[Solution](./0702/0702.py)|[Note](./0702/note0702.md)|Medium|O(log(n))|O(1)|---|
+|No.275|[H-Index II](https://leetcode.com/problems/h-index-ii/)|[Solution](./0275/0275.py)|[Note](./0275/note0275.md)|Medium|O(log(n))|O(1)|---|
+|No.34|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[Solution](./0034/0034.py)|[Note](./0034/note0034.md)|Medium|O(n)|O(1)|---|
+|No.81|[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)|[Solution](./0081/0081.py)|[Note](./0081/note0081.md)|Medium|O(logn)|O(1)|---|
+|No.497|[Random Point in Non-overlapping Rectangles](https://leetcode.com/problems/random-point-in-non-overlapping-rectangles/)|[Solution](./0497/0497.py)|[Note](./0497/note0497.md)|Medium|O(n), O(logn)|O(n)|math(random)+binary search|
+|No.436|[Find Right Interval](https://leetcode.com/problems/find-right-interval/)|[Solution](./0436/0436.py)|[Note](./0436/note0436.md)|Medium|O(logn)|O(n)|---|
+|No.1533|[Find the Index of the Large Integer](https://leetcode.com/problems/find-the-index-of-the-large-integer/)|[Solution](./1533/1533.py)|[Note](./1533/note1533.md)|Medium|O(nlogn)|O(1)|---|
+|No.1300|[Sum of Mutated Array Closest to Target](https://leetcode.com/problems/sum-of-mutated-array-closest-to-target/)|[Solution](./1300/1300.py)|[Note](./1300/note1300.md)|Medium|O(nlogn)|O(n)|prefix sum + binary search|
+
+
 ## Binary Tree
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
 |---|-----|--------|----|----------|----|-----|---|
@@ -374,33 +405,7 @@ Table of Contents
 |No.786|[K-th Smallest Prime Fraction](https://leetcode.com/problems/k-th-smallest-prime-fraction/)|[Solution](./0786/0786.py)|[Note](./0786/not0786.md)|Hard|O(nlogn)|O(n)|heapq|
 |No.767|[Reorganize String](https://leetcode.com/problems/reorganize-string/)|[Solution](./0767/0767.py)|[Note](./0767/not0767.md)|Medium|O(nlogn)|O(n)|heapq|
 
-## Binary Search
-|NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
-|---|-----|--------|----|----------|----|-----|---|
-|No.4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)|[Solution](./0004/0004.py)|[Note](./0004/note0004.md)|Hard|O(log(m+n))|O(n)|---|
-|No.33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[Solution](./0033/0033.py)|[Note](./0033/note0033.md)|Medium|O(log(n))|O(1)|---|
-|No.34|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[Solution](./0034/0034.py)|[Note](./0034/note0034.md)|Medium|O(log(n))|O(1)|---|
-|No.240|[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)|[Solution](./0240/0240.py)|[Note](./0240/note0240.md)|Medium|O(log(n))|O(1)|---|
-|No.1231|[Divide Chocolate](https://leetcode.com/problems/divide-chocolate/)|[Solution](./1231/1231.py)|[Note](./1231/note1231.md)|Medium|O(log(n))|O(1)|---|
-|No.1011|[Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/)|[Solution](./1011/1011.py)|[Note](./1011/note1011.md)|Medium|O(log(n))|O(1)|---|
-|No.1283|[Find the Smallest Divisor Given a Threshold](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/)|[Solution](./1283/1283.py)|[Note](./1283/note1283.md)|Medium|O(log(n))|O(1)|---|
-|No.875|[Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)|[Solution](./0875/0875.py)|[Note](./0875/note0875.md)|Medium|O(log(n))|O(1)|---|
-|No.774|[Minimize Max Distance to Gas Station](https://leetcode.com/problems/minimize-max-distance-to-gas-station/)|[Solution](./0774/0774.py)|[Note](./0774/note0774.md)|Hard|O(log(n))|O(1)|---|
-|No.1044|[Longest Duplicate Substring](https://leetcode.com/problems/longest-duplicate-substring/)|[Solution](./1044/1044.py)|[Note](./1044/note1044.md)|Hard|O(log(n))|O(n)|Rabin-karp|
-|No.528|[Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/)|[Solution](./0528/0528.py)|[Note](./0528/note0528.md)|Medium|O(log(n))|O(n)|random|
-|No.981|[Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/)|[Solution](./0981/0981.py)|[Note](./0981/note0981.md)|Medium|O(log(n))|O(n)|bisect|
-|No.981|[Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/)|[Solution](./0981/0981.py)|[Note](./0981/note0981.md)|Medium|O(log(n))|O(n)|bisect|
-|No.1170|[Compare Strings by Frequency of the Smallest Character](https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character/)|[Solution](./1170/1170.py)|[Note](./1170/note1170.md)|Medium|O(log(n))|O(n)|bisect|
-|No.16|[3Sum Closest](https://leetcode.com/problems/3sum-closest/)|[Solution](./0016/0016.py)|[Note](./0016/note0016.md)|Medium|O(n^2)|O(n)|---|
-|No.540|[Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)|[Solution](./0540/0540.py)|[Note](./0540/note0540.md)|Medium|O(log(n))|O(1)|---|
-|No.74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|[Solution](./0074/0074.py)|[Note](./0074/note0074.md)|Medium|O(log(n))|O(1)|---|
-|No.702|[Search in a Sorted Array of Unknown Size](https://leetcode.com/problems/search-in-a-sorted-array-of-unknown-size/)|[Solution](./0702/0702.py)|[Note](./0702/note0702.md)|Medium|O(log(n))|O(1)|---|
-|No.275|[H-Index II](https://leetcode.com/problems/h-index-ii/)|[Solution](./0275/0275.py)|[Note](./0275/note0275.md)|Medium|O(log(n))|O(1)|---|
-|No.34|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[Solution](./0034/0034.py)|[Note](./0034/note0034.md)|Medium|O(n)|O(1)|---|
-|No.81|[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)|[Solution](./0081/0081.py)|[Note](./0081/note0081.md)|Medium|O(logn)|O(1)|---|
-|No.497|[Random Point in Non-overlapping Rectangles](https://leetcode.com/problems/random-point-in-non-overlapping-rectangles/)|[Solution](./0497/0497.py)|[Note](./0497/note0497.md)|Medium|O(n), O(logn)|O(n)|math(random)+binary search|
-|No.436|[Find Right Interval](https://leetcode.com/problems/find-right-interval/)|[Solution](./0436/0436.py)|[Note](./0436/note0436.md)|Medium|O(logn)|O(n)|---|
-|No.1533|[Find the Index of the Large Integer](https://leetcode.com/problems/find-the-index-of-the-large-integer/)|[Solution](./1533/1533.py)|[Note](./1533/note1533.md)|Medium|O(nlogn)|O(1)|---|
+
 
 ## Binary Search Tree
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
