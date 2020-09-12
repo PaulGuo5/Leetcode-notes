@@ -499,6 +499,9 @@ Table of Contents
 |No.1091|[Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/)|[Solution](./1091/1091.py)|[Note](./1091/note1091.md)|Medium|O(n)|O(n)|bfs|
 |No.797|[All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/)|[Solution](./0797/0797.py)|[Note](./0797/note0797.md)|Medium|O(n+v)|O(n)|---|
 |No.952|[Largest Component Size by Common Factor](https://leetcode.com/problems/largest-component-size-by-common-factor/)|[Solution](./0952/0952.py)|[Note](./0952/note0952.md)|Hard|O(n)|O(n)|union find|
+|No.133|[Clone Graph](https://leetcode.com/problems/clone-graph/)|[Solution](./0133/0133.py)|[Note](./0133/not0133.md)|Medium|O(n)|O(n)|bfs deque (queue + hashtable)|
+|No.138|[Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)|[Solution](./0138/0138.py)|[Note](./0138/note0138.md)|Medium|O(n)|O(n)|clone bfs (queue + hashtable)|
+
 
 
 ## Backtracking
