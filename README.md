@@ -464,7 +464,7 @@ Table of Contents
 ## Graph
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
 |---|-----|--------|----|----------|----|-----|---|
-|No.200|[Number of Islands](https://leetcode.com/problems/number-of-islands/)|[Solution](./0200/0200.py)|[Note](./0200/note200.md)|Medium|O(mn)|O(1)|dfs|
+|No.200|[Number of Islands](https://leetcode.com/problems/number-of-islands/)|[Solution](./0200/0200.py)|[Note](./0200/note200.md)|Medium|O(mn)|O(n)|dfs bfs|
 |No.332|[Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/)|[Solution](./0332/0332.py)|[Note](./0332/note332.md)|Medium|O(nlogn)|O(n)|dfs|
 |No.399|[Evaluate Division](https://leetcode.com/problems/evaluate-division/)|[Solution](./0399/0399.py)|[Note](./0399/note0399.md)|Medium|O(n)|O(n)|dfs|
 |No.1192|[Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/)|[Solution](./01192/01192.py)|[Note](./01192/note1192.md)|Hard|O(n)|O(n)|dfs/Tarjan|
