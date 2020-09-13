@@ -1,23 +1,37 @@
 class Solution:
     def maxAreaOfIsland(self, grid: List[List[int]]) -> int:
+        if not grid:
+            return 0
         m, n = len(grid), len(grid[0])
+        vis = set()
+        
+        def dfs(i, j):
+            nonlocal area
+            area += 1
+            for xx, yy in ((0, 1), (0, -1), (1, 0), (-1, 0)):
+                ni, nj = i+xx, j+yy
+                if 0 <= ni < m and 0 <= nj < n and (ni, nj) not in vis and grid[ni][nj] == 1:
+                    vis.add((ni, nj))
+                    dfs(ni, nj)
+                    
+        def bfs(i, j):
+            nonlocal area
+            q = collections.deque([(i, j)])
+            while q:
+                x, y = q.popleft()
+                area += 1
+                for xx, yy in ((0, 1), (0, -1), (1, 0), (-1, 0)):
+                    nx, ny = x+xx, y+yy
+                    if 0 <= nx < m and 0 <= ny < n and (nx, ny) not in vis and grid[nx][ny] == 1:
+                        vis.add((nx, ny))
+                        q.append((nx, ny))
         res = 0
         for i in range(m):
             for j in range(n):
-                if grid[i][j] == 1:
-                    self.area = 0
-                    self.helper(grid, i, j)
-                    res = max(res, self.area)
+                if (i, j) not in vis and grid[i][j] == 1:
+                    vis.add((i, j))
+                    area = 0
+                    # dfs(i, j)
+                    bfs(i, j)
+                    res = max(res, area)
         return res
-    
-    def helper(self, grid, i, j):
-        m, n = len(grid), len(grid[0])
-        if grid[i][j] == 1:
-            grid[i][j] = 0
-            self.area += 1
-            if i-1 >= 0: self.helper(grid,i-1,j)
-            if i+1 < m: self.helper(grid,i+1,j)
-            if j-1 >= 0: self.helper(grid,i,j-1)
-            if j+1 < n: self.helper(grid,i,j+1)
-        else:
-            return 0

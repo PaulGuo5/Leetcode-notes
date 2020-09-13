@@ -77,7 +77,6 @@ Table of Contents
 |No.759|[Employee Free Time](https://leetcode.com/problems/employee-free-time/)|[Solution](./0759/0759.py)|[Note](./0759/note0759.md)|Hard|O(nlogn)|O(n)|flatten|
 |No.1152|[Analyze User Website Visit Pattern](https://leetcode.com/problems/analyze-user-website-visit-pattern/)|[Solution](./1152/1152.py)|[Note](./1152/note1152.md)|Hard|O(nlogn)|O(n)|---|
 |No.55|[Jump Game](https://leetcode.com/problems/jump-game/)|[Solution](./0055/0055.py)|[Note](./0055/note0055.md)|Medium|O(n)|O(1)|greedy|
-|No.695|[Max Area of Island](https://leetcode.com/problems/max-area-of-island/)|[Solution](./0695/0695.py)|[Note](./0695/note0695.md)|Medium|O(n^2)|O(n)|dfs|
 |No.846|[Hand of Straights](https://leetcode.com/problems/hand-of-straights/)|[Solution](./0846/0846.py)|[Note](./0846/note0846.md)|Medium|O(n)|O(1)|try+except|
 |No.1146|[Snapshot Array](https://leetcode.com/problems/snapshot-array/)|[Solution](./1146/1146.py)|[Note](./1146/note1146.md)|Medium|O(n)|O(n)|copy|
 |No.73|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)|[Solution](./0073/0073.py)|[Note](./0073/note0073.md)|Medium|O(n^2)|O(n)|---|
@@ -258,8 +257,8 @@ Table of Contents
 |No.339|[Nested List Weight Sum](https://leetcode.com/problems/nested-list-weight-sum/)|[Solution](./0339/0339.py)|[Note](./0339/note0339.md)|Easy|O(n)|O(1)|---|
 |No.216|[Combination Sum III](https://leetcode.com/problems/combination-sum-iii/)|[Solution](./0216/0216.py)|[Note](./0216/note0216.md)|Medium|O(2^n)|O(n)|dfs|
 |No.967|[Numbers With Same Consecutive Differences](https://leetcode.com/problems/numbers-with-same-consecutive-differences/)|[Solution](./0967/0967.py)|[Note](./0967/note0967.md)|Medium|O(2^n)|O(n)|dfs|
-|No.490|[The Maze](https://leetcode.com/problems/the-maze/)|[Solution](./0490/0490.py)|[Note](./0490/note0490.md)|Medium|O(mn)|O(mn)|bfs/dfs|
-|No.505|[The Maze II](https://leetcode.com/problems/the-maze-ii/)|[Solution](./0505/0505.py)|[Note](./0505/note0505.md)|Medium|O(mnmax(m,n))|O(mn)|bfs/dfs|
+|No.490|[The Maze](https://leetcode.com/problems/the-maze/)|[Solution](./0490/0490.py)|[Note](./0490/note0490.md)|Medium|O(mn)|O(mn)|bfs dfs|
+|No.505|[The Maze II](https://leetcode.com/problems/the-maze-ii/)|[Solution](./0505/0505.py)|[Note](./0505/note0505.md)|Medium|O(mnmax(m,n))|O(mn)|bfs dfs|
 |No.499|[The Maze III](https://leetcode.com/problems/the-maze-iii/)|[Solution](./0499/0499.py)|[Note](./0499/note0499.md)|Hard|O(mnmax(m,n))|O(mn)|bfs|
 |No.489|[Robot Room Cleaner](https://leetcode.com/problems/robot-room-cleaner/)|[Solution](./0489/0489.py)|[Note](./0489/note0489.md)|Hard|O(n)|O(n)|dfs|
 |No.1490|[Clone N-ary Tree](https://leetcode.com/problems/clone-n-ary-tree/)|[Solution](./1490/1490.py)|[Note](./1490/note1490.md)|Medium|O(n)|O(n)|clone bfs/dfs|
@@ -267,7 +266,7 @@ Table of Contents
 |No.1485|[Clone Binary Tree With Random Pointer](https://leetcode.com/problems/clone-binary-tree-with-random-pointer/)|[Solution](./1485/1485.py)|[Note](./1485/note1485.md)|Medium|O(n)|O(n)|clone bfs/dfs|
 |No.138|[Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)|[Solution](./0138/0138.py)|[Note](./0138/note0138.md)|Medium|O(n)|O(n)|clone bfs|
 |No.351|[Android Unlock Patterns](https://leetcode.com/problems/android-unlock-patterns/)|[Solution](./0351/0351.py)|[Note](./0351/note0351.md)|Medium|O(n)|O(n)|dfs top-down bottom-up|
-
+|No.695|[Max Area of Island](https://leetcode.com/problems/max-area-of-island/)|[Solution](./0695/0695.py)|[Note](./0695/note0695.md)|Medium|O(n)|O(n)|dfs bfs|
 
 ## Binary Search
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
