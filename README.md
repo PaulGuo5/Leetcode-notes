@@ -269,6 +269,9 @@ Table of Contents
 |No.695|[Max Area of Island](https://leetcode.com/problems/max-area-of-island/)|[Solution](./0695/0695.py)|[Note](./0695/note0695.md)|Medium|O(n)|O(n)|dfs bfs|
 |No.733|[Flood Fill](https://leetcode.com/problems/flood-fill/)|[Solution](./0733/0733.py)|[Note](./0733/note0733.md)|Easy|O(n)|O(n)|dfs bfs|
 |No.1162|[As Far from Land as Possible](https://leetcode.com/problems/as-far-from-land-as-possible/)|[Solution](./1162/1162.py)|[Note](./1162/note1162.md)|Medium|O(n)|O(n)|bfs|
+|No.827|[Making A Large Island](https://leetcode.com/problems/making-a-large-island/)|[Solution](./0827/0827.py)|[Note](./0827/note0827.md)|Easy|O(n^2)|O(n^2)|dfs|
+
+
 
 ## Binary Search
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
