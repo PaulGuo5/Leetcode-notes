@@ -370,7 +370,7 @@ Table of Contents
 |No.337|[House Robber III](https://leetcode.com/problems/house-robber-iii/)|[Solution](./0337/0337.py)|[Note](./0337/note0337.md)|Medium|O(n)|O(1)|dfs + Bottom-up|
 |No.979|[Distribute Coins in Binary Tree](https://leetcode.com/problems/distribute-coins-in-binary-tree/)|[Solution](./0979/0979.py)|[Note](./0979/note0979.md)|Medium|O(n)|O(1)|dfs + Bottom-up|
 |No.1120|[Maximum Average Subtree](https://leetcode.com/problems/maximum-average-subtree/)|[Solution](./1120/1120.py)|[Note](./1120/note1120.md)|Medium|O(n)|O(n)|Bottom-up dfs|
-
+|No.366|[Find Leaves of Binary Tree](https://leetcode.com/problems/find-leaves-of-binary-tree/)|[Solution](./0366/0366.py)|[Note](./0366/note0366.md)|Medium|O(n)|O(n)|dfs + Bottom-up|
 
 
 ## Hash Table
