@@ -399,7 +399,7 @@ Table of Contents
 |No.912|[Sort an Array](https://leetcode.com/problems/sort-an-array/)|[Solution](./0912/0912.py)|[Note](./0912/note912.md)|Medium|---|---|sortings method summary|
 |No.280|[Wiggle Sort](https://leetcode.com/problems/wiggle-sort/)|[Solution](./0280/0280.py)|[Note](./0280/note280.md)|Medium|O(nlogn)|O(1)|---|
 |No.324|[Wiggle Sort II](https://leetcode.com/problems/wiggle-sort-ii/)|[Solution](./0324/0324.py)|[Note](./0324/note324.md)|Medium|O(nlogn)|O(1)|---|
-
+|No.179|[Largest Number](https://leetcode.com/problems/largest-number/)|[Solution](./0179/0179.py)|[Note](./0179/note179.md)|Medium|O(nlogn)|O(n)|merge sort|
 
 ## Heap
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
