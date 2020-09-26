@@ -507,7 +507,7 @@ Table of Contents
 |No.310|[Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/)|[Solution](./0310/0310.py)|[Note](./0310/note0310.md)|Medium|O(n^2)|O(n)|---|
 |No.1245|[Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/)|[Solution](./1245/1245.py)|[Note](./1245/note1245.md)|Medium|O(n)|O(n)|dfs/bfs|
 |No.1162|[As Far from Land as Possible](https://leetcode.com/problems/as-far-from-land-as-possible/)|[Solution](./1162/1162.py)|[Note](./1162/note1162.md)|Medium|O(n)|O(n)|bfs|
-|No.802|[Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/)|[Solution](./0802/0802.py)|[Note](./0802/note0802.md)|Medium|O(n+v)|O(n)|topological sorting|
+|No.802|[Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/)|[Solution](./0802/0802.py)|[Note](./0802/note0802.md)|Medium|O(n)|O(n)|topological sorting|
 |No.1091|[Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/)|[Solution](./1091/1091.py)|[Note](./1091/note1091.md)|Medium|O(n)|O(n)|bfs|
 |No.797|[All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/)|[Solution](./0797/0797.py)|[Note](./0797/note0797.md)|Medium|O(n+v)|O(n)|---|
 |No.952|[Largest Component Size by Common Factor](https://leetcode.com/problems/largest-component-size-by-common-factor/)|[Solution](./0952/0952.py)|[Note](./0952/note0952.md)|Hard|O(n)|O(n)|union find|
