@@ -513,7 +513,8 @@ Table of Contents
 |No.952|[Largest Component Size by Common Factor](https://leetcode.com/problems/largest-component-size-by-common-factor/)|[Solution](./0952/0952.py)|[Note](./0952/note0952.md)|Hard|O(n)|O(n)|union find|
 |No.133|[Clone Graph](https://leetcode.com/problems/clone-graph/)|[Solution](./0133/0133.py)|[Note](./0133/not0133.md)|Medium|O(n)|O(n)|bfs deque (queue + hashtable)|
 |No.138|[Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)|[Solution](./0138/0138.py)|[Note](./0138/note0138.md)|Medium|O(n)|O(n)|clone bfs (queue + hashtable)|
-
+|No.841|[Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/)|[Solution](./0841/0841.py)|[Note](./0841/note0841.md)|Medium|O(V+E)|O(V)|dfs bfs|
+|No.1202|[Smallest String With Swaps](https://leetcode.com/problems/smallest-string-with-swaps/)|[Solution](./1202/1202.py)|[Note](./1202/note1202.md)|Medium|O(nlogn)|O(n)|union find|
 
 
 ## Backtracking
