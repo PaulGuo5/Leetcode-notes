@@ -1,22 +1,32 @@
 class Solution:
     def canVisitAllRooms1(self, rooms: List[List[int]]) -> bool:
-        self.visited = set()
+        # dfs
+        if not rooms:
+            return True
+        
+        vis = set()
+        
         def dfs(i):
-            if i in self.visited: return 
-            self.visited.add(i)
-            for i in rooms[i]:
-                dfs(i)
+            nonlocal vis
+            vis.add(i)
+            for key in rooms[i]:
+                if key not in vis:
+                    dfs(key)
+        
         dfs(0)
-        return len(self.visited) == len(rooms)
+        return len(vis) == len(rooms)
     
     def canVisitAllRooms(self, rooms: List[List[int]]) -> bool:
-        self.visited = set()
+        # bfs
+        if not rooms:
+            return True
+        
         q = collections.deque([0])
+        vis = set()
         while q:
-            i = q.popleft()
-            self.visited.add(i)
-            for j in rooms[i]:
-                if j not in self.visited:
+            room = q.popleft()
+            vis.add(room)
+            for j in rooms[room]:
+                if j not in vis:
                     q.append(j)
-                    
-        return len(self.visited) == len(rooms)
+        return len(vis) == len(rooms)
