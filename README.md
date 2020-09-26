@@ -482,7 +482,7 @@ Table of Contents
 |No.1192|[Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/)|[Solution](./01192/01192.py)|[Note](./01192/note1192.md)|Hard|O(n)|O(n)|dfs/Tarjan|
 |No.694|[Number of Distinct Islands](https://leetcode.com/problems/number-of-distinct-islands/)|[Solution](./0694/0694.py)|[Note](./0694/note694.md)|Medium|O(nlogn)|O(n)|dfs|
 |No.1102|[Path With Maximum Minimum Value](https://leetcode.com/problems/path-with-maximum-minimum-value/)|[Solution](./1102/1102.py)|[Note](./1102/note1102.md)|Medium|O(nlogn)|O(n)|heap|
-|No.207|[Course Schedule](https://leetcode.com/problems/course-schedule/)|[Solution](./0207/0207.py)|[Note](./0207/note0207.md)|Medium|O(n)|O(n)|dfs/bfs|
+|No.207|[Course Schedule](https://leetcode.com/problems/course-schedule/)|[Solution](./0207/0207.py)|[Note](./0207/note0207.md)|Medium|O(n)|O(n)|topological sorting|
 |No.743|[Network Delay Time](https://leetcode.com/problems/network-delay-time/)|[Solution](./0743/0743.py)|[Note](./0743/note0743.md)|Medium|O(n)|O(n)|graph+heap/queue|
 |No.130|[Surrounded Regions](https://leetcode.com/problems/surrounded-regions/)|[Solution](./0130/0130.py)|[Note](./0130/note0130.md)|Medium|O(n^2)|O(n)|dfs|
 |No.210|[Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)|[Solution](./0210/0210.py)|[Note](./0210/note0210.md)|Medium|O(n)|O(n)|bfs|
