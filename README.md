@@ -485,7 +485,7 @@ Table of Contents
 |No.207|[Course Schedule](https://leetcode.com/problems/course-schedule/)|[Solution](./0207/0207.py)|[Note](./0207/note0207.md)|Medium|O(n)|O(n)|topological sorting|
 |No.743|[Network Delay Time](https://leetcode.com/problems/network-delay-time/)|[Solution](./0743/0743.py)|[Note](./0743/note0743.md)|Medium|O(n)|O(n)|graph+heap/queue|
 |No.130|[Surrounded Regions](https://leetcode.com/problems/surrounded-regions/)|[Solution](./0130/0130.py)|[Note](./0130/note0130.md)|Medium|O(n^2)|O(n)|dfs|
-|No.210|[Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)|[Solution](./0210/0210.py)|[Note](./0210/note0210.md)|Medium|O(n)|O(n)|bfs|
+|No.210|[Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)|[Solution](./0210/0210.py)|[Note](./0210/note0210.md)|Medium|O(n)|O(n)|topological sorting|
 |No.269|[Alien Dictionary](https://leetcode.com/problems/alien-dictionary/)|[Solution](./0269/0269.py)|[Note](./0269/note0269.md)|Hard|O(n)|O(n)|bfs|
 |No.684|[Redundant Connection](https://leetcode.com/problems/redundant-connection/)|[Solution](./0684/0684.py)|[Note](./0684/note0684.md)|Medium|O(n^2)/O(n)|O(n)|dfs/Union find|
 |No.787|[Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/)|[Solution](./0787/0787.py)|[Note](./0787/note0787.md)|Medium|O(m+nlogn)|O(n)|Dijkstra+heap|
