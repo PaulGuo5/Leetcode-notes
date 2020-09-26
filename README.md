@@ -306,6 +306,7 @@ Table of Contents
 |No.436|[Find Right Interval](https://leetcode.com/problems/find-right-interval/)|[Solution](./0436/0436.py)|[Note](./0436/note0436.md)|Medium|O(logn)|O(n)|---|
 |No.1533|[Find the Index of the Large Integer](https://leetcode.com/problems/find-the-index-of-the-large-integer/)|[Solution](./1533/1533.py)|[Note](./1533/note1533.md)|Medium|O(nlogn)|O(1)|---|
 |No.1300|[Sum of Mutated Array Closest to Target](https://leetcode.com/problems/sum-of-mutated-array-closest-to-target/)|[Solution](./1300/1300.py)|[Note](./1300/note1300.md)|Medium|O(nlogn)|O(n)|prefix sum + binary search|
+|No.1060|[Missing Element in Sorted Array](https://leetcode.com/problems/missing-element-in-sorted-array/)|[Solution](./1060/1060.py)|[Note](./1060/note1060.md)|Medium|O(nlogn)|O(1)|binary search|
 
 
 ## Binary Tree
