@@ -276,7 +276,7 @@ Table of Contents
 |No.1162|[As Far from Land as Possible](https://leetcode.com/problems/as-far-from-land-as-possible/)|[Solution](./1162/1162.py)|[Note](./1162/note1162.md)|Medium|O(n)|O(n)|bfs|
 |No.827|[Making A Large Island](https://leetcode.com/problems/making-a-large-island/)|[Solution](./0827/0827.py)|[Note](./0827/note0827.md)|Easy|O(n^2)|O(n^2)|dfs|
 |No.1291|[Sequential Digits](https://leetcode.com/problems/sequential-digits/)|[Solution](./1291/1291.py)|[Note](./1291/note1291.md)|Medium|O(nlogn)|O(n)|dfs|
-
+|No.425|[Word Squares](https://leetcode.com/problems/word-squares/)|[Solution](./0425/0425.py)|[Note](./0425/not0425.md)|Hard|O(n)|O(n)|trie bfs|
 
 ## Binary Search
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
@@ -540,6 +540,8 @@ Table of Contents
 |No.473|[Matchsticks to Square](https://leetcode.com/problems/matchsticks-to-square/)|[Solution](./0473/0473.py)|[Note](./0473/not0473.md)|Medium|O(nlogn)|O(n)|---|
 |No.95|[Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/)|[Solution](./0095/0095.py)|[Note](./0095/note095.md)|Medium|O(3^n)|O(3^n)|---|
 |No.77|[Combinations](https://leetcode.com/problems/combinations/)|[Solution](./0077/0077.py)|[Note](./0077/note077.md)|Medium|O(nlogn)|O(n)|---|
+|No.425|[Word Squares](https://leetcode.com/problems/word-squares/)|[Solution](./0425/0425.py)|[Note](./0425/not0425.md)|Hard|O(n)|O(n)|trie bfs|
+
 
 ## Dynamic Programming
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
