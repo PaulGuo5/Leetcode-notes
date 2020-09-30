@@ -2,7 +2,7 @@ LeetCode solutions
 ========
 
 - As for algorithms, solve by Python 3.
-- There are 759 solutions totally in this repo.
+- There are totally *759* solutions in this repo.
 - My leetcode profile: [https://leetcode.com/441858734/](https://leetcode.com/441858734/).
 
 Table of Contents
