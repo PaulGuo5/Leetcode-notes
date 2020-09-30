@@ -1,6 +1,8 @@
-LeetCode solutions in Python3.
+LeetCode solutions
 ========
 
+- As for algorithms, solve by Python 3.
+- My leetcode profile: [https://leetcode.com/441858734/](https://leetcode.com/441858734/).
 
 Table of Contents
 =================
