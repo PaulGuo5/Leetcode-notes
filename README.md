@@ -126,6 +126,9 @@ Table of Contents
 |No.1094|[Car Pooling](https://leetcode.com/problems/car-pooling/)|[Solution](./notes/1094/1094.py)|[Note](./notes/1094/note1094.md)|Medium|O(n)|O(n)|---|
 |No.495|[Teemo Attacking](https://leetcode.com/problems/teemo-attacking/)|[Solution](./notes/0495/0495.py)|[Note](./notes/0495/note0495.md)|Medium|O(n)|O(1)|intervals|
 |No.41|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/)|[Solution](./notes/0041/0041.py)|[Note](./notes/0041/note0041.md)|Hard|O(n)|O(1)|hash index|
+|No.624|[Maximum Distance in Arrays](https://leetcode.com/problems/maximum-distance-in-arrays/)|[Solution](./notes/0624/0624.py)|[Note](./notes/0624/note0624.md)|Easy|O(n)|O(1)|---|
+
+
 
 ## String
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
