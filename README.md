@@ -128,7 +128,7 @@ Table of Contents
 |No.41|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/)|[Solution](./notes/0041/0041.py)|[Note](./notes/0041/note0041.md)|Hard|O(n)|O(1)|hash index|
 |No.624|[Maximum Distance in Arrays](https://leetcode.com/problems/maximum-distance-in-arrays/)|[Solution](./notes/0624/0624.py)|[Note](./notes/0624/note0624.md)|Easy|O(n)|O(1)|---|
 |No.917|[Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/)|[Solution](./notes/0917/0917.py)|[Note](./notes/0917/note0917.md)|Easy|O(n)|O(1)|2 pointers|
-
+|No.1288|[Remove Covered Intervals](https://leetcode.com/problems/remove-covered-intervals/)|[Solution](./notes/1288/1288.py)|[Note](./notes/1288/note1288.md)|Medium|O(nlogn)|O(1)|intervals|
 
 ## String
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
