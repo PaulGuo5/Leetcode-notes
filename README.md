@@ -396,6 +396,7 @@ Table of Contents
 |No.525|[Contiguous Array](https://leetcode.com/problems/contiguous-array/)|[Solution](./notes/0525/0525.py)|[Note](./notes/0525/note525.md)|Medium|O(n)|O(n)|---|
 |No.249|[Group Shifted Strings](https://leetcode.com/problems/group-shifted-strings/)|[Solution](./notes/0249/0249.py)|[Note](./notes/0249/note249.md)|Medium|O(n)|O(n)|---|
 |No.128|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)|[Solution](./notes/0128/0128.py)|[Note](./notes/0128/note128.md)|Hard|O(n)|O(n)|---|
+|No.170|[Two Sum III - Data structure design](https://leetcode.com/problems/two-sum-iii-data-structure-design/)|[Solution](./notes/0170/0170.py)|[Note](./notes/0170/note170.md)|Easy|O(n)|O(n)|---|
 
 ## Sort
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
