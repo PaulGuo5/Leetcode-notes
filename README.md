@@ -2,7 +2,7 @@ LeetCode solutions
 ========
 
 - As for algorithms, solve by Python 3.
-- There are totally <big>**759**</big> solutions in this repo.
+- There are totally <big>**763**</big> solutions in this repo.
 - My leetcode profile: [https://leetcode.com/441858734/](https://leetcode.com/441858734/).
 
 Table of Contents
@@ -410,6 +410,7 @@ Table of Contents
 |No.324|[Wiggle Sort II](https://leetcode.com/problems/wiggle-sort-ii/)|[Solution](./notes/0324/0324.py)|[Note](./notes/0324/note324.md)|Medium|O(nlogn)|O(1)|---|
 |No.179|[Largest Number](https://leetcode.com/problems/largest-number/)|[Solution](./notes/0179/0179.py)|[Note](./notes/0179/note179.md)|Medium|O(nlogn)|O(n)|merge sort|
 |No.147|[Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)|[Solution](./notes/0147/0147.py)|[Note](./notes/0147/note147.md)|Medium|O(n)|O(1)|insertion sort|
+|No.452|[Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/)|[Solution](./notes/0452/0452.py)|[Note](./notes/0452/note452.md)|Medium|O(nlogn)|O(1)|---|
 
 ## Heap
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
