@@ -181,7 +181,7 @@ Table of Contents
 |No.647|[Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)|[Solution](./notes/0647/0647.py)|[Note](./notes/0647/note0647.md)|Medium|O(n^2)|O(n^2)|---|
 |No.763|[Partition Labels](https://leetcode.com/problems/partition-labels/)|[Solution](./notes/0763/0763.py)|[Note](./notes/0763/note0763.md)|Medium|O(n)|O(n)|---|
 |No.524|[Longest Word in Dictionary through Deleting](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/)|[Solution](./notes/0524/0524.py)|[Note](./notes/0524/note0524.md)|Medium|O(nlogn)|O(n)|---|
-
+|No.316|[Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/)|[Solution](./notes/0316/0316.py)|[Note](./notes/0316/note0316.md)|Medium|O(n)|O(n)|---|
 
 ## Linked List
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
