@@ -2,7 +2,7 @@ LeetCode solutions
 ========
 
 - As for algorithms, solve by Python 3.
-- There are totally <big>**763**</big> solutions in this repo.
+- There are totally <big>**764**</big> solutions in this repo.
 - My leetcode profile: [https://leetcode.com/441858734/](https://leetcode.com/441858734/).
 
 Table of Contents
@@ -129,6 +129,8 @@ Table of Contents
 |No.624|[Maximum Distance in Arrays](https://leetcode.com/problems/maximum-distance-in-arrays/)|[Solution](./notes/0624/0624.py)|[Note](./notes/0624/note0624.md)|Easy|O(n)|O(1)|---|
 |No.917|[Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/)|[Solution](./notes/0917/0917.py)|[Note](./notes/0917/note0917.md)|Easy|O(n)|O(1)|2 pointers|
 |No.1288|[Remove Covered Intervals](https://leetcode.com/problems/remove-covered-intervals/)|[Solution](./notes/1288/1288.py)|[Note](./notes/1288/note1288.md)|Medium|O(nlogn)|O(1)|intervals|
+|No.189|[Rotate Array](https://leetcode.com/problems/rotate-array/)|[Solution](./notes/0189/0189.py)|[Note](./notes/0189/note0189.md)|Medium|O(n)|O(1)|2 pointers|
+
 
 ## String
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
