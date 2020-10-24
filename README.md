@@ -2,7 +2,7 @@ LeetCode solutions
 ========
 
 - As for algorithms, solve by Python 3.
-- There are totally <big>**764**</big> solutions in this repo.
+- There are totally <big>**765**</big> solutions in this repo.
 - My leetcode profile: [https://leetcode.com/441858734/](https://leetcode.com/441858734/).
 
 Table of Contents
@@ -63,7 +63,7 @@ Table of Contents
 |No.79|[Word Search](https://leetcode.com/problems/word-search/)|[Solution](./notes/0079/0079.py)|[Note](./notes/0079/note0079.md)|Medium|O(nm)|O(nm)|---|
 |No.78|[Subsets](https://leetcode.com/problems/subsets/)|[Solution](./notes/0078/0078.py)|[Note](./notes/0078/note0078.md)|Medium|O(2^n)|O(2^n)|iterative or dfs|
 |No.90|[Subsets II](https://leetcode.com/problems/subsets-ii/)|[Solution](./notes/0090/0090.py)|[Note](./notes/0090/note0090.md)|Medium|O(2^n)|O(2^n)|iterative or dfs|
-|No.1007|[Minimum Domino Rotations For Equal Row](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/)|[Solution](./notes/1007/1007.py)|[Note](./notes/1007/note1007.md)|Medium|O(n)|O(1)|---|
+|No.1007|[Minimum Domino Rotations For Equal Row](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/)|[Solution](./notes/1007/1007.py)|[Note](./notes/1007/note1007.md)|Medium|O(n)|O(1)|greedy|
 |No.31|[Next Permutation](https://leetcode.com/problems/next-permutation/)|[Solution](./notes/0031/0031.py)|[Note](./notes/0031/note0031.md)|Medium|O(n)|O(1)|single pointer|
 |No.986|[Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/)|[Solution](./notes/0986/0986.py)|[Note](./notes/0986/note0986.md)|Medium|O(n+m)|O(1)|2 pointer2|
 |No.1252|[Cells with Odd Values in a Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/)|[Solution](./notes/1252/1252.py)|[Note](./notes/1252/note1252.md)|Easy|O(n^2)|O(n)|---|
@@ -130,7 +130,7 @@ Table of Contents
 |No.917|[Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/)|[Solution](./notes/0917/0917.py)|[Note](./notes/0917/note0917.md)|Easy|O(n)|O(1)|2 pointers|
 |No.1288|[Remove Covered Intervals](https://leetcode.com/problems/remove-covered-intervals/)|[Solution](./notes/1288/1288.py)|[Note](./notes/1288/note1288.md)|Medium|O(nlogn)|O(1)|intervals|
 |No.189|[Rotate Array](https://leetcode.com/problems/rotate-array/)|[Solution](./notes/0189/0189.py)|[Note](./notes/0189/note0189.md)|Medium|O(n)|O(1)|2 pointers|
-
+|No.948|[Bag of Tokens](https://leetcode.com/problems/bag-of-tokens/)|[Solution](./notes/0948/0948.py)|[Note](./notes/0948/note0948.md)|Medium|O(nlogn)|O(n)|greedy|
 
 ## String
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
