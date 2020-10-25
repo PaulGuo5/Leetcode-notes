@@ -2,7 +2,7 @@ LeetCode solutions
 ========
 
 - As for algorithms, solve by Python 3.
-- There are totally <big>**766**</big> solutions in this repo.
+- There are totally <big>**767**</big> solutions in this repo.
 - My leetcode profile: [https://leetcode.com/441858734/](https://leetcode.com/441858734/).
 
 Table of Contents
@@ -648,7 +648,7 @@ Table of Contents
 |No.315|[Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)|[Solution](./notes/0315/0315.py)|[Note](./notes/0315/note0315.md)|Hard|O(nlogn)|O(n)|FenwickTree/Prefix Sum|
 |No.895|[Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/)|[Solution](./notes/0895/0895.py)|[Note](./notes/0895/note0895.md)|Hard|O(1)|O(n)|---|
 |No.1286|[Iterator for Combination](https://leetcode.com/problems/iterator-for-combination/)|[Solution](./notes/1286/1286.py)|[Note](./notes/1286/note1286.md)|Medium|O(C(n,k))|O(k)|---|
-
+|No.635|[Design Log Storage System](https://leetcode.com/problems/design-log-storage-system/)|[Solution](./notes/0635/0635.py)|[Note](./notes/0635/note0635.md)|Medium|O(n)|O(n)|---|
 
 ## SQL
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
