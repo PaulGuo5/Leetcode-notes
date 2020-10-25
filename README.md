@@ -2,7 +2,7 @@ LeetCode solutions
 ========
 
 - As for algorithms, solve by Python 3.
-- There are totally <big>**765**</big> solutions in this repo.
+- There are totally <big>**766**</big> solutions in this repo.
 - My leetcode profile: [https://leetcode.com/441858734/](https://leetcode.com/441858734/).
 
 Table of Contents
@@ -619,6 +619,8 @@ Table of Contents
 |No.132|[Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/)|[Solution](./notes/0132/0132.py)|[Note](./notes/0132/note0132.md)|Hard|O(n^2)|O(n)|dp partition|
 |No.1289|[Minimum Falling Path Sum II](https://leetcode.com/problems/minimum-falling-path-sum-ii/)|[Solution](./notes/1289/1289.py)|[Note](./notes/1289/note1289.md)|Hard|O(n^2)|O(1)|---|
 |No.1235|[Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/)|[Solution](./notes/1235/1235.py)|[Note](./notes/1235/note1235.md)|Hard|O(nlogn)|O(n)|binary search + dynamic programming|
+|No.1510|[Stone Game IV](https://leetcode.com/problems/stone-game-iv/)|[Solution](./notes/1510/1510.py)|[Note](./notes/1510/note1510.md)|Hard|O(n)|O(n)|---|
+
 
 ## Divide and Conquer
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
