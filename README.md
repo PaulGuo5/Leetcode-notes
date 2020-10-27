@@ -131,6 +131,7 @@ Table of Contents
 |No.1288|[Remove Covered Intervals](https://leetcode.com/problems/remove-covered-intervals/)|[Solution](./notes/1288/1288.py)|[Note](./notes/1288/note1288.md)|Medium|O(nlogn)|O(1)|intervals|
 |No.189|[Rotate Array](https://leetcode.com/problems/rotate-array/)|[Solution](./notes/0189/0189.py)|[Note](./notes/0189/note0189.md)|Medium|O(n)|O(1)|2 pointers|
 |No.948|[Bag of Tokens](https://leetcode.com/problems/bag-of-tokens/)|[Solution](./notes/0948/0948.py)|[Note](./notes/0948/note0948.md)|Medium|O(nlogn)|O(n)|greedy|
+|No.799|[Champagne Tower](https://leetcode.com/problems/champagne-tower/)|[Solution](./notes/0799/0799.py)|[Note](./notes/0799/note0799.md)|Medium|O(n^2)|O(n)|greedy simulation|
 
 ## String
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
