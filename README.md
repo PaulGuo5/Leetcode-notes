@@ -2,7 +2,7 @@ LeetCode solutions
 ========
 
 - As for algorithms, solve by Python 3.
-- There are totally <big>**768**</big> solutions in this repo.
+- There are totally <big>**770**</big> solutions in this repo.
 - My leetcode profile: [https://leetcode.com/441858734/](https://leetcode.com/441858734/).
 
 Table of Contents
@@ -318,7 +318,7 @@ Table of Contents
 |No.1300|[Sum of Mutated Array Closest to Target](https://leetcode.com/problems/sum-of-mutated-array-closest-to-target/)|[Solution](./notes/1300/1300.py)|[Note](./notes/1300/note1300.md)|Medium|O(nlogn)|O(n)|prefix sum + binary search|
 |No.1060|[Missing Element in Sorted Array](https://leetcode.com/problems/missing-element-in-sorted-array/)|[Solution](./notes/1060/1060.py)|[Note](./notes/1060/note1060.md)|Medium|O(nlogn)|O(1)|binary search|
 |No.1235|[Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/)|[Solution](./notes/1235/1235.py)|[Note](./notes/1235/note1235.md)|Hard|O(nlogn)|O(n)|binary search + dynamic programming|
-
+|No.431|[Encode N-ary Tree to Binary Tree](https://leetcode.com/problems/encode-n-ary-tree-to-binary-tree/)|[Solution](./notes/0431/0431.py)|[Note](./notes/0431/note0431.md)|Hard|O(n)|O(n)|---|
 
 ## Binary Tree
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
