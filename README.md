@@ -1,7 +1,7 @@
 LeetCode solutions
 ========
 
-- As for algorithms, solve by Python 3.
+- As for algorithms, solved mainly in Python 3, and partly in C++.
 - There are totally <big>**770**</big> solutions in this repo.
 - My leetcode profile: [https://leetcode.com/441858734/](https://leetcode.com/441858734/).
 
@@ -287,6 +287,8 @@ Table of Contents
 |No.827|[Making A Large Island](https://leetcode.com/problems/making-a-large-island/)|[Solution](./notes/0827/0827.py)|[Note](./notes/0827/note0827.md)|Easy|O(n^2)|O(n^2)|dfs|
 |No.1291|[Sequential Digits](https://leetcode.com/problems/sequential-digits/)|[Solution](./notes/1291/1291.py)|[Note](./notes/1291/note1291.md)|Medium|O(nlogn)|O(n)|dfs|
 |No.425|[Word Squares](https://leetcode.com/problems/word-squares/)|[Solution](./notes/0425/0425.py)|[Note](./notes/0425/not0425.md)|Hard|O(n)|O(n)|trie bfs|
+|No.847|[Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/)|[Solution](./notes/0847/0847.cpp)|[Note](./notes/0847/not0847.md)|Hard|O(nx2^n)|O(nx2^n)|bfs|
+
 
 ## Binary Search
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
