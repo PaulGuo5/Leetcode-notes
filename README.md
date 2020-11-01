@@ -545,7 +545,7 @@ Table of Contents
 |No.267|[Palindrome Permutation II](https://leetcode.com/problems/palindrome-permutation-ii/)|[Solution](./notes/0267/0267.py)|[Note](./notes/0267/note0267.md)|Medium|O(n^2)|O(n)|---|
 |No.1219|[Path with Maximum Gold](https://leetcode.com/problems/path-with-maximum-gold/)|[Solution](./notes/1219/1219.py)|[Note](./notes/1219/not1219.md)|Medium|O(n^2)|O(n)|dfs|
 |No.131|[Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)|[Solution](./notes/0131/0131.py)|[Note](./notes/0131/not0131.md)|Medium|O(n!)|O(n)|---|
-|No.37|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)|[Solution](./notes/0037/0037.py)|[Note](./notes/0037/note037.md)|Hard|O(nlogn)|O(n)|---|
+|No.37|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)|[Solution1](./notes/0037/0037.py)/[Solution2](./notes/0037/0037.cpp)|[Note](./notes/0037/note037.md)|Hard|O(nlogn)|O(n)|---|
 |No.51|[N-Queens](https://leetcode.com/problems/n-queens/)|[Solution](./notes/0051/0051.py)|[Note](./notes/0051/note051.md)|Hard|O(n!)|O(n)|---|
 |No.294|[Flip Game II](https://leetcode.com/problems/flip-game-ii/)|[Solution](./notes/0294/0294.py)|[Note](./notes/0294/not0294.md)|Medium|O(n)|O(n)|memo/min-max|
 |No.464|[Can I Win](https://leetcode.com/problems/can-i-win/)|[Solution](./notes/0464/0464.py)|[Note](./notes/0464/not0464.md)|Medium|O(2^n)|O(2^n)|memo|
