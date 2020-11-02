@@ -504,7 +504,7 @@ Table of Contents
 |No.130|[Surrounded Regions](https://leetcode.com/problems/surrounded-regions/)|[Solution](./notes/0130/0130.py)|[Note](./notes/0130/note0130.md)|Medium|O(n^2)|O(n)|dfs|
 |No.210|[Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)|[Solution](./notes/0210/0210.py)|[Note](./notes/0210/note0210.md)|Medium|O(n)|O(n)|topological sorting|
 |No.269|[Alien Dictionary](https://leetcode.com/problems/alien-dictionary/)|[Solution](./notes/0269/0269.py)|[Note](./notes/0269/note0269.md)|Hard|O(n)|O(n)|bfs|
-|No.684|[Redundant Connection](https://leetcode.com/problems/redundant-connection/)|[Solution](./notes/0684/0684.py)|[Note](./notes/0684/note0684.md)|Medium|O(n^2)/O(n)|O(n)|dfs/Union find|
+|No.684|[Redundant Connection](https://leetcode.com/problems/redundant-connection/)|[Python](./notes/0684/0684.py)/[Cpp](./notes/0684/0684.cpp)|[Note](./notes/0684/note0684.md)|Medium|O(n^2)/O(n^2)/O(n)|O(n)|bfs/dfs/Union find|
 |No.787|[Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/)|[Solution](./notes/0787/0787.py)|[Note](./notes/0787/note0787.md)|Medium|O(m+nlogn)|O(n)|Dijkstra+heap|
 |No.417|[Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/)|[Solution](./notes/0417/0417.py)|[Note](./notes/0417/note0417.md)|Medium|O(logn)|O(n)|dfs/bfs|
 |No.547|[Friend Circles](https://leetcode.com/problems/friend-circles/)|[Solution](./notes/0547/0547.py)|[Note](./notes/0547/note0547.md)|Medium|O(n)|O(n)|dfs|
