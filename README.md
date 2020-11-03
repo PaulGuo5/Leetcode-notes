@@ -5,7 +5,7 @@ LeetCode solutions
 - There are totally <big>**775**</big> solutions in this repo.
 - My leetcode profile: [https://leetcode.com/441858734/](https://leetcode.com/441858734/).
 
-Table of Contents
+Lists of topics
 =================
 
    * [LeetCode](#leetcode)
@@ -32,12 +32,7 @@ Table of Contents
 
 
 ## Leetcode
-[Leetcode website](https://leetcode.com/)      
-
-## Complexity
-[Time & Space Complexity](./classical_algorithm/TimeSpaceCpmlexity.md)
-
-
+[Leetcode website](https://leetcode.com/)
 
 
 
