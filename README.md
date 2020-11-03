@@ -2,7 +2,7 @@ LeetCode solutions
 ========
 
 - As for algorithms, solved mainly in Python 3, and partly in C++.
-- There are totally <big>**773**</big> solutions in this repo.
+- There are totally <big>**775**</big> solutions in this repo.
 - My leetcode profile: [https://leetcode.com/441858734/](https://leetcode.com/441858734/).
 
 Table of Contents
@@ -11,6 +11,7 @@ Table of Contents
    * [LeetCode](#leetcode)
       * [Bit Manipulation](#bit-manipulation)
       * [Array](#array)
+      * [String](#string)
       * [Linked List](#linked-List)
       * [Stack](#stack)
       * [Queue](#queue)
@@ -133,6 +134,7 @@ Table of Contents
 |No.948|[Bag of Tokens](https://leetcode.com/problems/bag-of-tokens/)|[Solution](./notes/0948/0948.py)|[Note](./notes/0948/note0948.md)|Medium|O(nlogn)|O(n)|greedy|
 |No.799|[Champagne Tower](https://leetcode.com/problems/champagne-tower/)|[Solution](./notes/0799/0799.py)|[Note](./notes/0799/note0799.md)|Medium|O(n^2)|O(n)|greedy simulation|
 |No.228|[Summary Ranges](https://leetcode.com/problems/summary-ranges/)|[Solution](./notes/0228/0228.py)|[Note](./notes/0228/note0228.md)|Easy|O(n)|O(n)|---|
+|No.239|[Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)|[Solution](./notes/0239/0239.cpp)|[Note](./notes/0239/note0239.md)|Hard|O(n)|O(n)|monotonic deque|
 
 ## String
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
@@ -186,6 +188,7 @@ Table of Contents
 |No.763|[Partition Labels](https://leetcode.com/problems/partition-labels/)|[Solution](./notes/0763/0763.py)|[Note](./notes/0763/note0763.md)|Medium|O(n)|O(n)|---|
 |No.524|[Longest Word in Dictionary through Deleting](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/)|[Solution](./notes/0524/0524.py)|[Note](./notes/0524/note0524.md)|Medium|O(nlogn)|O(n)|---|
 |No.316|[Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/)|[Solution](./notes/0316/0316.py)|[Note](./notes/0316/note0316.md)|Medium|O(n)|O(n)|---|
+|No.1446|[Consecutive Characters](https://leetcode.com/problems/consecutive-characters/)|[Solution](./notes/1446/1446.cpp)|[Note](./notes/1446/note1446.md)|Easy|O(n))|O(1)|---|
 
 ## Linked List
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
