@@ -2,7 +2,7 @@ LeetCode solutions
 ========
 
 - As for algorithms, solved mainly in Python 3, and partly in C++.
-- There are totally <big>**782**</big> solutions in this repo.
+- There are totally <big>**783**</big> solutions in this repo.
 - My leetcode profile: [https://leetcode.com/441858734/](https://leetcode.com/441858734/).
 
 Lists of topics
@@ -290,7 +290,7 @@ Lists of topics
 |No.425|[Word Squares](https://leetcode.com/problems/word-squares/)|[Solution](./notes/0425/0425.py)|[Note](./notes/0425/note0425.md)|Hard|O(n)|O(n)|trie bfs|
 |No.847|[Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/)|[Solution](./notes/0847/0847.cpp)|[Note](./notes/0847/note0847.md)|Hard|O(nx2^n)|O(nx2^n)|bfs|
 |No.433|[Minimum Genetic Mutation](https://leetcode.com/problems/minimum-genetic-mutation/)|[Solution](./notes/0433/0433.cpp)|[Note](./notes/0433/note0433.md)|Medium|O(n)|O(n)|bfs|
-
+|No.934|[Shortest Bridge](https://leetcode.com/problems/shortest-bridge/)|[Solution](./notes/0934/0934.cpp)|[Note](./notes/0934/note0934.md)|Medium|O(n)|O(n)|dfs+bfs|
 
 ## Binary Search
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
