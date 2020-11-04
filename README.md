@@ -131,6 +131,7 @@ Lists of topics
 |No.228|[Summary Ranges](https://leetcode.com/problems/summary-ranges/)|[Solution](./notes/0228/0228.py)|[Note](./notes/0228/note0228.md)|Easy|O(n)|O(n)|---|
 |No.239|[Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)|[Solution](./notes/0239/0239.cpp)|[Note](./notes/0239/note0239.md)|Hard|O(n)|O(n)|monotonic deque|
 |No.1395|[Count Number of Teams](https://leetcode.com/problems/count-number-of-teams/)|[Solution](./notes/1395/1395.cpp)|[Note](./notes/1395/note1395.md)|Medium|O(n^2)|O(n)|---|
+|No.1086|[High Five](https://leetcode.com/problems/high-five/)|[Solution](./notes/1086/1086.cpp)|[Note](./notes/1086/note1086.md)|Easy|O(n)|O(n)|---|
 
 
 ## String
