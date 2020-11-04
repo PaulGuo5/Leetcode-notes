@@ -2,7 +2,7 @@ LeetCode solutions
 ========
 
 - As for algorithms, solved mainly in Python 3, and partly in C++.
-- There are totally <big>**776**</big> solutions in this repo.
+- There are totally <big>**782**</big> solutions in this repo.
 - My leetcode profile: [https://leetcode.com/441858734/](https://leetcode.com/441858734/).
 
 Lists of topics
@@ -323,6 +323,8 @@ Lists of topics
 |No.1060|[Missing Element in Sorted Array](https://leetcode.com/problems/missing-element-in-sorted-array/)|[Solution](./notes/1060/1060.py)|[Note](./notes/1060/note1060.md)|Medium|O(nlogn)|O(1)|binary search|
 |No.1235|[Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/)|[Solution](./notes/1235/1235.py)|[Note](./notes/1235/note1235.md)|Hard|O(nlogn)|O(n)|binary search + dynamic programming|
 |No.431|[Encode N-ary Tree to Binary Tree](https://leetcode.com/problems/encode-n-ary-tree-to-binary-tree/)|[Solution](./notes/0431/0431.py)|[Note](./notes/0431/note0431.md)|Hard|O(n)|O(n)|---|
+|No.1482|[Minimum Number of Days to Make m Bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/)|[Solution](./notes/1482/1482.cpp)|[Note](./notes/1482/note1482.md)|Hard|O(nlog(maxA))|O(1)|---|
+
 
 ## Binary Tree
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
@@ -390,6 +392,9 @@ Lists of topics
 |No.979|[Distribute Coins in Binary Tree](https://leetcode.com/problems/distribute-coins-in-binary-tree/)|[Solution](./notes/0979/0979.py)|[Note](./notes/0979/note0979.md)|Medium|O(n)|O(1)|dfs + Bottom-up|
 |No.1120|[Maximum Average Subtree](https://leetcode.com/problems/maximum-average-subtree/)|[Solution](./notes/1120/1120.py)|[Note](./notes/1120/note1120.md)|Medium|O(n)|O(n)|Bottom-up dfs|
 |No.366|[Find Leaves of Binary Tree](https://leetcode.com/problems/find-leaves-of-binary-tree/)|[Solution](./notes/0366/0366.py)|[Note](./notes/0366/note0366.md)|Medium|O(n)|O(n)|dfs + Bottom-up|
+|No.1367|[Linked List in Binary Tree](https://leetcode.com/problems/linked-list-in-binary-tree/)|[Solution](./notes/1367/1367.py)|[Note](./notes/1367/note1367.md)|Medium|O(n)|O(n)|Bottom-up dfs|
+|No.958|[Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/)|[Solution](./notes/0958/0958.cpp)|[Note](./notes/0958/note0958.md)|Medium|O(n)|O(n)|bfs, level traversal|
+
 
 
 ## Hash Table
@@ -424,7 +429,7 @@ Lists of topics
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
 |---|-----|--------|----|----------|----|-----|---|
 |No.253|[Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)|[Solution](./notes/0253/0253.py)|[Note](./notes/0253/note253.md)|Medium|O(nlogn)|O(n)|heapq|
-|No.1167|[inimum Cost to Connect Sticks](https://leetcode.com/problems/minimum-cost-to-connect-sticks/)|[Solution](./notes/1167/1167.py)|[Note](./notes/1167/not1167.md)|Medium|O(nlogn)|O(n)|heapq|
+|No.1167|[Minimum Cost to Connect Sticks](https://leetcode.com/problems/minimum-cost-to-connect-sticks/)|[Solution](./notes/1167/1167.py)|[Note](./notes/1167/not1167.md)|Medium|O(nlogn)|O(n)|heapq|
 |No.743|[Network Delay Time](https://leetcode.com/problems/network-delay-time/)|[Solution](./notes/0743/0743.py)|[Note](./notes/0743/not0743.md)|Medium|O(n)|O(n)|graph+heap/queue|
 |No.373|[Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/)|[Solution](./notes/0373/0373.py)|[Note](./notes/0373/not0373.md)|Medium|O(nlogn)|O(n)|heapq|
 |No.378|[Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)|[Solution](./notes/0378/0378.py)|[Note](./notes/0378/not0378.md)|Medium|O(nlogn)|O(n)|heapq|
@@ -432,7 +437,7 @@ Lists of topics
 |No.703|[Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)|[Solution](./notes/0703/0703.py)|[Note](./notes/0703/not0703.md)|Easy|O(nlogn)|O(n)|heapq|
 |No.786|[K-th Smallest Prime Fraction](https://leetcode.com/problems/k-th-smallest-prime-fraction/)|[Solution](./notes/0786/0786.py)|[Note](./notes/0786/not0786.md)|Hard|O(nlogn)|O(n)|heapq|
 |No.767|[Reorganize String](https://leetcode.com/problems/reorganize-string/)|[Solution](./notes/0767/0767.py)|[Note](./notes/0767/not0767.md)|Medium|O(nlogn)|O(n)|heapq|
-
+|No.1642|[Furthest Building You Can Reach](https://leetcode.com/problems/furthest-building-you-can-reach/)|[Solution](./notes/1642/1642.cpp)|[Note](./notes/1642/not1642.md)|Medium|O(nlogn)|O(n)|priority queue|
 
 
 ## Binary Search Tree
@@ -489,7 +494,7 @@ Lists of topics
 |No.1237|[Find Positive Integer Solution for a Given Equation](https://leetcode.com/problems/find-positive-integer-solution-for-a-given-equation/)|[Solution](./notes/1237/1237.py)|[Note](./notes/1237/note1237.md)|Easy|O(n)|O(n)|2 pointers|
 |No.855|[Exam Room](https://leetcode.com/problems/exam-room/)|[Solution](./notes/0855/0855.py)|[Note](./notes/0855/note0855.md)|Medium|O(n)|O(n)|bisect.insort|
 |No.1041|[Robot Bounded In Circle](https://leetcode.com/problems/robot-bounded-in-circle/)|[Solution](./notes/1041/1041.py)|[Note](./notes/1041/note1041.md)|Medium|O(n)|O(1)|---|
-
+|No.775|[Global and Local Inversions](https://leetcode.com/problems/global-and-local-inversions/)|[Solution](./notes/0775/0775.cpp)|[Note](./notes/0775/note0775.md)|Medium|O(n)|O(1)|---|
 
 ## Graph
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
