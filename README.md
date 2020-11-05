@@ -2,7 +2,7 @@ LeetCode solutions
 ========
 
 - As for algorithms, solved mainly in Python 3, and partly in C++.
-- There are totally <big>**783**</big> solutions in this repo.
+- There are totally <big>**785**</big> solutions in this repo.
 - My leetcode profile: [https://leetcode.com/441858734/](https://leetcode.com/441858734/).
 
 Lists of topics
@@ -132,7 +132,7 @@ Lists of topics
 |No.239|[Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)|[Solution](./notes/0239/0239.cpp)|[Note](./notes/0239/note0239.md)|Hard|O(n)|O(n)|monotonic deque|
 |No.1395|[Count Number of Teams](https://leetcode.com/problems/count-number-of-teams/)|[Solution](./notes/1395/1395.cpp)|[Note](./notes/1395/note1395.md)|Medium|O(n^2)|O(n)|---|
 |No.1086|[High Five](https://leetcode.com/problems/high-five/)|[Solution](./notes/1086/1086.cpp)|[Note](./notes/1086/note1086.md)|Easy|O(n)|O(n)|---|
-
+|No.163|[Missing Ranges](https://leetcode.com/problems/missing-ranges/)|[Solution](./notes/0163/0163.cpp)|[Note](./notes/0163/note0163.md)|Easy|O(n)|O(n)|---|
 
 ## String
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
@@ -291,6 +291,8 @@ Lists of topics
 |No.847|[Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/)|[Solution](./notes/0847/0847.cpp)|[Note](./notes/0847/note0847.md)|Hard|O(nx2^n)|O(nx2^n)|bfs|
 |No.433|[Minimum Genetic Mutation](https://leetcode.com/problems/minimum-genetic-mutation/)|[Solution](./notes/0433/0433.cpp)|[Note](./notes/0433/note0433.md)|Medium|O(n)|O(n)|bfs|
 |No.934|[Shortest Bridge](https://leetcode.com/problems/shortest-bridge/)|[Solution](./notes/0934/0934.cpp)|[Note](./notes/0934/note0934.md)|Medium|O(n)|O(n)|dfs+bfs|
+|No.529|[Minesweeper](https://leetcode.com/problems/minesweeper/)|[Solution](./notes/0529/0529.cpp)|[Note](./notes/0529/note0529.md)|Medium|O(n)|O(1)|dfs|
+
 
 ## Binary Search
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
