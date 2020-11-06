@@ -2,7 +2,7 @@ LeetCode solutions
 ========
 
 - As for algorithms, solved mainly in Python 3, and partly in C++.
-- There are totally <big>**787**</big> solutions in this repo.
+- There are totally <big>**789**</big> solutions in this repo.
 - My leetcode profile: [https://leetcode.com/441858734/](https://leetcode.com/441858734/).
 
 Lists of topics
@@ -292,6 +292,9 @@ Lists of topics
 |No.433|[Minimum Genetic Mutation](https://leetcode.com/problems/minimum-genetic-mutation/)|[Solution](./notes/0433/0433.cpp)|[Note](./notes/0433/note0433.md)|Medium|O(n)|O(n)|bfs|
 |No.934|[Shortest Bridge](https://leetcode.com/problems/shortest-bridge/)|[Solution](./notes/0934/0934.cpp)|[Note](./notes/0934/note0934.md)|Medium|O(n)|O(n)|dfs+bfs|
 |No.529|[Minesweeper](https://leetcode.com/problems/minesweeper/)|[Solution](./notes/0529/0529.cpp)|[Note](./notes/0529/note0529.md)|Medium|O(n)|O(1)|dfs|
+|No.996|[Number of Squareful Arrays](https://leetcode.com/problems/number-of-squareful-arrays/)|[Solution](./notes/0996/0996.cpp)|[Note](./notes/0996/note0996.md)|Hard|O(n)|O(1)|permutation dfs|
+|No.818|[Race Car](https://leetcode.com/problems/race-car/)|[Solution](./notes/0818/0818.cpp)|[Note](./notes/0818/note0818.md)|Hard|O(2^n)|O(n)|bfs|
+
 
 
 ## Binary Search
