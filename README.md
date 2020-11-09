@@ -2,7 +2,7 @@ LeetCode solutions
 ========
 
 - As for algorithms, solved mainly in Python 3, and partly in C++.
-- There are totally <big>**789**</big> solutions in this repo.
+- There are totally <big>**790**</big> solutions in this repo.
 - My leetcode profile: [https://leetcode.com/441858734/](https://leetcode.com/441858734/).
 
 Lists of topics
@@ -399,7 +399,7 @@ Lists of topics
 |No.366|[Find Leaves of Binary Tree](https://leetcode.com/problems/find-leaves-of-binary-tree/)|[Solution](./notes/0366/0366.py)|[Note](./notes/0366/note0366.md)|Medium|O(n)|O(n)|dfs + Bottom-up|
 |No.1367|[Linked List in Binary Tree](https://leetcode.com/problems/linked-list-in-binary-tree/)|[Solution](./notes/1367/1367.py)|[Note](./notes/1367/note1367.md)|Medium|O(n)|O(n)|Bottom-up dfs|
 |No.958|[Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/)|[Solution](./notes/0958/0958.cpp)|[Note](./notes/0958/note0958.md)|Medium|O(n)|O(n)|bfs, level traversal|
-
+|No.1026|[Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/)|[Solution](./notes/1026/1026.cpp)|[Note](./notes/1026/note1026.md)|Medium|O(n)|O(n)|Bottom-up dfs|
 
 
 ## Hash Table
