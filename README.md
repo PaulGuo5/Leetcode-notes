@@ -2,7 +2,7 @@ LeetCode solutions
 ========
 
 - As for algorithms, solved mainly in Python 3, and partly in C++.
-- There are totally <big>**791**</big> solutions in this repo.
+- There are totally <big>**792**</big> solutions in this repo.
 - My leetcode profile: [https://leetcode.com/441858734/](https://leetcode.com/441858734/).
 
 Lists of topics
@@ -455,6 +455,8 @@ Lists of topics
 |No.270|[Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value/)|[Solution](./notes/0270/0270.py)|[Note](./notes/0270/note0270.md)|Easy|O(nlogn)|O(1)|---|
 |No.1382|[Balance a Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree/)|[Solution](./notes/1382/1382.py)|[Note](./notes/1382/note1382.md)|Medium|O(n)|O(n)|AVL|
 |No.1305|[All Elements in Two Binary Search Trees](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/)|[Solution](./notes/1305/1305.py)|[Note](./notes/1305/note1305.md)|Medium|O(n)|O(n)|inorder + merge sort|
+|No.501|[Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/)|[Solution](./notes/0501/0501.cpp)|[Note](./notes/0501/note0501.md)|Easy|O(n)|O(1)|inorder|
+
 
 ## Math
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
@@ -546,7 +548,8 @@ Lists of topics
 |No.841|[Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/)|[Solution](./notes/0841/0841.py)|[Note](./notes/0841/note0841.md)|Medium|O(V+E)|O(V)|dfs bfs|
 |No.1202|[Smallest String With Swaps](https://leetcode.com/problems/smallest-string-with-swaps/)|[Solution](./notes/1202/1202.py)|[Note](./notes/1202/note1202.md)|Medium|O(nlogn)|O(n)|union find|
 |No.785|[Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/)|[Cpp](./notes/0785/0785.cpp)|[Note](./notes/0785/note0785.md)|Medium|O(V+E)|O(V)|bfs,bipartition,graph coloring|
-|No.1129|[Shortest Path with Alternating Colors](https://leetcode.com/problems/shortest-path-with-alternating-colors/)|[Solution](./notes/1129/1129.py)|[Note](./notes/1129/note1129.md)|Medium|O(n)|O(n)|bfs|
+|No.1129|[Shortest Path with Alternating Colors](https://leetcode.com/problems/shortest-path-with-alternating-colors/)|[Solution](./notes/1129/1129.cpp)|[Note](./notes/1129/note1129.md)|Medium|O(n)|O(n)|bfs|
+|No.1334|[Find the City With the Smallest Number of Neighbors at a Threshold Distance](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/)|[Solution](./notes/1334/1334.cpp)|[Note](./notes/1334/note1334.md)|Medium|O(n^3)|O(n^2)|Floyd–Warshall algorithm|
 
 
 ## Backtracking
