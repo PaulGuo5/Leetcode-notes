@@ -2,7 +2,7 @@ LeetCode solutions
 ========
 
 - As for algorithms, solved mainly in Python 3, and partly in C++.
-- There are totally <big>**790**</big> solutions in this repo.
+- There are totally <big>**791**</big> solutions in this repo.
 - My leetcode profile: [https://leetcode.com/441858734/](https://leetcode.com/441858734/).
 
 Lists of topics
@@ -546,6 +546,8 @@ Lists of topics
 |No.841|[Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/)|[Solution](./notes/0841/0841.py)|[Note](./notes/0841/note0841.md)|Medium|O(V+E)|O(V)|dfs bfs|
 |No.1202|[Smallest String With Swaps](https://leetcode.com/problems/smallest-string-with-swaps/)|[Solution](./notes/1202/1202.py)|[Note](./notes/1202/note1202.md)|Medium|O(nlogn)|O(n)|union find|
 |No.785|[Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/)|[Cpp](./notes/0785/0785.cpp)|[Note](./notes/0785/note0785.md)|Medium|O(V+E)|O(V)|bfs,bipartition,graph coloring|
+|No.1129|[Shortest Path with Alternating Colors](https://leetcode.com/problems/shortest-path-with-alternating-colors/)|[Solution](./notes/1129/1129.py)|[Note](./notes/1129/note1129.md)|Medium|O(n)|O(n)|bfs|
+
 
 ## Backtracking
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
