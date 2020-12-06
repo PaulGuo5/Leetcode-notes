@@ -505,7 +505,7 @@ Lists of topics
 |No.1041|[Robot Bounded In Circle](https://leetcode.com/problems/robot-bounded-in-circle/)|[Solution](./notes/1041/1041.py)|[Note](./notes/1041/note1041.md)|Medium|O(n)|O(1)|---|
 |No.775|[Global and Local Inversions](https://leetcode.com/problems/global-and-local-inversions/)|[Solution](./notes/0775/0775.cpp)|[Note](./notes/0775/note0775.md)|Medium|O(n)|O(1)|---|
 |No.1217|[Minimum Cost to Move Chips to The Same Position](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/)|[Solution](./notes/1217/1217.cpp)|[Note](./notes/1217/note1217.md)|Easy|O(n)|O(1)|---|
-
+|No.1492|[The kth Factor of n](https://leetcode.com/problems/the-kth-factor-of-n/)|[Solution](./notes/1492/1492.cpp)|[Note](./notes/1492/note1492.md)|Medium|O(n)|O(1)|---|
 
 ## Graph
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
