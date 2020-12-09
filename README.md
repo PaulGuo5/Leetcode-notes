@@ -417,6 +417,8 @@ Lists of topics
 |No.128|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)|[Solution](./notes/0128/0128.py)|[Note](./notes/0128/note128.md)|Hard|O(n)|O(n)|---|
 |No.170|[Two Sum III - Data structure design](https://leetcode.com/problems/two-sum-iii-data-structure-design/)|[Solution](./notes/0170/0170.py)|[Note](./notes/0170/note170.md)|Easy|O(n)|O(n)|---|
 |No.454|[4Sum II](https://leetcode.com/problems/4sum-ii/)|[Solution](./notes/0454/0454.cpp)|[Note](./notes/0454/note454.md)|Medium|O(n^2)|O(n)|---|
+|No.1169|[Invalid Transactions](https://leetcode.com/problems/invalid-transactions/)|[cpp](./notes/1169/1169.cpp)|[Note](./notes/1169/not1169.md)/[python](./notes/1169/1169.py)|[Note](./notes/1169/not1169.md)|Medium|O(n^2)|O(n)|---|
+
 
 ## Sort
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
