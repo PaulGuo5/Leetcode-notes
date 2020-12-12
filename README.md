@@ -2,7 +2,7 @@ LeetCode solutions
 ========
 
 - As for algorithms, solved mainly in Python 3, and partly in C++.
-- There are totally <big>**794**</big> solutions in this repo.
+- There are totally <big>**798**</big> solutions in this repo.
 - My leetcode profile: [https://leetcode.com/441858734/](https://leetcode.com/441858734/).
 
 Lists of topics
@@ -134,6 +134,9 @@ Lists of topics
 |No.1086|[High Five](https://leetcode.com/problems/high-five/)|[Solution](./notes/1086/1086.cpp)|[Note](./notes/1086/note1086.md)|Easy|O(n)|O(n)|---|
 |No.163|[Missing Ranges](https://leetcode.com/problems/missing-ranges/)|[Solution](./notes/0163/0163.cpp)|[Note](./notes/0163/note0163.md)|Easy|O(n)|O(n)|---|
 |No.334|[Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/)|[Solution](./notes/0334/0334.cpp)|[Note](./notes/0334/note0334.md)|Medium|O(n)|O(1)|---|
+|No.611|[Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/)|[Solution](./notes/0611/0611.cpp)|[Note](./notes/0611/note0611.md)|Medium|O(n^2)|O(n)|2 pointers|
+
+
 
 ## String
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
