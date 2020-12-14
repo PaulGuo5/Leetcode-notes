@@ -680,6 +680,7 @@ Lists of topics
 |No.1286|[Iterator for Combination](https://leetcode.com/problems/iterator-for-combination/)|[Solution](./notes/1286/1286.py)|[Note](./notes/1286/note1286.md)|Medium|O(C(n,k))|O(k)|---|
 |No.635|[Design Log Storage System](https://leetcode.com/problems/design-log-storage-system/)|[Solution](./notes/0635/0635.py)|[Note](./notes/0635/note0635.md)|Medium|O(n)|O(n)|---|
 |No.1472|[Design Browser History](https://leetcode.com/problems/design-browser-history/)|[Solution](./notes/1472/1472.cpp)|[Note](./notes/1472/note1472.md)|Medium|O(1)|O(n)|---|
+|No.1244|[Design A Leaderboard](https://leetcode.com/problems/design-a-leaderboard/)|[Solution](./notes/1244/1244.cpp)|[Note](./notes/1244/note1244.md)|Medium|O(n)|O(logn)|hash table+set|
 
 
 ## SQL
