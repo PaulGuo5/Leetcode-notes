@@ -191,6 +191,7 @@ Lists of topics
 |No.524|[Longest Word in Dictionary through Deleting](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/)|[Solution](./notes/0524/0524.py)|[Note](./notes/0524/note0524.md)|Medium|O(nlogn)|O(n)|---|
 |No.316|[Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/)|[Solution](./notes/0316/0316.py)|[Note](./notes/0316/note0316.md)|Medium|O(n)|O(n)|---|
 |No.1446|[Consecutive Characters](https://leetcode.com/problems/consecutive-characters/)|[Solution](./notes/1446/1446.cpp)|[Note](./notes/1446/note1446.md)|Easy|O(n))|O(1)|---|
+|No.1614|[Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/)|[Solution](./notes/1614/1614.cpp)|[Note](./notes/1614/note1614.md)|Easy|O(n))|O(1)|---|
 
 ## Linked List
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
