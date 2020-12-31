@@ -2,7 +2,7 @@ LeetCode solutions
 ========
 
 - As for algorithms, solved mainly in Python 3, and partly in C++.
-- There are totally <big>**803**</big> solutions in this repo.
+- There are totally <big>**804**</big> solutions in this repo.
 - My leetcode profile: [https://leetcode.com/441858734/](https://leetcode.com/441858734/).
 
 Lists of topics
@@ -335,7 +335,7 @@ Lists of topics
 |No.1235|[Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/)|[Solution](./notes/1235/1235.py)|[Note](./notes/1235/note1235.md)|Hard|O(nlogn)|O(n)|binary search + dynamic programming|
 |No.431|[Encode N-ary Tree to Binary Tree](https://leetcode.com/problems/encode-n-ary-tree-to-binary-tree/)|[Solution](./notes/0431/0431.py)|[Note](./notes/0431/note0431.md)|Hard|O(n)|O(n)|---|
 |No.1482|[Minimum Number of Days to Make m Bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/)|[Solution](./notes/1482/1482.cpp)|[Note](./notes/1482/note1482.md)|Hard|O(nlog(maxA))|O(1)|---|
-
+|No.1095|[Find in Mountain Array](https://leetcode.com/problems/find-in-mountain-array/)|[Solution](./notes/1095/1095.py)|[Note](./notes/1095/note1095.md)|Hard|O(logn)|O(1)|---|
 
 ## Binary Tree
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
