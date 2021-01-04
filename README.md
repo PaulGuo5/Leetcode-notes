@@ -2,7 +2,7 @@ LeetCode solutions
 ========
 
 - As for algorithms, solved mainly in Python 3, and partly in C++.
-- There are totally <big>**806**</big> solutions in this repo.
+- There are totally <big>**807**</big> solutions in this repo.
 - My leetcode profile: [https://leetcode.com/441858734/](https://leetcode.com/441858734/).
 
 Lists of topics
@@ -661,6 +661,8 @@ Lists of topics
 |No.932|[Beautiful Array](https://leetcode.com/problems/beautiful-array/)|[Solution](./notes/0932/0932.py)|[Note](./notes/0932/note0932.md)|Medium|O(nlogn)|O(n)|---|
 |No.241|[Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/)|[Solution](./notes/0241/0241.py)|[Note](./notes/0241/note0241.md)|Medium|O(n^3)|O(n)|memo|
 |No.395|[Longest Substring with At Least K Repeating Characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/)|[Solution](./notes/0395/0395.cpp)|[Note](./notes/0395/note0395.md)|Medium|O(n^2)|O(n)|---|
+|No.1274|[Number of Ships in a Rectangle](https://leetcode.com/problems/number-of-ships-in-a-rectangle/)|[Solution](./notes/1274/1274.py)|[Note](./notes/1274/note1274.md)|Medium|O(logn)|O(logn)|---|
+
 
 ## Design
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
