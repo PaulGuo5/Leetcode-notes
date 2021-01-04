@@ -652,7 +652,7 @@ Lists of topics
 |No.1289|[Minimum Falling Path Sum II](https://leetcode.com/problems/minimum-falling-path-sum-ii/)|[Solution](./notes/1289/1289.py)|[Note](./notes/1289/note1289.md)|Hard|O(n^2)|O(1)|---|
 |No.1235|[Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/)|[Solution](./notes/1235/1235.py)|[Note](./notes/1235/note1235.md)|Hard|O(nlogn)|O(n)|binary search + dynamic programming|
 |No.1510|[Stone Game IV](https://leetcode.com/problems/stone-game-iv/)|[Solution](./notes/1510/1510.py)|[Note](./notes/1510/note1510.md)|Hard|O(n)|O(n)|---|
-
+|No.1478|[Allocate Mailboxes](https://leetcode.com/problems/allocate-mailboxes/)|[Solution](./notes/1478/1478.py)|[Note](./notes/1478/note1478.md)|Hard|O(n^3)|O(n)|---|
 
 ## Divide and Conquer
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
