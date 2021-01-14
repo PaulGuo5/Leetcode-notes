@@ -2,7 +2,7 @@ LeetCode solutions
 ========
 
 - As for algorithms, solved mainly in Python 3, and partly in C++.
-- There are totally <big>**807**</big> solutions in this repo.
+- There are totally <big>**808**</big> solutions in this repo.
 - My leetcode profile: [https://leetcode.com/441858734/](https://leetcode.com/441858734/).
 
 Lists of topics
@@ -407,6 +407,7 @@ Lists of topics
 |No.958|[Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/)|[Solution](./notes/0958/0958.cpp)|[Note](./notes/0958/note0958.md)|Medium|O(n)|O(n)|bfs, level traversal|
 |No.1026|[Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/)|[Solution](./notes/1026/1026.cpp)|[Note](./notes/1026/note1026.md)|Medium|O(n)|O(n)|Bottom-up dfs|
 |No.1457|[Pseudo-Palindromic Paths in a Binary Tree](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/)|[Solution](./notes/1457/1457.cpp)|[Note](./notes/1457/note1457.md)|Medium|O(n)|O(h)|dfs|
+|No.1104|[Path In Zigzag Labelled Binary Tree](https://leetcode.com/problems/path-in-zigzag-labelled-binary-tree/)|[cpp](./notes/1104/1104.cpp)/[python](./notes/1104/1104.py)|[Note](./notes/1104/note1104.md)|Medium|O(logn)|O(n)|---|
 
 ## Hash Table
 |NO.|Title|Solution|Note|Difficulty|Time|Space|Tag|
